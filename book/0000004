@@ -1,12 +1,32 @@
-I got into The Book Of Why, written by Dana Mackenzie and Judea Pearl. An highly
-academic history of statistical correlations and causal models. It was really
-hard for me to go through it and it is probably a really bad audiobook because
-matter of the content are a lot of algebra and formulas I did not follow at all.
-I could have perfectly lived only with checking the last chapter where the real
-point is made. The book is leading in an argument for causal models in machine
-learning and artificial intelligence research and that machines will never be
-able to understand the world without them.
+I got into The Book Of Why, written by Dana Mackenzie and Judea Pearl. A highly
+academic history of statistical correlations and causal models. Goal of the
+authors is to find ways to make machines understand the world. Hashtag
+artificial intelligence. Hashtag machine learning. It was really hard for me to
+go through the book and it is probably a really bad audiobook, because the
+stories being told make use of a lot of algebra and formulas, which I did not
+follow at all. My expectation of what the book is about was something different
+in the first place. The idea of the book though is interesting and makes sense.
+Here the implementation might be a bit unfortunate. At the end of the day it
+comes down to the difference between the analogue and digital world and that it
+is really really hard for humans to synchronise these two things. Machines do
+not understand our world because they do not operate within it as we do. There
+are so many signals and so much input that machines as of now simply lack to
+consume and process. When you look at it that way, we are not more than
+sophisticated signal processing machines as well. We are so good that we form
+our environment to our liking. Your brain is simply put not more than a signal
+processing organ only being concerned about the patterns of information flowing
+in and flowing out. This is also why there is rarely a black and white wrong or
+right. Because millions of thresholds have to be passed in order to make up some
+kind of greyish result in your head. No matter if you think about which Cheeto
+to eat next or pondering on the relative velocity of light. I personally could
+have perfectly lived only with checking the last chapter of the book where the
+real point is made. The book is leading in an argument for causal models in
+machine learning and artificial intelligence research and that machines will
+never be able to understand the world without them. The argument makes sense but
+we still fail to find such causal models being hard coded within humans at the
+same time. When you are geeky enough for that thing, go for it. Keep grinding.
 
 • https://www.audible.de/pd/The-Book-of-Why-Hoerbuch/B07CYLKQLF
 • https://www.researchgate.net/publication/236887179_Introduction_to_Judea_Pearl's_Do-Calculus
+• https://en.wikipedia.org/wiki/Machine_learning
 • https://en.wikipedia.org/wiki/Causal_model
