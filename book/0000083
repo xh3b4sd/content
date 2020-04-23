@@ -1,0 +1,18 @@
+I got into Accelerate, written by Nicole Forsgren. This book is about software
+delivery best practices. The authors also work on The State Of DevOps Reports
+which evolve around the principles of Westrum's theorem of organizational
+structure. The reports they make try to find correlations between high
+performing teams, company culture and especially mental health issues like
+burnout. That might be interesting to think about but I would not say this book
+here is a particularly good place to start with. While there have been a couple
+of interesting numbers in the book, it turned into a guide of how to create a
+survey based on psychometrics. It was super dry and not really enjoyable.
+Interestingly there was nothing new to me in terms of best practises. Like yeah,
+you need CI and release often. One key aspect struck me though. Success in a
+team is about certain dynamics and I found this super interesting to ponder on.
+So what a successful company should do is to invest into the right primitives so
+that a system can be designed as such that it enables and promotes reliable
+agility for the people operating within it.
+
+• https://www.audible.de/pd/Accelerate-Building-and-Scaling-High-Performing-Technology-Organizations-Hoerbuch/B07BM6YM87
+• https://en.wikipedia.org/wiki/Ron_Westrum
