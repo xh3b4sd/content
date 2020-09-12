@@ -11,7 +11,7 @@ definition of measuring, which is not to remove uncertainty by 100%, but only to
 reduce it. You make then use of something like 90% confidence intervals with
 lower and upper boundaries. One common myth in statistics is the amount of data
 necessary in order to be significant. There is no real standard for any problem
-scientists agree on, but best practises. Any scientific branch seems to define
+scientists agree on, but best practices. Any scientific branch seems to define
 their own minimally required amount of data depending on the problem domain. One
 example would be to define a 90% confidence interval for assessing the average
 weight of a jelly bean. You do not need more than 5 or 6 data points to make a
