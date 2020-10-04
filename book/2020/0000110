@@ -1,0 +1,20 @@
+I got into Creative Selection, written by Ken Kocienda. Here you get a little
+bit of the "behind the curtain" insights of the Apple design process. Kocienda
+was part of the initial webkit development. There are quite a couple of
+interesting take aways. They wanted to build the fastest web browser. So one
+strategy of theirs in order to get there was to not apply any changes to the
+code base which slow down the overall performance. The pageload test was hooked
+up with their continuous integration processes. Over time there was a natural
+development towards faster performance only due to this very simple integrated
+guideline. Further, together with his teams, Kocienda worked on the first iPhone
+and iPad prototypes and he helped leading these products to their official
+releases. They designed and implemented the first digital keyboards on touch
+screens, ever. The insights evolve a little bit around the pathology of a
+software engineer. All kinds of best practices are elaborated. Though one thing
+where it boils down to and what may not be as easy to copy is a certain sense of
+taste. It appears that a lot of Apple's internal design process evolves around
+simplicity, practicality and a gut feeling. One thing that sticks to me is this.
+Design is how it works.
+
+• https://www.audible.de/pd/Creative-Selection-Hoerbuch/B07FFTN43T
+• https://twitter.com/kocienda
