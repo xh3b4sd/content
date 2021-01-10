@@ -1,0 +1,23 @@
+I got into Algorithms To Live By, written by Brian Christian. That one might be
+a bit nerdy but I love it. The book is about all kinds of problem domains like
+sorting, caching and scheduling. A good one here was the optimal stopping
+problem. You have a task and incomplete information. You need to find the best
+solution. In a dataset with fat tails you can do sufficiently well by simply
+taking the best option out of 37, since in a normal distribution your
+input/output ratio of energy invested does not lead to dramatically better
+results anymore. All things considered on average, you know. Translated, this
+means you would be good to simply marry the best out of 37 people you mated
+with. True story. Another fascinating concept explained in this book is network
+congestion. I could even draw parallels between networks and markets. Networks
+reach the tipping point of maximum bandwitdh at any given point in time. The
+underlying protocols then send more or less data packets accordingly. That is
+how something like a more or less fluid data stream is realized. The same is
+true for e.g. asset prices. An asset price goes up and down depending on market
+signals. In that sense a market kind of congests until it reaches a tipping
+point. I was so fascinated thinking about complex systems that way. I want to
+listen to Algorithms To Live By again because it was such a rich source of
+inspiration for me. Recommend!
+
+• https://www.audible.de/pd/Algorithms-to-Live-By-Hoerbuch/B01D24KJMO
+• https://en.wikipedia.org/wiki/Brian_Christian
+• https://en.wikipedia.org/wiki/Additive_increase/multiplicative_decrease
