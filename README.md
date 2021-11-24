@@ -9,3 +9,4 @@ This repository is a collection of all kinds of content I create.
 - [poem](poem/) contains poems I write once in a while to express my emotions
 - [question](question/) contains questions which became essential to ask on my way
 - [quote](quote/) contains quotes that define who I want to be
+- [shodo](shodo/) contains the SVG files of my Shodo NFT collection
