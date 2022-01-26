@@ -1,4 +1,4 @@
-Best #practices do not always #help getting the implementation #philosophy
-right. Domain specific #principles are not just freely interchangeable. There is
-a fundamental #difference between reading and writing operations. One is about
-#information. The other is about #behaviour.
+Best practices do not always help getting the implementation philosophy right.
+Domain specific principles are not just freely interchangeable. There is a
+fundamental difference between reading and writing operations. One is about
+information. The other is about behaviour.
