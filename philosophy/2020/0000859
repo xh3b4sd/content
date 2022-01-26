@@ -1,4 +1,3 @@
-Don't #create unnecessary #dependencies between components within #complex
-#systems. Adding #friction is super #easy. Removing it is a #hell of a ride and
-can drag on #forever. You can just prevent that by making more #conscious design
-#decisions.
+Don't create unnecessary dependencies between components within complex systems.
+Adding friction is super easy. Removing it is a hell of a ride and can drag on
+forever. You can just prevent that by making more conscious design decisions.
