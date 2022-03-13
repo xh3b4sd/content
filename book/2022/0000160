@@ -1,0 +1,16 @@
+I got into Inside The Black Box, written by Rishi Narang. The book provides an
+overview of quant trading. That is the automated, data driven approach to
+managing money in an adversarial trading environment. Interesting here is the
+idea of trading model design. An automated trading strategy is conceptually
+broken down into different models, each responsible for different aspects of a
+trade. Here we have the alpha model, risk model, cost model and execution model.
+In that way a trading strategy can be designed and implemented while focusing on
+what is important on each of the different stages of a trade. Another
+interesting insight in the book was data sourcing. Data is the input for any
+trading strategy and data has to come from somewhere. Data has usually to be
+prepared before usage in structure and quality. Data sourcing is usually
+expensive, because data is vast and comes at a costs to fetch, store and use.
+Inside The Black Box is a really nice book if one is interested to get a glimpse
+at the world of quant trading.
+
+• https://www.audible.de/pd/Inside-the-Black-Box-Hoerbuch/1663706735
