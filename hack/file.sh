@@ -1,5 +1,5 @@
 # Create numbered files in the given range.
-for i in `seq -w 1187 1209`
+for i in `seq -w 1230 1240`
 do
-  touch "philosophy/2022/000$i"
+  touch "philosophy/2023/000$i"
 done
