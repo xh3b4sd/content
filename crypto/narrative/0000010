@@ -1,0 +1,85 @@
+MEMO W06 FEB 2024
+
+> Nobody anticipates the very rare events eventually unfolding in front of their
+> eyes, because they never happened in a lifetime. - [xh3b4sd]
+
+This week I realized it has become all about crypto adoption. Traditional
+venture capital has apparently not woken up to it yet. And maybe that is where a
+lot of the opportunity in front of us is still coming from. We do still appear
+to be quite early. We hear people say crypto has no use cases. Let's see. For
+some time now stablecoins are wildly used by the average person in countries
+that operate less reliable financial institutions. Among the top ten countries
+by crypto adoption there are Vietnam, India, Argentina, Brazil, Nigeria and
+Kenya. The citizens of those countries use stablecoins for everyday payments. In
+parts stablecoins are even used to escape the collapse of the respective local
+fiat currency. Now, stablecoins are only one use case with a broader user base.
+Farcaster experienced exponential growth over the past two weeks in the
+decentralized social sector. I am personally at a point where Warpcast is my go
+to Farcaster client allowing me to substantially reduce my Twitter usage. I
+would say Warpcast/Twitter is 80/20 for me right now and the comparison is not
+even close. The engagement levels with real people on Warpcast are already on
+par or even better than on Twitter. I for one found a new home. Another form of
+crypto adoption was highlighted this week by the news of a partnership between
+GoDaddy and ENS. GoDaddy is a domain service registrar and ENS is the Ethereum
+name service. All GoDaddy domains can now resolve to ENS names with a little
+configuration. That means ENS users can send and receive funds using their
+GoDaddy domain as alias for their Ethereum wallet address. And yet another
+crypto native sector is seeing more and more popularity with prediction markets.
+I started looking at all kinds of prediction markets on the Polymarket platform
+in order to gauge sentiment for several political, regulatory and financial
+issues. Polymarket predicts for instance that Donald Trump will become the next
+president of the United States. Among many others, there is a prediction market
+on the Polymarket platform estimating the approval date of an ETH Spot ETF. One
+thing I tried to figure out here is the historically proven efficacy of resolved
+prediction markets. It would be great to understand how much of a predictive
+property the Polymarket platform is actually able to generate over time. So far
+I couldn't find a Dune dashboard and creating a Dune query myself appeared to be
+too complicate of a task for me at the moment. If you, dear reader, come across
+such a Dune query or if you are able to create a Dune dashboard for Polymarket's
+efficacy please let me know. I would also be happy to offer a little bounty for
+that accomplishment. And just in line with the theme of crypto adoption there
+was an article pointing out what kind of services various banks and financial
+institutions do already offer. Among others, we see crypto trading, crypto
+custody, private crypto funds, public crypto ETFs, crypto enabled payments and
+tokenization of real world assets. Good morning Larry Fink! And on top of all of
+the above we see constant net positive BTC ETF inflows every day now after the
+Grayscale bleed tapered off. The institutions are here, today.
+
+---
+
+Ethereum's rollup centric roadmap is now getting into its 4th year. The L1 is
+serving an ever increasing amount of L2s causing fragmentation of liquidity and
+all kinds of other frictions for users and developers. It now just happened the
+past couple of weeks that Ethereum researchers achieved a mental unlock in
+understanding how the described fragmentation and friction can eventually be
+resolved in a world of the rollup centric roadmap. Justin Drake articulated
+ideas of based rollups being connected by Ethereum mainnet as shared sequencer
+using inclusion lists and based preconfirmations. Espresso systems has worked in
+that area for a while now and as of today is leading the charge. It appears that
+we are able to enshrine all of the necessary magic natively in the tech stack
+over the coming months and years. Unrelated and on an uneventful sidenote,
+Ethereum's Dencun upgrade is scheduled for the 13th of March, which includes
+EIP-4844 to reduce data posting costs for rollups using a new fee market called
+blobspace.
+
+---
+
+I haven't followed the Frax Finance ecosystem closely for a while and now just
+by accident I came across a screenshot pointing out that a Frax rollup is about
+to launch. This rollup is called Fraxtal, which is an EVM equivalent rollup
+utilizing the OP stack as its smart contract platform and execution environment.
+The alpha here is an eventual airdrop using FXTL points which are supposed to be
+tokenized after about 1 year from the rollup launch date. If my memory serves me
+right we have about 2 weeks before the snapshot. Note that all of this
+speculation on my part is unconfirmed hearsay.
+
+---
+
+Separate from the Fraxtal rollup there is potential for an interesting FXS trade
+to be had. In light of Fraxtal launching it may very well happen that FXS
+catches the narrative bug providing upside potential between 11.50 and 23.50
+where the lower bound would be the trigger confirmation to overcome. That range
+is roughly 100% wide and just like the LINK setup I wrote about last week it may
+rather play out around the middle of the year. Slowly, and then all at once.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2022/0001150
