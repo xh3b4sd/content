@@ -1,0 +1,111 @@
+# DATA MARKETS
+
+![diagram](./assets/0000009.1.svg)
+
+> In order to get any price to zero, its producing technology must improve ad
+> infinitum. - [xh3b4sd]
+
+Data creates insights. Insights enable competition. Competition creates
+efficiency. And efficiency reduces prices. Data, insights, competition and
+efficiency are the path dependencies of innovation. We could say that innovation
+is data driven. We could also say that innivation therefore originates from data
+markets. This post intents to explain why everything is a data market.
+
+Data markets are often defined as data exchanges in which data is transacted on.
+That is a quite limited view of the world. In the most fundamental sense, our
+idea of data markets represents adversarial systems from which insights can be
+gained. Those systems do not only create the data that gives rise to those
+insights, but they also modify, store, share or hide the underlying data for
+various reasons. The actors within those systems are highly motivated to keep
+their competitive advantage at all costs, and sharing proprietary insights is
+not always the most yielding strategy to do so. Under such restrictive
+circumstances we refer to those rather closed systems as [walled gardens]. In
+the most literal sense walled gardens are gardens enclosed by high walls. The
+walls surounding those gardens act as layer of defense or means of maintaining
+certain environmental conditions. We could view green houses as walled gardens
+as well I think.
+
+Now, data is everywhere, but it can only become useful if you can access it.
+Data is naturally highly distributed and maybe even guarded. One reason data
+markets do not appear to exist publicly for a particular field might be because
+the incumbents do not want to expose their delivered quality of service. That
+then might imply that the service quality delivered is particularly bad. Or, the
+incumbents wield enough authority within their field of expertise that it causes
+said data market to exists within the confines of monopolistic forces, which
+then enables said incumbents to hide away. In either case, there might be
+legions of unhappy customers and competitors who would all love to express their
+frustration. Then it would be quite easy to survey those people for opinions of
+what is actually going on. That way we might be able to illuminate a problem
+domain and find an opportunity for which there might not even exist any
+meaningful competition just yet.
+
+how do we go from data to insights
+how do we go from insights to competition
+how do we go from competition to efficiency
+how do we go from efficiency to innovation
+
+how is value created or extracted here?
+
+prediction markets in the literal sense
+financial markets as prediction markets
+
+
+
+Let's look at competing data markets for a moment. The [consumer price index] is
+one example of a data market. An alternative for that particular data market is
+[Truflation]. In that example we have two data markets competing for authority
+within the same domain. The CPI and Truflation try to provide insights into the
+cost of living based on a basket of consumer prices. We could say that the CPI
+and Truflation together form another data market that might be useful to gain
+insights from beyond the purpose of consumer prices. The provocative question
+you might want to ask here now is whether the CPI or Truflation represent
+consumer prices more accurately. Your spidey senses should be tingling by now.
+Understanding the complex nature of data markets does not allow us to arrive at
+simple conclusions like yes or no. While the desire to compare data markets is
+strong and reasonable, we have to dig deeper and ask better questions. The
+question "is complex system A or complex system B better" is simply not good
+enough. Asking bad questions leads to bad answers. The quality of your question
+limits the quality of your desired answer. [As with everything you can estimate
+your understanding of anything by the quality of questions you are able to ask
+about the subject matter.] Here are some ideas for better questions to ask if we
+want to compare the CPI and Truflation. What are they actually measuring? How do
+their baskets of goods and services differ? Where does either data market get
+their data actually from? How is this data being sourced? Which methodologies
+does either data market employ in order to aggregate consumer prices? Who is
+employing the people and machines within those data markets? That are their
+motivations? Who do these people have to answer to? What messages do they want
+to send with their respective insights? At this point it should become clear
+that we should take insights from competing data markets with a grain of salt
+and be reminded of the old adage [show me the incentives and I show you the
+outcome]. Apart from the incentives, data sourcing can be quite difficult due to
+the nature of the underlying systems. Comparing digital and physical systems, it
+is so much easier to collect data from digital systems because digital systems
+can be automated in precise and fault tolerant ways. Physical systems have so
+much more friction because the human ability to move atoms around is so much
+more limited compared to our ability to manipulate bits. I am sometimes in awe
+wondering how the lights are still on considering that [we tell people every
+month to go out into thousands of stores to manually write down prices]. We have
+not come far after all it seems.
+
+Another example of a data market is health care in which
+practitioners, hospitals and health insurances all represent their own
+respective data markets.
+
+what are other interesting forms of data markets?
+ethereum, MEV
+facility management
+farcaster
+
+
+The insights gained from data markets may be able to answer any given question.
+How much money does this cost? Who needs help? Where do I want to live? When is
+the best time to harvest? What is the cause of this? It's data markets all the
+way down.
+
+[As with everything you can estimate your understanding of anything by the quality of questions you are able to ask about the subject matter.]: https://github.com/xh3b4sd/content/blob/master/philosophy/2021/0001028
+[Truflation]: https://truflation.com/dashboard
+[consumer price index]: https://en.wikipedia.org/wiki/Consumer_price_index
+[show me the incentives and I show you the outcome]: https://github.com/xh3b4sd/content/blob/master/quote/0000022
+[walled gardens]: https://en.wikipedia.org/wiki/Walled_garden
+[we tell people every month to go out into thousands of stores to manually write down prices]: https://www.bls.gov/opub/hom/cpi/data.htm#:~:text=Approximately%20two%2Dthirds%20of%20price%20collection%20in%20the%20CPI%20is%20done%20by%20personal%20visits%20of%20CPI%20data%20collectors%20to%20brick%2Dand%2Dmortar%20stores.%20The%20remaining%20data%20are%20collected%20by%20telephone%20or%20on%20the%20outlet%E2%80%99s%20website%20and%20apps.
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001275#L2-L3
