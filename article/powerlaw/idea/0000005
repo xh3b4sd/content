@@ -2,12 +2,82 @@
 
 ![diagram](./assets/0000005.1.svg)
 
+> Socialist governments traditionally do make a financial mess. They always run
+> out of other people's money. - [Margaret Thatcher]
+
 Talk to anyone out there and you may come to the same conclusion. The systems
 governing us all around the world are broken. Software breaks every day. And
 when it breaks, we fix it. What we are somehow not fixing are the systems that
-define how we live. The games we are playing collectively can only ever be as
-good as the rules that tell us what we can do and what we cannot do. This post
-intents to describe ideas for better games on a nation state level.
+define how we live our lives every day. The games we are playing collectively
+can only ever be as good as the rules that tell us what we can do and what we
+cannot do. This post intents to describe ideas for better rules on a nation
+state level.
+
+Pick any human endeavour, raising a child or a family, investing money for
+yourself or for others, ruling a city or a country. All of these endeavours have
+at least one thing in common. They all require decision making. All kinds of
+decisions have to be made all the time for all kinds of reasons. The difficulty
+in anything we do in any given context, is to solve for two distinct core
+issues. Namely "Who should make this decision?", and "What is the best
+decision?". The societies we live in do often provide answers to those core
+issues, not based on merit, but rather based on historical and cultural
+contexts. Because, it has "always" been like that! Regardless the historical and
+cultural context, we can say that those core issues are always addressed by
+comittees, where the respective comittee consists of 1 or many members.
+Generally speaking, N of 1 comittees can be very right or very wrong in their
+decision making. Respectively, N of many comittees can only be very mediocre.
+The reason for our generalized N of 1 performance is the fact that a single
+individual can be specialized and to the point. When an arrow hits, it hits
+hard. From there it follows that when an arrow misses it does not hit anything,
+which is especially unfortunate if your life depends on it. The reason for our
+generalized N of many performance is the fact that many individuals together
+have to make compromises in the most literal sense of the word. They have to
+compromise themselves, and thus the group. No outstanding result can be expected
+from a compromised system. That does not mean that the system has to fall apart,
+but it dictates that life doesn't have to be that great either. The mediocrity
+of comittees rules everything around us.
+
+If we wanted to be benevolent we could say that N of many comittees allow to
+provide relative stability, which we have benefited from in the western world.
+Though, what we also have to say, is that relative stability rarely comes with
+extraordinary progress. And that becomes particularly important over long
+periods of time. It may work out for a decade or a century, but if history tells
+us anything, it is that [the fourth turning] is never far away.
+
+Democratic systems today concentrate power in special interest groups, parties
+and governments. There is a relatively small footprint on a headcount basis
+across those entities, meaning, democratic systems are fairly easy to corrupt by
+targeting small groups of individuals. Over longer time horizons the effects of
+lobbying and self interest potentially take a hold in systemically meaningful
+ways. This is about mechanism design. The code our democracies run on today is
+written down in our constitutions. While they serve us relatively well compared
+to other systems, they are still meaningfully broken by design. And we have to
+change that. At the moment there exist significant power concentrations around
+the ways money is created, collected and spent. This power concentration is
+naturally prone to corruption because of its underlying centralization. Our
+checks and balances are good and great, but none of them prevent wealth
+debasement, household deficits, government misspending and efficiency decreases
+all over the place.
+
+An idea for improving our governance systems would be to modify the value flows
+within the underlying monetary and fiscal institutions. If taxes go into one big
+honey pot that is ready to be exploited, then we end up in the place we are in
+right now. At best, get rid of the honey pot. Stop blindly collecting more and
+more money from individuals and stop blindly spending it in the naive believe
+that more money is able to solve problems. Not a single successful business is
+run like that. The citizens of a region should be allowed to allocate at least
+50% of their provided taxes to local causes in ways they see personally fit
+based on their individual and independent judgement. Take out a map, find the
+point at which you live, draw a 100km circle around that point. This is where
+you can allocate 50% of your taxes. No questions asked. No postal code areas
+that change every year based on voter preferences. Pure capital allocation where
+the domain experts see fit.
+
+
+
+
+
+
 
 
 A Opportunities versus outcomes ,
@@ -35,37 +105,7 @@ cannot be the constraint, and what actually matters is that the people do well
 
 emergent behaviour versus enshrined opinions
 
-insert Margaret Thatcher quote, Socialist governments traditionally do make a
-financial mess. They always run out of other people's money.
 
-Democratic systems today concentrate power in special interest groups, parties
-and governments. There is a relatively small footprint on a headcount basis
-across these entities, meaning democratic systems are fairly easy to corrupt by
-targeting small groups of individuals. Over longer time horizons the effects of
-lobbying and self interest potentially take a hold in systemically meaningful
-ways. This is about mechanism design. The code our democracies run on today is
-written down in our constitutions. While they serve us relatively well compared
-to other systems, they are still meaningfully broken by design. And we have to
-change that. At the moment there exist significant power concentrations around
-the ways money is created, collected and spent. This power concentration is
-naturally prone to corruption because of its underlying centralization. Our
-checks and balances are good and great, but none of them prevent wealth
-debasement, household deficits, government misspending and efficiency decreases
-all over the place.
-
-An idea for improving our governance systems would be to modify the value flows
-within the underlying monetary and fiscal institutions. If taxes go into one big
-honey pot that is ready to be exploited, then we end up in the place we are in
-right now. At best, get rid of the honey pot. Stop blindly collecting more and
-more money from individuals and stop blindly spending it in the naive believe
-that more money is able to solve problems. Not a single successful business is
-run like that. The citizens of a region should be allowed to allocate at least
-50% of their provided taxes to local causes in ways they see personally fit
-based on their individual and independent judgement. Take out a map, find the
-point at which you live, draw a 100km circle around that point. This is where
-you can allocate 50% of your taxes. No questions asked. No postal code areas
-that change every year based on voter preferences.
-
-
-
+[the fourth turning]: https://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory
 [The Dictatorship of the Minority]: https://nassimtaleb.org/tag/minority-rule
+[Margaret Thatcher]: https://github.com/xh3b4sd/content/blob/master/quote/0000016
