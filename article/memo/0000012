@@ -1,0 +1,101 @@
+MEMO W08 FEB 2024
+
+> Any asset is bound to fail over time. That is simply due to the changing
+> nature of the world we live in. - [xh3b4sd]
+
+My understanding of the macro is that we are roughly half way through the bull
+market already. I base this theory on the global liquidity cycle, which bottomed
+around June 2022. That was also the time around when ETH put in its cycle
+bottom. 19 months and 180 percent later ETH is sitting at around 3,000 USD
+again. We have already seen in January that many stocks and indices put in new
+ATHs. My initial reaction to that was fear. The higher we go the more likely it
+will become that the music stops, at least for a while. I saw some statistics
+that ATHs in the S&P500 imply higher prices 12 months after these respective
+ATHs, in 16 out of 17 cases. The global liquidity cycle is estimated to top out
+around September of 2025, which is about 18 months away from now. What seems odd
+to me is that 2024 has become too easy already. Just about everything is up, and
+we can expect everything to get a lot more easy over the next 12 months. We
+could ask which role interest rates play in our liquidity based models. There
+are no obvious repetitive cycles to be found when looking at interest rates.
+Whatever the Federal Reserve is doing is a reaction to economical and political
+whims. And more often than not the Federal Reserve is any combination of too
+early, too late, too active, and too passive. In that light, interest rates
+operate within global liquidity cycles like everything else, with the caveat
+that interest rates beget more or less liquidity in reflexive ways. Just this
+week Larry Summers called for rate hikes with a 15% probability. Truflation
+trends towards 1.6% CPI whereas the FED is tracking 3.1%. Truflation might be
+undershooting to the downside, since they were also overshooting a lot to the
+upside around June 2022. The market is pricing in an ever decreasing amount of
+expected rate cuts for 2024, and that decrease might not be over just yet. As it
+stands right now, higher for longer might still be on the table. And that will
+be alright.
+
+---
+
+Two notes on stablecoins. First, Circle stopped issuing USDC on Tron. We can
+speculate why they did that and why that matters. Tron is some centralized
+system on which almost 40% of all stablecoins reside. Almost all of the
+stablecoins on Tron are USDT. The USDT issuer is Tether, which is Circle's
+competitor. My instinct tries to interpret the action that Circle has taken this
+week as an act of economic war. Circle puts its foot down and makes a stance for
+the sake of its own image, which tries to optimize for favourable US regulation.
+It is widely expected for Circle to make its IPO at some point this year. And in
+order for USDC to be perceived as the cleanest stablecoin blessed by US
+regulators, Circle has to draw very clear lines between itself and Tether's
+USDT. The game is on. And second, stablecoin marketcap on L2s is sitting around
+3.5 billion USD as per GrowThePie. That number seems to be steadily increasing.
+The plain amount here is not impressive at all, considering that all of the
+stablecoin marketcap is almost at 140 billion USD. The encouraging dynamic to
+realize here, as I see it, is the fact of a steady upward trend of stablecoins
+used on L2s. We could argue stablecoins are not a good proxy for L2 adoption or
+growth. We could say that the ways in which stablecoins are utilized within the
+crypto industry, are rather manifold. Some denominate their wealth in a more
+stable digital asset without doing really anything onchain. Some use it as a
+base pair for trading more volatile assets. Some use stablecoins to pay
+employees or to pay for services onchain. Stablecoins are somehow used in so
+many different ways that it becomes hard to tell what is what. And at that point
+I find myself at both ends of the bellcurve meme saying "up is up".
+
+---
+
+Talking about Eigenlayer restaking in the context of Ethereum. Restaking is the
+concept of staking ETH multiple times. You can stake your ETH once in liquid
+form and then stake that liquid staked ETH again for another purpose. Staking
+ETH has the purpose of securing the Ethereum Blockchain Network. The liquid form
+of staked ETH is for instance stETH and rETH, which can be staked again in
+Eigenlayer. The purpose of restaking is to secure other crypto economic use
+cases. For one, restaking makes for more yield, and more risk. And two,
+restaking allows any network or primitive to utilize the economic security of
+Ethereum without having to bootstrap that economic security themselves. That is
+a huge unlock for new creative ways of economic activity across all DeFi. Now,
+people tend to be worried about new DeFi primitives that introduce creative ways
+of leverage, which in turn tends to cause a lot of trouble eventually. We could
+ask whether restaking is a form of leverage. In the traditional sense the answer
+should be no. Because restaked ETH cannot be liquidated based on changes in the
+price of ETH itself, which is how margin based leverage works. Traditional
+margin accounts define a certain collateral threshold that fluctuates with price
+changes of the underlying collateral and effectively provides a range of
+available leverage that way. Margin accounts get liquidated if collateral
+thresholds get crossed. Restaking does not define any such margin and therefore
+does not have any liquidatable collateral threshold. The "liquidation" of
+restaked ETH is called slashing, which intends to penalize malicious validators.
+You have to be dishonest in order to get your staked or restaked ETH slashed.
+And having bad intentions is fundamentally different from random price changes
+that no single actor can be made responsible for. Based on that reasoning I like
+the framing of restaking to be a form of corporate bond. When you restake your
+ETH, you effectively lend out assets in order to underwrite some kind of
+economic activity. By underwriting another business you assume the risk of that
+business and its ability to pay you back in the future, in full, plus interest.
+If we squint hard enough we can try to make the case for restaking being a form
+of leverage and I can totally understand the arguments. The point here might
+simply be this. Institutional restaking operates under fundamentally different
+and more predictable circumstances than retail trading on margin accounts.
+
+---
+
+At last some boring numbers. We saw 2.5 billion USD in digital asset inflows
+within a single week, of which 99% came out of the USA. That gets to show why
+the ETF approvals by the SEC are so relevant to the crypto industry in terms of
+cash flow. Murica is where the money's at.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2021/0001011
