@@ -1,0 +1,94 @@
+MEMO W13 MAR 2024
+
+> The differentiator in life is whether you can pickup on the fundamental truth
+> within a story being told to you, without being distracted by its surrounding
+> noise. - [xh3b4sd]
+
+Imagine two lines on a chart expanding over decades. The lower line increases by
+5% per year. The upper line increases by 30% per year. Both lines increase, but
+there is a catch. What is increasing on those two lines has two different
+implications. The lower line represents currency debasement and price inflation.
+This lower line shows how much poorer you get over time. The upper line
+represents liquidity injections and asset appreciation. This upper line shows
+how much richer you get over time. The two lines on our imaginary chart drift
+farther and farther apart every year. And here is the catch. The delta between
+the lower and the upper line is the wealth gap. The people not owning hard
+assets get diluted by their own government, which is destined to print more
+money eventually. Everything gets more expensive while wages do not rise
+accordingly. The people owning hard assets get lifted up by liquidity, which is
+the money that the government injects into the system. All we need to know is
+how wealth is generated and destroyed in the financial system of our time. And
+all we have to do in order to generate wealth over time is to own hard assets.
+The question is now what a hard asset is, how to identify it and how to own it.
+I wrote an essay that describes what hardness is in the context of finance and
+why hardness matters. This post has not yet been published on the Powerlaw blog,
+but it is online already for anyone who can find it in my content repository.
+The essay on hardness will be published here some time the next quarter. In the
+meantime it is up to you to find and read it, if you are interested. Let's call
+it an easter egg of some sort, dear reader. Let me say this much now. There is
+no silver bullet to get rich or make or keep a lot of money. Anything worth
+doing will always imply to do the work. And somehow the hardest part in life is
+to pay attention to the things that truly matter along our way. All we need to
+know is available for free online and onchain. And as we go about our day we
+make distinct decisions to pay attention to this, that and the other thing. For
+better or worse, you have the choice. This is all on you. And I wouldn't change
+it.
+
+---
+
+The Bitcoin spot ETF flows have turned positive again on a net basis. And yet,
+GBTC, expensive as it is, has 9 figure outflows every single day. And I think we
+can expect those outflows to persist for quite a while, because there are still
+23 billion USD caught up in that particular fund. So far the new ETFs capture
+parts of the outflow and in aggregate account for more inflows than GBTC can
+bleed on most days. This dynamic can be expected to persist for a while as well.
+The long term prospect of the current situation is solid. A look on the XAU /
+USD chart shows the price of gold over time. In March 2003 the gold spot ETF got
+launched in the USA. At that time gold traded around 350 USD. In September 2011
+gold traded around 1800 USD. That is a 5 times increase within 8 years. All we
+need to know is that Bitcoin is touted to be digital gold. And while digital
+gold is not all that interesting to me personally, the information presented
+above is basically all we need to know in order to understand where the future
+is headed.
+
+---
+
+I had an interesting thought recently about the ratios of ETH / BTC and SOL /
+ETH. At the moment they are both around 0.05 and it would somehow be funny if
+the relative distance from ETH to BTC and from SOL to ETH would remain similar
+over time. That for me would say something about powerlaw distributions. It is
+highly likely that we are fooled by randomness here again and that the equal
+ratios today are not more than coincidental on the timeline. Regardless, the
+thought was interesting to me and the implication would certainly be telling.
+
+---
+
+This week inscriptions made it into the blobs on Ethereum, causing blob fees to
+spike. Blob space was intended to allow L2 rollups to post data to L1 mainnet as
+a separate fee market, distinct from all other transactions. That way blob space
+is supposed to be cheaper and L2 rollups are supposed to scale further. Seeing
+blobs to be abused for other purposes speaks to the composability and second
+order effects of decisions in system design. We keep running experiments
+onchain. What a time to be alive!
+
+---
+
+Ever since the Dencun upgrade, the Base TVL grew to ever more new hights. Base
+is now ranked third by TVL with roughly 8% market share. Blast is now ranked
+fourth with about 6.5% of TVL market share. And while Base is an L2, Degen Chain
+got deployed as L3 on top of Base. What we are seeing here now is something I
+would describe as fractals. We are building networks upon networks and scale
+Ethereum layer by layer. In other news, there was some weird exploit on Blast
+for over 60 million USD this week. Somehow the money has been given back after
+some onchain sleuths seemed to have identified the attackers. All kinds of
+accusations have been thown around about the attackers' identities, ranging from
+North Korean hacker groups to inside jobs within the exploited protocol.
+Recently there have been cases where people thought that some onchain mistakes
+and certain exploits had been coreographed marketing stunts. That idea strikes
+me as oddly reasonable in this space. In more happy news, the scaling factor for
+the Ethereum ecosystem has now crossed 10x the first time according to L2Beat.
+And that means we are scaling Ethereum with the rollup centric roadmap. Jevons
+Paradox is in full effect. The cheaper blockspace becomes, the more it is sought
+after. Happy days!
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001308
