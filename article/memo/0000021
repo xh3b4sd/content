@@ -1,0 +1,114 @@
+MEMO W17 APR 2024
+
+> Usage over possession. This will drive the future. - [xh3b4sd]
+
+Over the past couple of weeks some debates have started around the amount of ETH
+issuance that Ethereum uses to secure the network. Some researchers think that
+Ethereum is paying more than it should for securing the network. The argument
+here is related to the idea of a balanced household budget, and what it takes to
+achieve such a balance. The main concern some researchers are trying to address
+here is the amount of ETH staked relative to the total supply of ETH. Some
+arguments raised concerns that one day all of the ETH in existence could
+potentially be staked. The amount of ETH staked is one important metric to
+consider for a healthy and sustainable blockchain network, because staked ETH
+implies ETH tokens wrapped by another token to some extend. Examples of wrapping
+ETH could be liquid staking or restaking. And since wrapping ETH does always
+imply some form of risk then all of ETH staked might become a systemically
+critical issue given that the majority of ETH staked is wrapped in some third
+party ETH derivative contract. So for one we do not want to overpay for
+security. And then we want to make sure that the majority of ETH in existence is
+not wrapped in all kinds of smart contracts that implicitly carry all kinds of
+risk with them. I have one interesting data point to contribute here, based on
+my own anecdotal observations. So far I have not seen a significant proof of
+stake network that ever had more of their native tokens staked than roughly 80%.
+So far, we have never seen a relevant proof of stake network that had 100% of
+its tokens staked for a significant amount of time. The current ETH issuance
+curve predicts a real total staking yield of 1% per year at 80% of ETH staked,
+and that is including all MEV related yields. If we consider 1% of staking yield
+at 80% of all ETH staked, we could maybe look at the ETH issuance debate this
+way: "John Bull can stand many things, but he cannot stand two per cent.". That
+timeless wisdom was once brought forth by Walter Bagehot, expressing the
+observation of some form of financial eqiulibrium. Throughout the decades and
+centuries, all kinds of investors, on average, have one thing in common. They
+are unwilling to tollerate a yield below 2% for their hard earned money.
+Engineering and mechanism design back and forth, the socio economic perspective
+tells us that all of ETH will never be staked, simply because the current
+issuance curve does already cause too much pain for ETH stakers at 80% of all of
+ETH staked, because at that point everyone is only getting 1% yield anymore. And
+that is not good enough for anyone. Given only that line of thought we could
+argue that the concerns of having all of ETH staked one day are rather
+unreasonable. One interesting question to ask here now is how much additional
+yield one can get using protocols like Eigenlayer, considering the additionally
+taken risks involved. My expectation would be that people would be wanting to
+increase their yield from 1% to 3% or maybe even 5% using all kinds of layering
+techniques, once 80% of all ETH staked has become a reality. At that point, some
+will certainly go far out on the risk curve. But most wont, simply because it
+would imply too much of a bad trade from a risk adjusted point of view. My
+currently more realistic assumption would be that there won't ever be more than
+60% to 80% of ETH staked, for a variety of reasons as described above. And then,
+generally speaking, instead of trying to artificially defining a magic number of
+some desired amount of ETH staked, and instead of prematurely defining a magic
+curve that will never be able to account for most of the future unknowns, it
+would be a more pragmatic and more antifragile approach to make unstaked ETH
+more attractive and competitive across the available crypto economic systems
+than trying to manually configure the amount of ETH issued in perpetuity. Let
+the market decide what is right and good.
+
+---
+
+In Ethereum land we saw some headlines about its Q1 profitability. With 1
+billion USD revenue in Q1 2024, Ethereum has a profitability of around 35%, which is
+used to effectively do something akin to share buybacks. That equates to roughly
+0.1% of quarterly share buybacks relative to Ethereum's market cap. That alone
+might not be dramatically relevant in the grand scheme of things. What is more
+important here is that Ethereum as a blockchain network is profitable at all.
+And among all economically relevant L1 blockchain networks, Ethereum is the most
+profitable of them all. For comparison, Ethereum had a positive cashflow of 370
+million USD in Q1 2024. Bitcoin had a negative cashflow of almost 4.5 billion
+USD in that same time period, and Solana had a net negative cashflow of almost
+800 million USD. A net positive cashflow implies a positive security budget,
+which makes for healthy long term economic security. A net negative cashflow
+implies a negative security budget, which makes for unhealthy long term economic
+security. The future outlook for Ethereum remains to expect the current positive
+security budget. And the future outlook for Bitcoin and Solana remains to expect
+the current negative security budget. Now what does this mean? I think nation
+states and blockchain networks can operate under negative security budgets for
+far longer than any individual can remain solvent betting against them. And
+while there might not be a simple bet to be had only based on either security
+budget, what will be more interesting to see in the long term is how blockchain
+networks may develop in order to address their individual security budget
+concerns.
+
+---
+
+There was an interesting thought I came across last week regarding higher
+interest rates and their impact for potential capital allocation. At the moment
+we do only expect one or two modest interest rate cuts in 2024. We are in the
+higher for longer environment. At the same time commercial real estate as an
+asset class does not promise any meaningful returns in the foreseeable future,
+compared to its performance in the past. I could not find accurate and
+conclusive data, but let's assume there is well over 1 trillion USD invested in
+US commercial real estate, which is mostly financed using debt. The funds that
+conclude, roll over or look for allocation may not be as likely anymore to
+choose commercial real estate as an asset class in the short to medium term. And
+that implies that this money has to go somewhere. Let's say that within the next
+18 months about 300 billion USD are looking for a way to be allocated. That
+excess capital may has to go out on the risk curve as global liquidity will
+rise. And with that tech stocks and blockchain networks may catch a bit from
+what has once been a preference in commercial real estate, simply because higher
+rates make the gamble for certain asset classes not worthwhile anymore.
+
+---
+
+At last, I would like to invite anyone of my readers to reach out, if there are
+any questions or ideas for collaboration. I want to write about your startup,
+strategic execution and elegant mental models. My brand archetypes are sage,
+outlaw, magician and creator. If you would like me on your cap table as an angel
+investor, then feel free to send your pitch my way. If you would like my
+feedback or engage in an interesting conversation, then I am happy to chat or
+have a nice dinner over some sweet red wine. If you are a writer yourself, then
+I would love to talk about the art of writing and maybe get your feedback on my
+writings here. If you think we should work on something cool together, then
+please reach out and let's be friends.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2019/0000287
