@@ -1,0 +1,123 @@
+MEMO W18 APR 2024
+
+> There are only few very successful things that the people want over and over
+> again. - [xh3b4sd]
+
+We have recently come across conversations about how to value blockchain
+networks. Those conversations have been sparked by Tokenterminal's financial
+statements, which are generated for any notable L1 blockchain and DeFi
+application. Those financial statements calculate profitability metrics that we
+discussed in our most recent Powerlaw memo. Profitability here is defined as
+earnings, which is basically revenue minus expenses. There is a lot to unpack
+with this seemingly simple calculation, because the issue with any statistic is
+always where the data comes from and of which quality it actually is. There are
+other issues like methodology, consistency and plain data availability. Those
+issues are a given for us now and what we want to rather focus on here is the
+definition of expenses that proof of stake blockchain networks have to bring to
+bear in order to operate properly. What made me write down all of my thoughts
+here was the opinion raised by some people in the industry, that token issuance
+is not a pure expense to the extend that those tokens are issued. The argument I
+have heard being expressed was that issuance is only an expense if token holders
+get diluted by said issuance. And dilution here can be prevented by simply
+staking said tokens. I think this line of thinking is flawed and sounds rather
+constructed in order to fit some existing formula or world view. What is being
+mistakenly conflated here are the desires of two different entities, namely the
+system and the individual, or the network and the staker. I think Tokenterminal
+generates financial statements for the system. And the arguments against this
+methodology of profitability argue for the staker. That means the legitimacy of
+the generated financial statements and the arguments against them, at best, talk
+past one another. And then there is the following mechanic to be considered.
+From first principles, token issuance increases the quantity of money as Russell
+Napier would put it. The quantity of money is the gas of the engine, and whether
+your share of the total supply remains intact has no bearing on the fact that
+tokens are issued in order to keep the system alive. The liveliness of the
+system is a necessity which, in the context of proof of stake blockchain
+networks, is achieved by paying validators to secure the network. That payment
+to validators is an expense for the overall network as an entity. That expense
+and its necessity is true and good regardless of an individuals share of the
+total market cap. And I would further argue that merely maintaining an
+individual's share of the market cap is not good enough for keeping real
+dilution at bay, because staking implies risks. Additionally, in second order
+consequences, token issuance does not automatically guarantee proportionally
+deeper markets that guarantee an individuals execution price if the tokens in
+questions would have to be sold. Arguably the last point here is a rather weak
+proposition, but granted, token issuance causes inevitable dislocations within
+the underlying system that cannot be simply protected against by mere staking,
+even if you get the full rate of staking rewards, which most stakers simply do
+not get due to delegated or liquid staking mechanisms, which in turn adds more
+risk to those positions. So the purpose of staking in the context of proof of
+stake blockchain networks is not to prevent dilution for stakers, but rather to
+secure the network. And all of these considerations ignore additional dilutive
+second order effects of delegated or liquid staking mechanisms. Saying token
+issuance is not an expense when you stake is like saying inflation is not real
+as long as you only hold treasury bills. That is simply wrong, because the
+market is more complex. And simply backing the nation state by holding its debt
+instruments does not automatically imply that your purchasing power remains
+intact, because it does not. In fact, the real world is showing us every day how
+the quantity of money is causing incomprehensible dislocations in the markets
+over decades. And all of that is to say that an increased quantity of money is
+in fact a cost for the system and the individual alike, even if those costs take
+a long time to unfold. And thus token issuance is clearly an expense for any
+proof of stake blockchain network in my eyes, whether you stake your tokens or
+not. The question for the system will always be how much you have to pay in
+order to stay alive. Keeping your individual share of the market cap does not
+change that, especially not in measures of risk adjusted returns.
+
+---
+
+An interesting thought I came across past week is summarized in this memo's
+quote above. From a product or service design perspective there are many things
+you can come up with in order to make people go like "oh cool, I like this".
+Appeal on first sight is not worth a lot in our day and age if there is no
+second look taken. All of those one trick pony kind of things have a very short
+half-life. Mapping that insight to blockchain networks, it is actually the
+networks themselves that get used every day. Ethereum blockspace is not only
+cool once. It is being used and demanded over and over again. The same is true
+for Bitcoin and Solana blockspace today. The lines between infrastructure and
+applications are quite blurry at times in crypto land. Services that have been
+demanded and frequently used so far in crypto land are one, storing value, two,
+exchanging tokens, and three, taking on debt. All our successful experiments can
+be put in those three categories in one form or another: Tether, Bitcoin,
+Uniswap, Maker, etc. I am intentionally leaving out the casino aspect of crypto.
+Arguably, the casino aspect was the first feature of it all, and it still is the
+main driver keeping this industry alive across cycles, until proven otherwise. I
+have not much to offer in this section other than the mere idea that the thing
+that some people find interesting once may not be the thing that will still be
+relevant tomorrow. Reading this, that might appear obvious to you, dear reader.
+Though, if anything, look out for those things that people want to use over and
+over again. If something is being used over and over again, that very fact for
+that very thing will likely always be true. So if anything, try to get the big
+things right.
+
+---
+
+Here are some numbers for you. EIP-1559 activated over 1,000 days ago, and ever
+since we have burned almost 4.3 million ETH, simply based on the usage of the
+chain. Anecdotally I have heard that 10 billion USD of altcoin supply inflation
+is now hitting the market every month. This inflation has to go somewhere
+eventually and I think everything that is neither Bitcoin nor Ethereum, while
+inflating away, will have a very hard time to survive this cycle. Similarly, I
+have now seen all rent paid to Ethereum L1 by the L2 rollups going below 100,000
+USD per day. This is the rollup centric roadmap scaling Ethereum right there,
+because at the same time the L2 user base hovers around 5 million recorded
+active addresses on a weekly basis. I thought that the blockspace and data
+availability issues we had in the past will all get commoditized away by fierce
+competition within a free market. And then you got to wonder how all of the
+alternative DA solutions can possibly remain relevant in the long term, because
+even if we 100x the current data availability demand, the bills are not likely
+to get paid by just making data available. Interesting times ahead!
+
+---
+
+At last, I would like to invite anyone of my readers to reach out, if there are
+any questions or ideas for collaboration. I want to write about your startup,
+strategic execution and elegant mental models. My brand archetypes are sage,
+outlaw, magician and creator. If you would like me on your cap table as an angel
+investor, then feel free to send your pitch my way. If you would like my
+feedback or engage in an interesting conversation, then I am happy to chat or
+have a nice dinner over some sweet red wine. If you are a writer yourself, then
+I would love to talk about the art of writing and maybe get your feedback on my
+writings here. If you think we should work on something cool together, then
+please reach out and let's be friends.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001319
