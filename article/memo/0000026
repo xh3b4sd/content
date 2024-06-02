@@ -1,0 +1,120 @@
+MEMO W22 JUN 2024
+
+> Linear forecasts are wrong in a non linear world. - [xh3b4sd]
+
+I heard one of the main characters of this cycle say we are in the third inning
+of this crypto cycle. I find the baseball metaphors a bit difficult to
+comprehend personally, but let me humour you. There are 9 innings in a game of
+Baseball. So at the end of the third inning the game is theoretically 33% over.
+Now, it is good to have this data point, but I do not put too much weight on it
+personally. My current understanding of where we are in the cycle is that we are
+past the first half of it. My gut feeling is that this cycle top may happen
+around Q2 2025. That would then be less than 12 months from now. My base case
+for the rest of this cycle is to be a bit more dampened, and here is why. The
+two main narratives causing most of the gains of this cycle have been meme coins
+and ETFs. Both of those narratives have mostly already happened in my mind. What
+is left is utility and its effects. The thing with tokens that have not much
+going for them but utility is that they cannot hide behind narratives involving
+delusions like hope and speculation. It might be arguable how fairly priced ETH
+is right now. In my mind it is rather fairly priced all things considered. ETH
+does not have much of a monetary premium right now because all it can do at the
+moment is to earn its monetary premium. ETH does earn its monetary premium, it
+is just not very big. And I am saying this with the understanding that ETH is
+the very thing in the crypto economy that supports most of the crypto economic
+activity. This is the cycle in which institutions are indeed starting to adopt
+crypto and from here it is a slow burn with dampened volatility, working its way
+up to secure an ever higher baseline. Our plans are measured in centuries.
+
+---
+
+One topic for this Powerlaw memo are various industry market cap predictions
+that people think we should reach this cycle top. One of the prominent numbers I
+heard this past week was a 10 trillion USD market cap prediction, that I find
+somewhat unrealistic to achieve this cycle. And here is my thought process
+around it. For starters, some numbers of historic industry market cap tops. The
+cycle top in January 2018 was far below 1 trillion USD. The cycle top in
+November 2021 was only a tiny bit above 3 trillion USD. The 10 trillion USD
+market cap top prediction for this cycle assumes linear growth between crypto
+cycles. While many prices rise exponentially in early tokens, and while network
+adoption may happen exponentially at some point, trillion Dollar market caps
+rarely keep scaling linearly over longer time horizons. All things equal, and
+notice that all things are never equal, the market cap multiple in front of us,
+in order to reach 10 trillion USD, is still 3.74 times of the current total
+crypto market cap. And that must be considered in the context of the current
+cycle about 50% over already based on my personal estimation. To say it
+differently, the past two cycles made a 3x each over their entire time length.
+The 10 trillion USD predictions do now claim to put in an even higher multiple
+than the past two crypto cycles in only half the time available. I think this is
+very unlikely to happen. I think there is a less than 5% chance of the 10
+trillion USD market cap to happen this cycle around. In comparison on the asset
+level. BTC and ETH have a market cap of roughly 1.35 and 0.45 trillion USD
+respectively at the time of writing. The suggested multiple of 3.74 times from
+here would put us at 5.05 and 1.68 trillion USD market cap for BTC and ETH. The
+respective asset prices would have to reach 250,000 and 14,000 USD for BTC and
+ETH, all things equal, and I think those targets are not reasonable to assume
+for the current crypto cycle. In the long term we will probably get there, but
+my gut feeling tells me that crypto cycles become more muted as the industry
+matures. A more mature industry does then also imply dampened volatility to the
+upside and the downside. Running some numbers here made me aware of the fact
+that the ratios between BTC, ETH and the rest of the crypto markets is 5, 1.7
+and 3.3 respectively, meaning BTC is half the market, ETH is one third of BTC,
+and ETH is half of everything else. Those ratios should change with growing
+stablecoin ecosystems. At some point in the future it might not make any sense
+anymore to put stablecoins together with blockchain networks in the same
+buckets. But today those industries are still in their infancy. The take away
+here, considering all of the above, is that we are likely to chop sideways for
+some time, with an upward tendency until somewhere around Q2 2025, because we
+frontloaded this cycle massively due to the spot ETF narrative. Last cycle
+almost all gains were still to be had after 50% of the cycle. This first half of
+last cycle happened between December 2018 and December 2020. This time around I
+think half of the gains have already been had, exactly because we frontran the
+spot ETFs and frontloaded most of the speculative energy in this industry. There
+is now still way to go and there are now still gains to be had, but what is yet
+to come is not the majority of gains for this cycle by any measures. My base
+case for this cycle would be to not go beyond 6 trillion USD in total crypto
+market cap.
+
+---
+
+Taiko mainnet went live this past week and the cool thing about it is that Taiko
+is the first "based" L2 rollup, which means that its bundled transactions are
+sequenced in a decentralized fashion by L1 block builders. So far L2 rollups
+have been running their own more centralized sequencers, which was often a major
+driver for the generated L2 revenue. I think the vision for all rollups is to
+become "based", which will then also enable to solve the L2 fragmentation issues
+we are seeing today. Chances are that in 2 years from now all Ethereum
+liquidity, whether it originates on L1 or L2, will be managed and be made
+available to anyone almost instantaneously in a unified way using guaranteed
+preconfirmations and based rollups that participate in shared sequencing. I know
+this was a mouth full and a lot of words in one sentence. Over the coming months
+we will see developments in those areas and discuss them here as they advance.
+
+---
+
+And another L2 rollup got announced recently, the ENS L2. ENS is the Ethereum
+Name Service, originating on L1 mainnet. The planned L2 will allow ENS to
+operate more efficiently and enable users to enjoy a broader feature set. One
+idea I heard was about more fine grained structured ENS names and cross chain
+interoperability.
+
+---
+
+Our numbers in this Powerlaw memo are all about the blobs. Taiko went live a
+couple of days ago and is doing already almost 25% of all blobs. Taiko and Base
+together make over 50% of all blobs at the time of writing. The Dencun upgrade
+brought us blobs on the 13th of March 2024. It has been about 10 weeks since
+then and every day about 17,000 blobs are posted on Ethereum L1. This number is
+in a considerable uptrend. The average amount of blobs per block is at 2.3 right
+now. Quick recap of how blobs work. Blobs have their own fee market in order to
+price data availability on L1 mainnet. There is a maximum of 6 blobs allowed per
+block. If there are more blobs in a block than the current blob target of 3,
+then the blob base fee is being increased. If there are less than 3 blobs in a
+block, then the blob base fee is decreased. If the amount of blobs remains
+unchanged across blocks, then the blob base fee does not change. We expect the
+number of blobs to further increase in the coming months. For one, because L2
+rollups start to make more use of blobs. And two, there are almost 50 more L2
+rollups planned to launch in the coming months, which will in part increase the
+blob demand, even if not all of those L2 rollups use Ethereum as their data
+availability solution. Watch out for them blobs!
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2021/0001006
