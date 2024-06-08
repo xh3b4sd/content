@@ -1,0 +1,140 @@
+MEMO W23 JUN 2024
+
+> The reason you get attacked from all fronts is because you are the most
+> relevant contender. - [xh3b4sd]
+
+There was a beautiful discussion between Anatoly Yakovenko and Justin Drake
+published on the Bankless podcast, in which we got a pretty honest and fair
+assessment of Ethereum and Solana. Anatoly is the Co-Founder of Solana and
+Justin is an Ethereum Foundation researcher. Anatoly was joking in the intro of
+the podcast that there is no fourth best after BTC, ETH and SOL, referring to
+the infamous Michael Saylor meme "there is no second best". One super
+interesting aspect that Anatoly is prioritizing and trying to minimize in Solana
+is execution latency using validator hardware. I understand his argument for
+latency to be the most important thing in block building. The mantra for Solana
+is transacting at the speed of light. While speed above all else is often
+important for financial transactions, I think the prioritizing of speed to the
+extend Solana is doing it, is dependend on the intent and use case of the
+transacting party. I think there is a threshold for speed that enables
+technology to serve a specific purpose. That threshold creates some kind of
+goldy locks zone for economically viable use cases. The distinction on the topic
+of speed has to be made based on the context in which this speed matters, and
+for who this speed is relevant within said context. There is for instance the
+speed at which you as an entity gain access to information that you are
+interested in. Then there is the speed at which you yourself are able to act
+upon the information available to you. Let's create a shortcut for both concepts
+and call them access speed and execution speed. Execution speed for a blockchain
+network is defined by block times. As far as I know, Ethereum has a block time
+of about 12 seconds and Solana has a block time of roughly 400 milliseconds.
+Those stark differences in block times are deliberately chosen to maximize or
+minimize for certain aspects of the respective contexts inside of Ethereum and
+Solana. Execution speed for an offchain user is defined by their own hardware,
+software, bandwidth and access speed for that particular transacting entity.
+Access speed of onchain data that transacting entities are interested in are
+again dependend on block times. There are use cases that blockchain networks can
+serve and optimize for that heavily rely on the very best access and execution
+speeds. And there are use cases for blockchain networks in which the very best
+guarantees on those particular metrics are not the top priority. My
+understanding is that Solana optimizes for the very best access and execution
+speed, because it deems those related use cases important. That is fair and
+good. Solana is specializing for certain use cases that are time sensitive. At
+this point, let's remind ourselves that the world's finances operate on T+1 at
+best, which means a minimum of 24 delays for any serious settlement of value.
+The reason why I am structuring my thoughts about this topic here as outlined
+above is because there is a sense of competition between Solana and Ethereum
+that is often misplaced and wrong, in my opinion. While Solana as a blockchain
+network is optimizing for one thing, Ethereum as a blockchain network is
+optimizing for another thing. Knowing this, we cannot simply say whether Solana
+is better than Ethereum, because, better at what? Better based on which
+criteria? What we have here is the comparison of blockchain networks along the
+spectrum of specialization and generalization. Comparisons along those kinds of
+distributions are usually the proverbial apples and oranges. Solana can be
+successful in its own mission, and my believe is that it can be so without
+taking away from Ethereum, and vice versa. In today's world people will
+rightfully argue that speculative energy and market cap gains are scattered
+across all contenders in this industry. We are still early and narratives will
+probably always matter. Focussing here on Ethereum, I want to ultimately take
+away the following bottom line. The people start to wake up to the fact that
+Ethereum and Solana each for themselves are truly in a class of their own, given
+for what they are optimizing for. In the case of Solana that is access and
+execution speed, which caters to use cases like trading. In the case of Ethereum
+that is liveness and economic security, which caters to the guaranteed
+settlement of the most valuable things across the world economy.
+
+---
+
+We saw news that Van Eck is now staking 32,400 ETH with a value of roughly 125
+million USD. Van Eck is one of the asset management firms that filed for spot
+BTC and spot ETH ETFs. Somebody made the case that there is only enough ETH
+supply to allow 3700 of such entities to own this specific amount. This kind of
+framing is somehow compelling. It just begs the question how many entities like
+Van Eck do in fact exist globally today. Van Eck is managing about 100 billion
+USD in assets. There are hundreds of such asset management firms globally with
+that particular size or larger. The order of magnitude here is hundreds, not
+thousands. When I read the take above the first time I was like, yeah, that's
+cool. But thinking about it, thinking through how the world works, while this is
+all very bullish and positive, we have to acknowledge that those kinds of
+statistics are often rather fabricated. And we often have to remind ourselves to
+what extend something that sounds good on the surface actually matters.
+
+---
+
+Somebody said Ethereum has a marketing problem. That's funny, because literally
+everyone is talking about Ethereum, all the time. Everyone is concerned with
+Ethereum and its stance in the world. Everyone tries to compete with Ethereum on
+one metric or another. If anything I am super curious about the upcoming TradFi
+marketing messages that BlackRock and the like are going to put out there in
+order to sell the ETH ETFs. Apart from being very good at selling financial
+products, those entities will define what Ethereum and by proxy what ETH
+actually is in the context of traditional finance investments.
+
+---
+
+Ethereum's issuance debate continues and I am quite bothered by the arguments
+put forth by those who tell us we should reduce staking rewards. I am neither
+for or against a change in issuance by itself. If there is a compelling reason
+that makes sense and is objectively better, then let's change the issuance
+curve. I am only against flawed and non-conclusive reasons for why something
+should happen. One of the arguments for why reducing Ethereum's issuance should
+be changed is "reduced hardware costs". Somebody still has to explain to me how
+that makes any sense at all. Lowering the staking rewards that validators
+collect will not reduce hardware costs for anyone. Less ETH staked will cause
+less validators to be active within the network, but that would be equivalent to
+killing one of your children in order to safe on groceries. Nobody would call
+that increased welfare. The validators securing the network are literally the
+army that fights our wars of economic security. If you want to reduce the
+issuance of the network you need to find a compelling reason for why our army is
+too big. And by proxy you need to make the case for what kind of wars we have to
+fight, now and in the future. In my opinion this is a lost cause because nobody
+will ever know what wars we still have to fight. All of the possible
+approximations here would still be always wrong. Some approximations may be
+better than others, but in this case there should be some kind of conclusive
+proof showing how and why one issuance curve is better than the other. The
+problem at heart here is that the issuance is always "wrong" to some extend and
+as consequence of its wrongness could be changed all the time. The question is
+then simply who decides those changes and once again, based on which criteria.
+The best solution for addressing the issuance problem would be to let the market
+do it by equilibrium. As far as I know such a solution is not known and has so
+far not been proposed. The act of taking something away from others, while
+claiming that the welfare of the system will be increased by doing so, without
+providing any credible reason, proof or evidence, is simply insufficient and
+leaves an authoritarian stench in my nostrils. The best we can do right now, is
+to do nothing, while we are trying to find a solution that is credibly neutral
+and driven by the market's equilibrium.
+
+---
+
+This past week, Base pushed OP Mainnet from the second rank in L2 TVL the first
+time with over 8 billion USD in TVL recorded. The number two spot is heavily
+contested right now by very small margins, meaning OP and Base go back and forth
+in holding and losing that second rank based on normal ecosystem fluctuations.
+The number one in L2 TVL by far is still Arbitrum with almost 20 billion USD.
+And then, there have now been recorded more than 100 active and upcoming L2
+rollups on L2Beat. That is over 100 networks that source their economic security
+from Ethereum mainnet. The number of those L2 rollups is steadily growing,
+effectively expanding Ethereum's scalability and cultural domination. At last, I
+found it interesting that the uniswap app has been downloaded more than 1.5
+million times already. The reach that Uniswap as a DeFi business alone can
+generate with its mobile app is pretty nice to see. Higher!
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001315
