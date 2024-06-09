@@ -132,8 +132,10 @@ should be able to sell your digital assets 24/7 for anything that trades against
 it. We could argue that another form of liquidity is portability. You cannot
 just move your house or your gold bars across borders. You may not even be able
 to redeem your gold shares if you end up in the wrong jurisdiction. What you can
-always do is to backup and move your private keys, wherever you go. All you need
-is an internet connection to access the network.
+always do is to backup and move your private keys, wherever you go. And that can
+be done with only pen and paper. Or, you can memorize a list of words if you
+really have to. And all you need to access the network is then a normal internet
+connection.
 
 The next dimension would be durability. Real estate is not very durable in the
 grand scheme of things. Every house needs a new roof every once in a while. Real
@@ -145,7 +147,7 @@ time and time again as technology progresses. Though on that note, it would
 probably be hubris to bet against technological progress. And that should be
 especially true, given that most of the world economy does already rely on the
 respective cryptographic primitives. The very nature of cryptography being
-attacked and challenged in the open every waking moment is the very reason why
+attacked and challenged in the open, every waking moment, is the very reason why
 it is so profoundly reliable. In short, blockchain networks are [antifragile].
 Further, your private keys are not more than bits and bytes that can be
 remembered forever. The economic value stored in association with your private
