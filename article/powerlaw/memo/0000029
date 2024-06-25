@@ -1,0 +1,122 @@
+MEMO W25 JUN 2024
+
+> Try to get the big things right. - [xh3b4sd]
+
+One topic I wanted to discuss for some time now is MEV and the varying
+philosophies pursued on Solana and Ethereum respectively. First of all, a
+sentence or two about what MEV actually is. MEV originates from the concept of
+Miner Extractable Value. Back in the day, Ethereum was running the Proof of Work
+consensus mechanism, just like Bitcoin still does today. And because Ethereum is
+fundamentally a platform for programmable money, there was always value to be
+extracted by miners. This extractable value became infamously known as MEV.
+Today, Ethereum is running the Proof of Stake consensus mechanism. And since
+there are no miners anymore, MEV became known as Maximal Extractable Value. The
+rise of MEV research gave birth to a completely new economical problem domain.
+It turns out we can frame any system as adversarial environment and analyse its
+mechanism design based on the objective to extract as much value as possible
+from said system. It turns out there is MEV everywhere, in sports, in politics,
+and onchain. The value being extracted onchain may come from a myriad of
+strategies. Most notably liquidations, arbitrage and sandwiching. For our
+purpose here we want to differentiate between toxic and non toxic MEV. Non toxic
+MEV may occur if some desirable service is provided for a small amount of value
+that can be described as a service fee from a user point of view. Toxic MEV on
+the other hand is any value taken away from the user, that turns out to be below
+the objectively optimal value, that said user should have received, if the given
+transaction would have been executed in the most optimal way possible. In other
+words, toxic MEV is the delta between what a user should have received, and what
+a user did in fact receive. We assume here that society always tries to minimize
+toxic MEV. Intentionally, I am not saying "prevent", but "minimize", because MEV
+can fundamentally not be prevented. We can think of MEV in terms of the energy
+conservation law. MEV does always exist. MEV cannot be destroyed. MEV can only
+be converted by mechanism design. Now, Ethereum's philosophy has always been to
+minimize the toxic effects of MEV. On a protocol level, MEV is even planned to
+be burned in the future. On an application level MEV is tried to be given back
+to the user. I think burning MEV on the protocol level and reimbursing MEV on
+the application level can effectively be seen as the north star for a desirable
+MEV endgame on Ethereum. On the other hand, Solana's philosophy on MEV is
+literally marketed publicly as selling point for additional staking rewards.
+During the past couple of weeks we have heard that Solana generated more revenue
+than Ethereum, because Solana's share of MEV related staking rewards was so big.
+Let that sink in for a second. In the spirit of Solana, more money is being made
+by validators, because more money is taken away from its users, and the
+advertisement is, that that is a good thing. All the while monumental research
+efforts are conducted for years and years on end to make sure Ethereum remains a
+bastion against centralization risks and user robbery onchain. I am of the
+opinion that blockchain networks have a rather short half life, if their
+business models depend on providing users with a worse execution price. MEV
+shouldn't be a selling point if its toxic effects redirect value from users to
+validators. We have to mention that Ethereum validators earn more rewards from
+MEV as well today. The difference here is that I have never heard how great this
+is for the ecosystem, because it isn't. On a fair note, the Solana Foundation
+has recently undelegated large amounts of stake from many validators that have
+mainly engaged in toxic MEV. While this is commendable, it says something else
+about centralization risks and credible neutrality.
+
+---
+
+Another analogy occurred to me for framing the potential size of Ethereum and
+Solana relative to one another. Solana's only selling point over Ethereum is
+execution speed. In particular this refers to Solana's short block times, where
+each slot is set to 400 milliseconds. Now imagine you try to compete against
+Google by delivering search results faster. Google is known to have the best
+answers for virtually everything and most users value quality and breadth over
+split second improvements. Solana is effectively saying that it is better at
+everything by being faster at something. Being very specialized may has its
+merits, but solving a niche problem in a broader problem domain is frankly not
+how you conquer the majority of the market. As discussed in the last Powerlaw
+memo, Solana and Ethereum each cater to their respective use cases. Though my
+understanding of the matter is that Solana goes after a smaller pie. That is not
+to say that this particular pie will be small in itself. It simply means that
+the spectrum of qualities that each individual ecosystem can capture should be
+considerably different in size. The target ballpark ratio in smart contract
+blockchain market share between Solana and Ethereum is in my mind in the order
+of 1:10 for the reasons explained above. Now, I might be wrong here in two
+different ways. First, Solana may cure cancer and takes over the world. In that
+instance I would be proven wrong entirely. Second, I may got the direction
+right, but got the magnitude wrong. It may turn out that the market share ratio
+between Solana and Ethereum is rather 1:100. This "failure" scenario would still
+be ok for somebody who is not long Solana while waiting for the directional
+trade to play out. I am in that camp today and am happy to be wrong like that
+eventually. To be fair, I do not expect a two orders of magnitude difference in
+relative ratio. It feels too much of a difference for what Solana has to offer.
+I would be curious to hear how you, dear reader, frame this problem and what
+market share ratio either ecosystem should obtain long term. Feel free to reach
+out and let me know about your thought process!
+
+---
+
+One interesting data point I saw recently from Tokenterminal was about the
+average trade size on CoWSwap and Uniswap respectively. Without taking 24 hour
+volumes into account here, the average trade size on CowSwap is around 60,000
+USD while it is about 1,000 USD on Uniswap. That is a 60x difference. I am not
+sure right now what to make of it, but I found the stark difference to be
+fascinating. And some more numbers come from VanEck this week. Their model for
+evaluating Ethereum expresses a bear case, a base case and a bull case for the
+price of ETH in the year 2030. The predicted ETH prices for each case are 360
+USD, 22,000 USD and 154,000 USD respectively. The VanEck model has all kinds of
+inputs and makes all kinds of assumptions. Let's face it. All models are wrong.
+Some may be useful, but they are still wrong. But first, a good word. It is
+great to see financial institutions put in the work in order to sell their
+exchange traded products. VanEck tries to frame Ethereum's financials in
+traditional ways so that their clients can understand this new asset class. What
+I find rather less helpful is the width of the predicted outcomes. We are
+basically saying that ETH may trade between zero and infinity in 2030. I would
+not know what to do with that if I were a VanEck client. In any event, I think
+VanEck's base case of 22,000 USD per ETH in 2030 is around the right ballpark
+based on my current understanding of liquidity cycles and growth trajectories
+ahead. Somebody's gotta say it. Higher for longer!
+
+---
+
+At last, I would like to invite anyone of my readers to reach out, if there are
+any questions or ideas for collaboration. I want to write about your startup,
+strategic execution and elegant mental models. My brand archetypes are sage,
+outlaw, magician and creator. If you would like me on your cap table as an angel
+investor, then feel free to send your pitch my way. If you would like my
+feedback or engage in an interesting conversation, then I am happy to chat or
+have a nice dinner over some sweet red wine. If you are a writer yourself, then
+I would love to talk about the art of writing and maybe get your feedback on my
+writings here. If you think we should work on something cool together, then
+please reach out and let's be friends.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001301
