@@ -1,0 +1,112 @@
+MEMO W26 JUN 2024
+
+> People usually do not get the point outside of their own believe system. -
+> [xh3b4sd]
+
+I want to talk about how everyone is building a worse Ethereum in the L1
+blockchain space and explain what this has to do with the way the internet
+happened. Back in the 1990s nobody really understood the internet. Nobel
+Prize-winning economist Paul Krugman wrote this around 1998: "By 2005 or so, it
+will become clear that the Internet's impact on the economy has been no greater
+than the fax machine's.". Yeah well, thank's Paul! Ignoring performance levels
+of the average economist out there, I want to focus on the architecture of the
+internet as we use it today, and then tie a bow into blockchain networks. In
+most simple terms, multiple computers connected to one another form a computer
+network. So far so good. In the real world, networks of computers are also
+connected to other networks of computers. That is basically what the internet
+is. The internet is a network of networks. And from that point of view the lines
+between those networks become very blurry, because we have gotten rather good at
+providing a unified user experience for people on the internet. Beginning 2020,
+Ethereum started to pursue what came to be known as the rollup-centric roadmap.
+That means Ethereum mainnet became the base layer of the Ethereum ecosystem,
+which is often referred to as L1. As a base layer, Ethereum mainnet provides
+economic security to rollups, which are often referred to as L2s. Those L2s are
+what enables the Ethereum ecosystem to scale. And from here we can see what this
+ecosystem is. Ethereum is a network of networks. Today the user experience
+across different blockchains is still rather clunky and full of friction. Those
+UX issues are being heavily researched and worked on. At the end of the day,
+users won't notice what chain they use or whether the underlying infrastructure
+is in fact Ethereum or Base or something entirely different. Just as no internet
+user has to worry about the fact whether their Internet Service Provider is AT&T
+or Telekom, nobody will have to worry about whether they are consuming block
+space from Solana or Ethereum. And from that perspective we can see that it
+comes down to networks of networks, again. Now, pioneered by Ethereum, the idea
+of leveraging L2s for scalability and adaptability has seemingly caught on in
+the most weird ways. And this is the part in which we are looking at Bitcoin and
+Solana, because concessions have been made that would have been scandalous not
+too long ago. We have seen the rise of Bitcoin L2s for almost a year now. Never
+mind the Bitcoin community leveraging Ethereum terminology. What's more
+egregious though is the fact that none of the Bitcoin L2s are real rollups in
+the first place. All the technical details and implicit trust assumptions aside.
+Those scaling solutions are outright confessions that the way in which Ethereum
+is leading the charge ends up being the future proof approach every blockchain
+network is going to gravitate towards. Bitcoin finally implementing L2s is a
+"fight or flight" response forward in the face of direct competition with
+Ethereum. And it does not stop there. Solana just came out with some form of
+zero knowledge compression framework that allows transactions to be scaled on
+top of Solana. If the attentive reader squints their eyes real hard, then we can
+already see where this is leading. Some people ponder for Solana being a base
+layer, compressing transaction batches in similar ways that rollups do. Networks
+of networks! Every day we can hear how different and how much better all the ETH
+Killers are. And at the end of the day it looks like all of them lern their
+lessons and end up gravitating towards the same conclusions and the same overall
+system design. You heard it here first. It's networks all the way down. Vance
+Spencer said it best. If you really just end up being a worse Ethereum, then
+that is not bullish!
+
+---
+
+The ETH ETFs are about to launch within the next couple of days, once the SEC
+gives everyone the final go. By accident I discovered an interesting data point
+on Reddit that surprised me a bit to be honest. Historically the discourse on
+Reddit has been mostly bad, hateful and incompetent on topics that I was mostly
+interested in. In any event, here is what I found in the CryptoCurrency
+subreddit this past week. Somebody who is apparently new to the crypto ecosystem
+asked in their post what to invest in and what to pay attention to in the space.
+The person here has so far been invested in stocks and commodities. The poster
+wrote that they are thinking to allocate 15% of their portfolio to BTC and 5% to
+ETH. That is interesting for several reasons. For one, this particular person
+did already understand that the majors are BTC and ETH, and not something weird
+like DOT or ADA. Second, they are willing to allocate 20% of their portfolio to
+crypto. And third, their allocation ratio amongst the majors is apparently
+market cap weighted. Those points confirm some of our believes that we stated
+here already several times in past Powerlaw memos. The majors are where it's at.
+Substantial allocations are being made. And allocations are by default market
+cap weighted, which is what we should be able to expect for the average long
+term ETF flows.
+
+---
+
+And one more thought on flows in general, since the timeline is once again full
+of cognitive dissonance on the matter. The past couple of weeks can be described
+by a chop-bleed market. We go sideways with a tendency of lower lows. Bitcoin
+has received about 15 billion USD in net inflows within the past 6 months.
+Though the price of BTC has mostly been sideways for the better part of this
+duration, which begs the question whether flows do even matter without any
+context. What is happening when a new asset class has massive inflows, but muted
+price action? There are so many different scenarios and strategies that may or
+may not cancel out net inflows into the new ETFs. If you for instance sell the
+tokens from your hardware wallet and buy the ETF products again in equal
+amounts, then you produced net inflows into the ETFs without affecting the asset
+price on a net basis. The same is true for various similar delta neutral trading
+strategies. What might be more important, and what might be way harder to
+assess, is the amount of new long term holders that can be attributed to more
+meaningful market participants like Individual Retirement Accounts and
+institutional pension funds.
+
+---
+
+The scaling factor for the overall Ethereum ecosystem has now reached over 20x
+according to L2Beat. That translates to almost 300 transactions per second over
+the past 7 days across all of Ethereum mainnet and L2 rollups. And another super
+interesting data point caught my eyes this past week, where we saw operating
+margins for L2 rollups being reported in more concrete terms. Optimism appears
+to have a margin of 97%, Arbitrum has a margin of 90%, Base has an operating
+margin of roughly 80% and Blast has a margin of about 56%. All of that is to say
+that L2s can be run as highly profitable businesses today, which suggests to me
+that more competition is likely to enter the field in order to bring those huge
+operating margins down. And the consequence of lower operating margins would
+then be even more scalability, even cheaper transaction fees and overall better
+user experiences.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2019/0000274
