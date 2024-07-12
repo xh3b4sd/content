@@ -1,0 +1,126 @@
+MEMO W27 JUL 2024
+
+> MEV is everywhere. And when you do not recognize that, you will not survive
+> the dark forest. - [xh3b4sd]
+
+Many continue to express concerns how crypto as an industry has no use cases.
+And I keep saying that this is not true. What seems to be the case is that
+people who say that crypto has no use cases are simply not using the available
+use cases themselves. The major use case that this industry provides today are
+stablecoins, which are primarily demanded in jurisdictions with rather bad fiat
+money. As mentioned in the past Powerlaw memos, those jurisdictions mainly
+include Turkey and countries in south America like Argentina. We could say that
+another use case for crypto that continues to grow in relevance are prediction
+markets. Polymarket generated over 100 million USD in monthly trading volume
+during the month of June 2024, and all of it is fundamentally secured by
+Ethereum. I have been using Polymarket myself for a while now for two main
+reasons. One reason is to see how prediction markets value certain future
+outcomes in the real world. Those outcomes today are mostly of political nature.
+And the other reason for me to use Polymarket is to express my own believe about
+future outcomes. Placing bets on Polymarket has given me some insights in how
+those market dynamics work and what to pay attention to when participating in
+prediction markets. It all starts with a reasonable belief that a person has to
+hold. According to that belief, the challenge is to find the right market in
+order to express that belief in value terms. Most important here are the
+conditions under which any prediction market is trading and under which
+conditions the markets in question resolve eventually. We could say we are still
+early, because figuring out what a prediction market is fundamentally about is
+not always straight forward. I had to learn that the titles under which
+prediction markets on Polymarket are listed have rather no meaning towards the
+conditions of resolving any market, because market titles may simply change any
+time. What really matters are the underlying conditions that a market defines,
+and those conditions may or may not be ambiguous or complete. One of my first
+mistakes that I made when betting on Polymarket was to place bets based on
+market titles. Placing my bets and then reading the fine print of the market
+conditions gave me a rather rude awakening, because what the market title
+expressed was not at all what the actual market conditions described. One
+question that I try to ask myself now on every bet I take is this. Until when
+has the future outcome to happen that I believe in here? All markets have
+deadlines and drawing conclusions on deadlines for yourself without consulting
+the stated market conditions is the perfect recipe to lose it all. Another
+ambiguous example we can think about is pretty common in sports. For instance, a
+prediction market asks the question which team scores the first goal in some
+particular match. And what then happens in the real world is that the team you
+were betting on put the ball into the goal, but the goal was subsequently
+invalidated by the referee for some obscure rule of that game. Your team made
+the goal, but the score did not count officially. How should such a market be
+resolved? Maybe the challenge with any prediction market is to define the
+question and its conditions in the most unambiguous ways possible. Though that
+is a very challenging task. Such a subjective process does always try to
+approach the error rate of zero, but it will never fully get there. In plain
+English that means one thing. Mistakes will be made. And so it turns out that
+many skills are required in order to successfully participate in prediction
+markets. You have to have a reasonable belief. You have to have a well rounded
+understanding of the area, field or industry that you are betting on. You have
+to fully understand the market conditions under which said market eventually
+resolves. You have to have the ability to identify the logical delta between the
+market's conditions and the possible action space within its area, field or
+industry in question. And you have to be aware of the ever changing environment
+in which the market's conditions play out. Because, it seems like one of the
+optimal strategies in prediction markets is full of MEV. Many bets try to merely
+shave off basis points from ongoing prediction markets without much conviction
+whatsoever. In practice that looks like this. Somebody enters a market and
+places a limit order immediately for exiting the market with a little bit of
+profit. This stinky bid strategy is successful because of the inherent
+volatility of anything happening in the real world. And I think that volatility
+is especially prevalent across politics and sports. The downside of the stinky
+bid strategy is that you need to play as many markets as you possibly can while
+understanding the statistical significants of any market that you enter. And
+especially in those early days, I think there might not always be enough markets
+to bet on. And if there are, you just found yourself another full time job.
+
+---
+
+The Supreme Court of the United States has just overturned what has been known
+as the Chevron doctrine. Over the past 40 years we have seen federal agencies
+claim power to interpret the law by themselves under the guidance of Chevron.
+Many democracies end up with ever powerful administrative states, run by
+unelected officials who may or may not have an agenda, and who may or may not be
+fit for the job. In a perfect world of competent administrators all would be
+good and well. Though we are not living quite in a perfect world, and the result
+over the past 40 years has been that society was ruled by unelected officials
+inside of the administrative state expressing their own opinions and agendas.
+Not that everything has been bad. By no means! But the result of the Chevron
+doctrine has stiffled whole industries like nuclear power and blockchain
+networks in the USA without any recourse. Moving forward we should hope to see
+less authority in unreasonable decision making across three letter agencies, and
+instead see more authority in decision making based on the law of the land. And
+since the law of the land is not always clear, we can expect, or better, we
+should hope to see more legislation from congress. Because congress is elected
+by the people. And because making laws for the people is the job of congress.
+
+---
+
+Marc Andreessen recently told his story of how the internet happened. And I
+couldn't but notice all the stark parallels to the early days of the crypto
+industry today. Networks of networks see exponential adoption in what seems to
+be a niche use case at first. The old world collides with the new world and the
+incumbents of the old world do not understand what the new world has to offer
+nor why you would even need any of it anyway. Established professionals predict
+the demise of the new world while being proven wrong over and over again. And
+even after 20 years of technological progress and cultural relevance we are
+going to see many people wondering how any of the blockchain networks are useful
+after all. If you take away anything from here, then let it be this. The world
+will always become more digital and we will always be looking for ways to
+improve how the systems work that we use to govern our societies. We know these
+things to always be true. And even if the road ahead is rocky, and even if
+blockchain networks appear to be a negligible beast of a foreign land,
+blockchain networks will only increase in relevance and value for how society
+and the world economy is fundamentally run.
+
+---
+
+The number of L2 rollups keeps growing and we are now seeing 140 of active and
+upcoming projects in the L2 rollup category. Many think that there are too many
+of those rollups, and while that appears to be true on the surface today, I
+think the path forward will be paved with app specific rollups of which we
+should see thousands over the coming years. On the list of networks processing
+the most transactions per second, Ethereum mainnet was pushed to spot 7 the
+first time ever, which means that for the first time 6 L2s and L3s are
+processing more economic activity than Ethereum mainnet itself. The conclusion
+of this convoluted word salat is simply this. Usage of blockchain networks
+across the Ethereum ecosystem is close to all time highs. All scaling and usage
+metrics are up into the right, which essentially means that Ethereum is
+relevant, and that Ethereum is scaling.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2021/0001070
