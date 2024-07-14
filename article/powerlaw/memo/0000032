@@ -1,0 +1,124 @@
+MEMO W28 JUL 2024
+
+> The way you breathe defines the way you live. - [xh3b4sd]
+
+We have been in the belly of the beast this past week. We have been to Brussels
+for EthCC. The heart of Europe and the power centre of the EU. Not to dwell too
+much on politics, but to me personally the state of the nation had a rather
+rotten smell to it in many different ways. I would summarize my bottom line for
+the continent of Europe under the heavy stone of bureaucracy like this. Stupid
+games for stupid people! But enough of it, because it was EthCC's time to shine.
+One takeaway for me has been that the Ethereum ecosystem, and I think crypto as
+an industry at large is a complete cross section of society. This community is
+representing almost any type of character in almost any aspect of life. We have
+talked to people who do not know what they are doing. We have talked to people
+who are outright delusional. We have talked to people who are only here for the
+money. We have talked to people who want to build towards a better future. We
+have talked to people who are absolutely brilliant. And we have talked to people
+who are absolutely lovely. The main conference of EthCC was accompanied with
+over 400 side events across all of Brussels. You could go to multiple venues
+every day and talk to so many different people from so many different sectors
+inside of crypto. The sheer amount of technology projects being built and their
+sheer amount of diversity has been really impressive to witness first hand. Yes,
+most of them will fail. And yes, many of our experiments will not yield the
+desired outcomes at first. Though we have to highlight how much this industry is
+flourishing and developing despite all the good, the bad and the ugly. I do not
+subscribe to all the naysayer takes on crypto twitter. Instead I am optimistic
+for the future of our industry. The best is yet to come!
+
+---
+
+A common thing that people told me around the EthCC side events was that there
+are not enough apps in crypto, and how people get tired of infrastructure
+projects. In my opinion all of those takes are not more than the repetition of
+crypto twitter herd mentality. Saying that there are no crypto apps that people
+use completely misses the forest for the trees in my opinion. Statements like
+these completely miss the point. My sense is somehow that people wait for
+projects to happen like TikTok, but onchain. Or Uber, but onchain. People expect
+everyone on this planet to make transactions every day on their favourite
+blockchain network. And I honestly think that this is totally not what we are
+going to see at the end of the day. Only because you don't like the existing
+apps, or only because you don't use them, does not mean that those apps are
+useless. In fact, it may only mean that you are missing something, or worse,
+that you are willingly ignorant about what is already in front of your eyes. And
+that would frankly not be a problem for the industry, but your own problem
+alone. As one practical example, cars are very useful. Though not everyone has a
+car. And nobody who is not driving would ever say that cars are not useful, or
+that the auto industry is useless at large. I think that all applications based
+on blockchain technologies will inevitably have financial character, in one form
+or another. Most people are not using pipes directly on a daily basis. But
+everyone in the civilized world has access to tap water and sanitation
+infrastructure. Maybe the real problem is that some people have bet the farm on
+pipe manufacturers, and they are seeing that their pipes from their pipe
+manufacturers are not yet used in every household. And maybe they will never be
+used anywhere. I could see that being a factor. And in similar light, I can also
+see how layers of abstractions on top of networks of networks will be
+underpinning all financial aspects of live eventually. Because this is simply
+what we do and what we are going for here.
+
+---
+
+I came across Rome Protocol since it got funding from Bankless Ventures, among
+others. The idea of Rome Protocol is to use Solana as shared sequencer for
+Ethereum. I like this idea specifically because shared sequencers require some
+form of credible neutrality and inclusion guarantees in order to be useful at
+all. For those reasons it is naturally pretty hard to bootstrap shared sequencer
+networks, because you have some kind of chicken-egg problem. Shared sequencers
+are only used by many if they are credibly neutral. At the same time shared
+sequencers are only credibly neutral if they are used by many. Now tapping into
+an existing consensus layer like Solana for shared sequencing is one good
+addition to the shared sequencer landscape. The only issue with Solana as a
+shared sequencer today is that Solana still appears to have outages once in a
+while. And what nobody wants to rely on ever, are those kinds of single point of
+failures. For that reason I think what we are going to see in the future are
+market places of shared sequencers allowing blockchain applications to rely on
+fault tolerant sequencer architectures that provide them with 100% uptime and
+all other relevant properties catered to individual business models. While I was
+in Brussels for EthCC I was talking with some developers of shared sequencer
+technologies. And what I took away from our conversations there was that the
+potential future demand for sequencing transactions in various ways will likely
+be far greater than any one L1 blockchain or ecosystem can ever handle on its
+own. And for that reason I think Solana would be a great addition to Ethereum's
+shared sequencer landscape. The more the merrier!
+
+---
+
+In the past we have discussed several instances of US regulatory pressures
+directed at the crypto industry at large. It is sad and uncommon that a federal
+agency like the US SEC goes on an unfounded crusade like we have seen the past
+couple of years. The latest development in egregious behaviours has now just
+concluded by the SEC closing the investigation into Paxos Dollar. USDP has once
+been the 3rd largest stablecoin after USDT and USDC with roughly 23 billion USD
+in TVL. But since the SEC issued a Wells Notice to Paxos in February 2023, USDP
+almost completely vanished from this industry. In this case, a federal agency
+has taken action against a legitimate business, causing that very business to be
+destroyed by losing all relevance within its own industry. And the end of it all
+is that the government seemingly randomly destroyed economic activity without
+any form of due process, and without holding itself accountable for it. As far
+as I know, nobody within the SEC is penalized or punished. Nobody within the SEC
+has to take their hat and leave. Those events are all outrageous abuses of power
+that really no business owner should ever suffer from. The government exists to
+serve us, the people. And the only thing being served was a Wells Notice. The
+government exists to protect us, the people. And not a single individual has
+been protected by the SEC's arbitrary tyranny against a whole industry. The only
+light at the end of this tunnel is the overturning of the Chevron doctrine as
+discussed in last week's Powerlaw memo. Moving forward, we can only hope that
+federal agencies will have less power to baselessly interfere in the economy and
+progress of our nations. And we can only hope that congress will start making
+better laws in order to prevent misinterpretation of those very laws that we are
+all living by.
+
+---
+
+The number this week is 500 million USD. Actually it is a bit more than that.
+The news here is that BlackRock's BUIDL fund has now over 500 million USD in
+deposits. What is so great about it? What's so great about it, is that the
+largest asset manager on this planet is building and expanding new financial
+primitives on top of Ethereum mainnet. And there is no stopping it. The next big
+milestone for the BUIDL fund will be 1 billion USD in TVL. And that means yes,
+TVL does in fact matter. On that note, across all of crypto we can track over
+1.8 billion USD in onchain treasuries today. Over 1.3 billion USD, or over 72%
+of all tokenized treasury products are managed on Ethereum. So yes. Yes TVL
+matters.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2018/0000081#L1
