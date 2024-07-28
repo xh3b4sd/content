@@ -1,0 +1,121 @@
+MEMO W30 JUL 2024
+
+> Strength is what you do even though everything around you is difficult. -
+> [xh3b4sd]
+
+It has been ETH ETF week. The word Ethereum is printed on a large banner hanging
+outside of the so much renowned New York Stock Exchange as I am writing these
+words. Without paying too much attention during the week, I had the feeling
+there was an awful lot of cope and quiet in the air. Is this just the summer
+lull? Or what are we dealing with today? We look at the BTC and ETH spot ETF
+flows. We look at Dune dashboards. We look at Solana's relative strength and we
+look at said cope all around. Let's start with this then. The net flows of the
+spot BTC ETF have never been negative since inception over half a year ago. The
+spot ETH ETF only started to trade earlier this week, but we have to acknowledge
+that its net flows have so far never been positive, but on the first day of
+trading. The converted Grayscale ETHE trust gave away the most, but is still
+holding about 8 billion USD in ETH assets. "Rip the bandaid off!" I hear them
+shouting from the roof. The total net flows for BTC and ETH are 17 billion USD
+and negative 180 million USD respectively. I wanted to see what the Dune
+dashboards say about the ETFs. The Bitcoin ETF dashboard made by Hildobby is
+pretty interesting and informative. The similar Ethereum ETF dashboard does
+exist, but is practically useless in its current form. Two months ago the
+Grayscale trust was added, but none of the other spot ETH ETFs are shown at the
+time of writing. What we have then been left with is to compare the number of
+people who starred the dashboards. The Bitcoin ETF dashboard had over 1800
+stars. The Ethereum ETF dashboard, abandoned as it is these days, has close to
+150 stars. The right conclusion here would be, the ETH dash has so few stars
+exactly because it is abandoned. So, stars on an abandoned dashboard don't mean
+much. I agree. But something is in the water. And so may that be an indicator
+for general interest. And since these are also the days of the Mt. Gox
+repayments, people receive in parts a lot of Bitcoin. Arguments have been made
+how some of those redistributed coins may be allocated to the just released spot
+ETH ETFs. And judging from the price action so far it looks more like people
+sold their Mt. Gox BTC and Grayscale ETH to buy, not more BTC, not more ETH, but
+more SOL. People do always seem to find explanations for why ETH underperforms.
+And whatever the reasons, if anything, the SOL price has been much stronger
+compared to ETH, and I must say that I am surprised by that development. My
+theory right now is that ETH is still overallocated across the market at large,
+and that SOL appears to be still underallocated in comparison. Where will then
+be the point at which SOL cannot outperform ETH anymore so that both assets are
+fairly priced relative to one another? Some quantitative estimates I have seen
+suggest that SOL will trend towards a medium term equilibrium of 25% market
+capitalization of ETH. We are somewhere at 21% today. And I want to end this
+part with another thought, without referring to anyone in particular. Let it be
+thought provoking. And let it be this. The hardest pill to swallow is eventually
+the fact that all the idiots have been right all along.
+
+---
+
+Some more thoughts on Solana's perception and valuation. A metric often shown is
+the amount of DEX volume that Solana is generating compared to Ethereum. The
+topic is contentious because nobody can agree whether TVL or volume is the
+relevant metric. Either metric might be more or less meaningful depending on
+what kind of economic activity we are looking at. My take would be this. Metrics
+inform about use cases. And those are contextual. If you are in the business of
+transferring money, then volume is the metric that you may pay attention to. The
+velocity of money is then what you care about, because more of less money can be
+transferred, if you transfer smaller amounts more often. That is what is
+happening on Solana today. And the money transferred over there is still mostly
+meme coin related, of which almost all go straight to zero quickly. The volume
+metric in itself is a good one for the right use case. And Solana is now
+generating the same or more DEX volume than Ethereum is doing on its own. That
+statement in and of itself is what a lot of market participants pay attention
+to, but it is not too meaningful as I see it. Here are some reasons why I think
+that way. Some of those meme coins have a market capitalization of under 100,000
+USD. At the same time, those meme coins generate volumes of several hundreds of
+millions in volume. And my guess would be that most of those volumes are MEV
+related. Solana is doing more with less. That is great. But if some shitcoin of
+some 70k market cap makes about 200 million USD in volume, then I am not too
+interested in that kind of metric. Another issue with those kind of comparisons
+is that the Ethereum mainnet related metrics alone are now a mere subset of what
+is actually happening onchain. We always have to look at the cumulative amount
+of anything across all of the Ethereum ecosystem, and that includes L2 rollups.
+Today we are still early and the tooling to understand what is happening onchain
+is still being build. So it takes effort and time to understand what is going on
+around us. In some metrics the competition that Solana faces is not even
+Ethereum, but Arbitrum and Base. One day we will recognize that pointing to the
+fact how poorly Ethereum is performing on this or that metric compared to
+something else is rather irrelevant, because Ethereum mainnet gave up certain
+areas to the L2 ecosystem. Focussing on one area versus another is a business
+decision. I do not know what the future brings, but we are living through times
+of tectonic shifts in our industry, and throughout the world at large. So, what
+do you think?
+
+---
+
+Following from the above, we have to take a look at the ETH/BTC ratio. It is now
+trading again below 0.05 ETH per BTC. Somewhere above that specific line,
+reasons for optimism can be found. Today we have to acknowledge that ETH/BTC has
+not traded above the 10 month moving average since somewhere around January
+2023. And what we have learned ever since is that anything trading below its 10
+month moving average for significant amounts of time should simply be sold.
+Since early last year ETH has given away a lot of strength in price performance
+compared to BTC. And yes, compared to SOL the picture looks worse. There is
+likely a long painful way ahead of us in order to find a strong footing on those
+relative valuations. And so we keep pounding the table on metrics that do in
+fact matter long term. We are seeing over 8 million million weekly active
+addresses across all L2s. That is almost all time high again! Interestingly,
+Base has 40% of that market share there. Another interesting data point that
+keeps catching my attention is in the area of ETH burn. Different categories of
+economic activity cause certain amounts of ETH to be burned. DeFi is such a
+category. NFT is such a category. And L2s are a category too! What I find
+interesting here is that the L2s related ETH burn is steady at 7% for months
+now. That suggests that there is a considerable and reliable demand for block
+space to burn ETH based on L2 rollups that want to pay for economic security.
+And that means yes, economic security does matter, on Ethereum!
+
+---
+
+At last, I would like to invite anyone of my readers to reach out, if there are
+any questions or ideas for collaboration. I want to write about your startup,
+strategic execution and elegant mental models. My brand archetypes are sage,
+outlaw, magician and creator. If you would like me on your cap table as an angel
+investor, then feel free to send your pitch my way. If you would like my
+feedback or engage in an interesting conversation, then I am happy to chat or
+have a nice dinner over some sweet red wine. If you are a writer yourself, then
+I would love to talk about the art of writing and maybe get your feedback on my
+writings here. If you think we should work on something cool together, then
+please reach out and let's be friends.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2020/0000722
