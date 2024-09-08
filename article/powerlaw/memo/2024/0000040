@@ -1,0 +1,117 @@
+MEMO W36 SEP 2024
+
+> I hear what you say, but I see what you do. - [xh3b4sd]
+
+The new meta in Ethereum land has apparently been to suggest that we better
+reduce the amount of available blobs for data availability, because the fees
+generated as revenue on Ethereum are now "too low". When you have a look at the
+timeline, then high fees were bearish for Ethereum in 2021, because nobody could
+afford to use the chain. Now low fees are bearish for Ethereum in 2024 because
+current demand does not burn enough ETH. Those and other misinformed takes can
+be witnessed today in the realm of Crypto Twitter. It's all wrong. It's all
+backwards. It's all just super dumb and short sighted. The Jevons Paradox tells
+us that the falling cost of use induces increased demand to the extend that
+resource use inevitably increases eventually. EIP-4844, or Protodanksharding was
+rolled out in March 13th this year, which was 6 months ago. The average
+transactions per second across the Ethereum ecosystem was then below 100. We are
+now making almost 400 TPS consistently, with no signs of slowing down. In fact
+MegaETH is making the rounds now as another L2 with an outlook of realtime
+blockchain applications and a capacity of 100,000 transactions per second. Any
+quality blockspace that we create in this industry will be used eventually,
+because such quality blockspace has an inherent value that certain actors are
+willing to pay for. When you scale a system to accommodate more usage, you are
+not scaling back prematurely again only because scaling limits are not being hit
+just yet. That wouldn't make any sense. And so we are simply going to build out
+more applications and generate more usage in order to consume all the blobs we
+have right now. And then we will scale some more, and use up those blobs as
+well. Patience, dear reader.
+
+---
+
+In similar fashion of confusion as described above, we have been hearing
+arguments that L2 rollups are parasitic to Ethereum mainnet in a way that those
+rollups diminish the valuation of ETH the asset. People are looking at the
+underperformance of ETH relative to BTC and see a drawdown of 50% over the past
+2 years. ETH/BTC went from a high of 0.08 to a low of 0.04, where it is sitting
+at right now. I was wagering the bet that August 2024 will roughly mark the
+ETH/BTC bottom, because all of the foreseeable and unforeseeable headwinds out
+there have already been dealt with by now. But enough of the financials. The
+point I want to make is that those financials are the reasons for unqualified
+opinions to spread far and wide. We are hearing that this, that, or the other
+thing ought to happen now, in order to make number go up. And none of those
+people have apparently ever built anything themselves, which would explain all
+of the nonsense we can see on the timeline again today. But let me humour you
+with another opinion. L2s are not parasitic. In fact, I think that all the ETH
+Killers, all the alternative L1s out there, the Solana's of the world, are now
+rather competing against L2s like Arbitrum and Base, instead of Ethereum. We can
+see that in metrics of various TVL and Volume categories. L2s are not parasitic
+because they extend Ethereum's real estate. And L2s are not parasitic because
+they create more opportunities for ETH to be used as money, gas and collateral.
+L2s are not parasitic because they are by no means incentivized to become L1s
+themselves. I think it is rather the other way around, and time will prove it.
+L2s are rather incentivized to grow the pie, by banding together with other L2s
+in one global layer of liquidity, because the union of blockspace and its
+subsequent opportunities is so much larger than the sum of its parts. That is
+Metcalfe's law all over again. That is why we are building networks of networks.
+And anyone trying to tell you a different story has in my mind not understood
+how network effects work. The joke about all of the heat that Ethereum mainnet
+and its L2 rollups are catching, especially from the Solana and Bitcoin
+community, is that people from those same communities are already building
+towards their own Layer 2 solutions. The audacity and hypocrisy in our circles
+is truly something else.
+
+---
+
+I guess it always helps to explain technical concepts, over and over again. One
+argument that the L2 naysayers like to repeat goes like this. Well, L2s are not
+incentivized to decentralize because they make all their money with sequencer
+fees, because this is where MEV is captured. For the attentive Powerlaw reader
+those types of arguments should be rather obvious to dismantle, and I gave most
+of it away already above. But let me spell it out again. As far as I am aware,
+there is nothing like sequencer fees in the first place. L2 operators run
+sequencers because they want to give users a way to consume blockspace.
+Sequencing is a service provided for free. It is true that sequencing is able to
+capture MEV, because sequencing very naturally decides how transactions are
+ordered. The default and most obvious algorithm to sort those incoming
+transactions is simply to include them as they arrived. Today, none of the L2s
+out there capture any of the potential MEV for themselves as far as I am aware.
+We have mentioned it here in the past several times, blockchains are no
+incentivized to benefit from MEV in a financial way because it reduces the
+quality of blockspace that users consume. Just imagine two different medival
+trails between two villages. One trail is known to be full of thieves and
+wolves. On that trail people are known to get robbed and eaten alive. The other
+trail can be walked safely. Which one of those trails do we think will be
+crossed more often? It will be the trail that is safe to pass without getting
+molested. The same is true for blockchain networks. Those that do not rely on
+robbing users have a fighting chance to survive in a sea of open source
+competition. And so as Justin Drake has explained again in the recent Reddit AMA
+of Ethereum Researchers, L2 rollups like Base make most of their fee revenue
+through congestion fees, which is a result of high blockspace demand. Congestion
+simply means that there is more demand than there is supply. That has nothing to
+do with MEV. MEV is typically achieved by reordering transactions in a block
+which would be something a sequencer would be able to do, but as we elaborated
+already, to the best of our knowledge this practice is not institutionalized,
+and it will probably not be institutionalized, ever, for the reasons that we
+outlined above as well. Now, I am not saying there is no MEV on L2s. What I am
+saying is that the incentives for L2s are to grow the pie, to extend Ethereum's
+real estate, and to contribute to a flourishing Ethereum ecosystem, because that
+is what creates more opportunities than any single player could achieve for
+themselves. And again, anyone trying to tell you a different story has in my
+mind not understood how network effects work. A unified Ethereum experience is
+coming. It may take a minute, but the most brilliant and most gritty people in
+this industry are all working on a future version of the world, in which the
+highest quality blockspace can be consumed within the Ethereum ecosystem. That
+is what I can sense every single day in this industry.
+
+---
+
+And the number for this week should be 0.033, which is the predicted ETH/BTC
+ratio by the end of the year, based on some podcast host that I was not able to
+get a hold of. I think this prediction is unrealistic, and I would have liked to
+bet money on that outcome. Just two problems. I could not get in contact with
+the person who has made the prediction, and, I was not able to deploy the app
+just yet on which I would have liked to lock in that bet. More on the app that I
+am building right now soon, I promise. Until then, we keep wandering this
+wilderness.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2020/0000997
