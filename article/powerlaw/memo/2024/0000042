@@ -1,0 +1,120 @@
+MEMO W38 SEP 2024
+
+> One of the many fundamental flaws in understanding systems is to confuse
+> inputs with outputs. - [xh3b4sd]
+
+Dear diary, it was very surprising to me when I heard several times this week,
+that some people started to entertain the idea of exchanging their ETH for BTC.
+This is so surprising to me, because it does not make any sense in my head.
+Imagine somebody holding ETH ever since it traded around 11 USD, since the very
+early days, now allocating more to BTC. And for what reason? What are those
+people doing? What made them allocate money to ETH in the first place. And what
+makes them now want to reallocate to BTC? To me those kind of stories are a tale
+of social media intoxication and survivorship bias. If you spend too much time
+on social media, listening to opinions and dangerous half knowledge on the
+internet, instead of listening to your own thoughts, then you effectively sign
+up to be brain washed in ways that cannot be too healthy. And then,
+acknowledging that BTC had a good run up to this point, nobody has a plan for
+BTCs future. And nobody seems to be too concerned with that minor detail
+anyways. Well well well. I am oddly reminded of the Grasshopper and the Ant. And
+guess who the industrious ant is in our analogy. I don't want to spend too much
+time on the topic of social media intoxication. The bottom line is, be
+productive in your own right and don't get brainwashed on the internet. Or put
+differently, try to hear your own thoughts. What I want to further discuss here
+is the future of Bitcoin. There are two good things I can say about BTC today.
+The first one is this. Bitcoin was and is the pioneer of decentralization and
+all of its implications. It challenged the status quo and showed us how we can
+use technology to be better tomorrow. And the second point I would like to make
+in favour of BTC is this, rather sad argument. Number went up, like, a lot. BTC
+had a good run so far. I am not saying that it is over for BTC. My thinking here
+is rather that Bitcoin, the network, gets into a more and more challenged
+position over time, even if the price chart makes you believe otherwise in some
+quarters. The future of BTC is full of structural challenges. And it seems that
+almost nobody in its community is concerned with any of the dark clouds, that at
+least I can see on the distant horizon. But let's get more concrete then. What
+are those dark clouds? The complicated way of explaining the fundamentally most
+broken aspect of Bitcoin is its security budget. Another way of framing this
+particular issue would be to say that, long term, Bitcoin has no money to run
+its own network. One fundamental flaw in how the Bitcoin network functions is
+the immense amount of resources that is required in order to mine a block. And
+mining a block is the very process that makes a blockchain network secure in the
+first place. The irony of it all is that all of this energy required is the very
+selling point of Bitcoins security by today's standards. And I think this
+conundrum confuses people, like, a lot. If you cannot mine a block, then you can
+either not participate or the entire network becomes unusable. And so, making it
+ever more and more expensive to mine a block requires ever more and more money
+in order to operate the network. Well, the network, that is Bitcoin, is operated
+by miners. Those miners are typically very large, at times, very cyclical
+businesses. And their entire purpose is to mine BTC so that they can sell it
+again. This activity will at some point materialize as an energy leak in the
+system, because the implication of higher operational costs is the need for ever
+higher revenues. And which business in the history of mankind has ever had the
+luxury of continuously generating ever higher revenues? In a way this is the
+very definition of a ponzi scheme. And there is a fascinating mental model that,
+by definition, is rather unintuitive. The problem with understanding complex
+systems is often that people confuse inputs with outputs. Imagine you are
+wandering through a forest, and you pass by a little creek. Now ask yourself
+what the chances are for that creek to be right here in that forest. That is a
+very complicated question to ask now, isn't it? Yes, and it is also the wrong
+question to ask. In fact, this question confuses the actual input, the creek,
+with the actual output, the forest. The forest isn't just there by some miracle.
+And the creek doesn't just randomly appear in the forest. The creek was there
+all along, and over time the forest grew around it. Because where there is
+water, there can grow trees. Now back to Bitcoin. We have the miners that mine
+blocks, which is very expensive. And we have BTC, which is the thing that the
+miners sell. People in the Bitcoin community will now argue that BTC has to
+increase in price because it becomes more and more expensive to mine it. And
+this very statement confuses once again inputs with outputs. The price of BTC
+doesn't have to do anything. The price of BTC is an input to the viability
+equation of a Bitcoin mining business. And if this input erodes, then the miners
+go bankrupt. The need for the Bitcoin network to consume ever vaster amounts of
+energy does not magically increase the price of BTC. Because the price of BTC is
+an output in an asset valuation equation, where the inputs for this equation are
+utility and speculation. The Bitcoin community prides itself in the fact that
+Bitcoin can't be changed. The total supply of BTC is capped at 21 million units.
+Nobody wants to touch the underlying protocol. That is a feature, apparently.
+The idea sounds nice, I think long term though, this is just not how anything
+works. And so Bitcoin will either find ever greater fools, or one day, becomes
+too heavy to move. And the fact that after 15 years of its existence, nobody is
+asking the hard questions, should make everyone being exposed to this network
+uncomfortable. Bitcoins security budget is broken. Bitcoin will have to adapt,
+or subside eventually.
+
+---
+
+If you haven't heard already, I have to tell you. The documentary "Vitalik: An
+Ethereum Story" has been released. This is a movie telling the story of
+Ethereum, including all of its vision and struggles. And maybe that is one of
+the most beautiful things about Ethereum. It is confronting its struggles. In
+that way, Ethereum is the industrious ant preparing for winter. And isn't that
+something? If you haven't seen the movie, or if you can't, then go watch the
+trailer on YouTube. I found it very moving and inspiring. And understanding the
+philosophy of the people building Ethereum, and understanding that their vision
+for the future is in some way aligned with my own, makes me very hopeful. And I
+think that the best days are yet to come. Those are the early days. And we are
+the pioneers.
+
+---
+
+In other news, another interesting L2 rollup was announced recently. It is
+called Atlas, and it is built using a custom implementation of the Solana
+Virtual Machine. Atlas will settle to Ethereum to access Ethereum’s assets in a
+trust minimized fashion. And with that, Atlas will benefit from Ethereum’s
+security and censorship resistance. At the end of the day, we will have to see
+how all of those L2s earn their right to exist in the first place, and how they
+get adopted and used in the real world. For now it is just interesting to see
+that more SVM based L2s are being created. The rollup centric roadmap in full
+swing!
+
+---
+
+Our number for this week is the number of distinct addresses interacting with
+one or multiple L2 rollups in a given week. And that number crossed 10 million
+now for the first time. We can't strictly talk about users, because we don't
+really know what a user is onchain. We can talk about addresses though. And
+there have now been 10 million addresses active within a single week across all
+the L2 rollups, which is a crazy amount. Those adoption metrics are steadily
+increasing, whatever the ETH price is doing. So fret you not, out there in the
+dark. Our Ethereum is going to make it.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001327
