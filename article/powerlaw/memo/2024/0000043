@@ -1,0 +1,127 @@
+MEMO W39 SEP 2024
+
+> History and justice are quite alike, they have to be taken with a strong grip. - [xh3b4sd]
+
+"But what about the inverted yield curve", can we hear them asking. And to me it
+is just all noise. People in crypto land are concerned with so many inversions
+on the 4D chessboard, and often I can't help but think, you are all just playing
+against yourself. If you want to make it, long term, then all you need to do is
+to bet on human progress. Technology equals human progress. And however you wish
+to express that bet on the human race, somewhere there between the lines of
+technology you will find the answer. Now, all tech is not created equal. And not
+all tech will survive the next day. And this is the part where you will notice
+that I start talking my book again. Because in the context of progress and time,
+Ethereum is being build to last. The other day I was thinking how we are
+building hyperstructures nobody has ever seen before, and how those
+hyperstructures will shape the world of tomorrow. In one version of such a
+cypher punk tomorrow, I think chances are that a hundred years from now, the
+people building Ethereum will be acknowledged as the founding fathers of a
+network state and its constitution, the protocol enforcing Ethereum itself. On
+that line of thinking, let me take you on a trip back to the future. In the
+early 21st century, Vitalik Buterin laid out a blueprint for what would
+eventually become Ethereum. His original vision, articulated in the Ethereum
+White Paper in 2013 was further formalized in the Ethereum Yellow Paper in 2014.
+Those early documents can be seen as the Declaration of Independence for a new
+digital frontier, that was further described as network state. Just like the
+American colonies sought independence from British rule, Ethereum tried to break
+free from centralized control of corrupted institutions. All in the promise of a
+platform for decentralized applications that provide anyone with equal access,
+regardless their individual background or belief. The Ethereum Yellow Paper,
+authored by Gavin Wood, defined the technical foundations that govern the
+Ethereum blockchain today. It represented the formal breakaway from incumbent
+monopolies and power structures, setting the groundwork for a decentralized,
+self-sovereign digital economy. In the way the Declaration of Independence laid
+out the colonies' grievances and aspirations for freedom against King George the
+3rd, the Yellow Paper articulated the technical grievances with existing systems
+such as Bitcoin's limited programmatic expressivity. In that light, the Yellow
+Paper subsequently provided a vision for a more robust and flexible world
+computer. Henceforth, the values imprinted in this declaration sparked a
+movement of pioneers, much like the early US colonies united under shared
+values. The Yellow Paper was a call to once again go west, and build a new
+digital economy based on principles of decentralized consensus and
+permissionless innovation. As Ethereum matured over the years and decades to
+come, its protocol became the constitution of this new network state. Just as
+the US Constitution from 1787 formalized the structure of the American
+government, delineating the powers and responsibilities of its branches, the
+Ethereum protocol defined the rules for its governance and execution branches
+for everyone onchain to follow. Myriads of smart contracts, much like the
+articles of the US Constitution, laid down the law for the emergent behaviour
+within the Ethereum ecosystem. In an effort to scale its reach, the dawn of L2
+rollups was Ethereum's moment of assembling the Federal Union. Each chain, like
+the Arbitrums and Optimisms of this world, created their own operational
+autonomy while remaining anchored to the security and governance of the Ethereum
+protocol on mainnet. With every joining L2 rollup this union grew stronger,
+attracting more economic activity due to the economic security this network
+state could provide as one. And united by one protocol, free to execute as they
+pleased, this network state became later known as the United Chains of Ethereum.
+And with that conclusion, we are coming full circle, back to where we are at
+right now, today. I think chances are that a hundred years from now, the
+protocol guild, and all the people that believe in Ethereum and build on top of
+it, will one day be acknowledged as the founding fathers and pioneers of the
+constitution, that we call today, Ethereum.
+
+---
+
+I had kind of a revelation earlier this week thinking about ETH as money across
+L2 rollups. There is often a debate about the onchain user experience nowadays,
+because using a blockchain network requires users to pay for the blockspace that
+they want to use. One narrative that chains started to push is the idea of
+allowing the user to pay for gas with any token that they may already own. The
+benefit of that would be that you do not force users to get one specific token,
+but allow them to use the tokens that they already own. That mechanism reduces a
+lot of the friction that especially new users face when using the chain. The
+reaction to this idea is often the following. What about the value accrual of
+that very gas token, if users can pay gas in anything other than my bag? Well,
+as long as the underlying network denominates its block space in that original
+gas token, I do not see any issue with allowing users to pay in whatever token
+they like. Because, block space is still denominated in the original gas token,
+meaning the token that the end user has, still has to be swapped for that native
+gas token anyway. In the context of Ethereum that means the following. Even if
+users want to pay for gas with other tokens, it will still be ETH as long as the
+underlying networks stay true to their vision. We are already allowing for
+better UX with EIP-4337 via gas sponsorships. And we are already allowing to pay
+gas in alternative tokens. That is all ok. Furthermore, here is the kicker. ETH
+is used and burned in either case, plus, the swapping required to exchange user
+tokens for ETH increases gas consumption again, which is again, still
+denominated in ETH. All of the UX improvement efforts happening already today
+will ensure that ETH becomes ever stronger money across all of Ethereum, as long
+as the execution networks remain true, or as we call it, aligned. The users
+doesn't have to care too much about any of the technical details here. I think
+this is a win win situation, with the optionality that users can then still use
+ETH as collateral in DeFi if they really want to.
+
+---
+
+Recently I noticed that I made a mistake in the Powerlaw memo of W30 back in
+July of this year. I was looking at the L2 related ETH burn and said that it was
+steady at 7% for months on end. That was wrong, because I was looking at the
+wrong Icons on the L2Beat dashboard, which gave me the wrong numbers, causing me
+to draw the wrong conclusions. Back then it was in fact about 3%, not 7% of L2
+related ETH burn. I noticed that mistake because I saw the numbers the other day
+again and realized that the L2 related ETH burn was now at 5%. I wanted to
+mention the mistake here and get the record straight. The bad thing all along
+was that the L2 specific burn wasn't as high as I thought it was. But the good
+thing is now this. Those numbers increased ever since anyway. So in the end, not
+all shall be lost! We keep scaling Ethereum. And we keep burning that ETH in the
+process.
+
+---
+
+Let's look at some numbers then, shall we?. There is roughly an equivalent of
+14.5 million ETH bridged over to L2 rollups today. That means the amount of
+value bridged over is basically locked in those supply sinks. Why is this
+relevant? First of all, supply sinks make it easier to move asset prices. And
+then, all that economic value bridged away from mainnet lends more credibility
+to those secondary execution environments. And that means the rollup centric
+roadmap works! In other news, we just saw the second net positive week for ETH
+ETFs, with over 70 million USD of inflows. Having said that, we also have to
+acknowledge that we are still 400 million USD short of being net positive in
+total since ETF launch, which is now about two months ago. So far the appetite
+for BTC ETFs has remained an order of magnitude larger than the appetite for
+their ETH counterparts. So far it hasn't been very pretty at all. Some ETF
+vendors posted articles about the idea that Ethereum is like Microsoft, and that
+temporary slumps in market performance do by no means take away from the
+fundamental value underlying it all. That I agree with. Because, eventually,
+fundamentals will matter.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001323
