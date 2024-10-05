@@ -1,0 +1,138 @@
+MEMO W40 OCT 2024
+
+> People usually do not get the point outside of their own belief system. - [xh3b4sd]
+
+Markets are some of the most powerful concepts in human history. Our ability to
+leverage markets has enabled trade and wellbeing on a global scale across the
+centuries like we have never seen before. We can get lost amidst the marvellous
+progress that we accomplished in aggregate as all of mankind, thinking we have
+figured it all out. The thing is, we haven't. There are so many questions left
+to answer and there is so much progress yet to be made, to everyone's benefit. I
+have spent the past couple of months working on a proof of concept for a new
+type of onchain information market called [Uvio], now deployed on Base Sepolia.
+The idea behind Uvio is rather simple. I want to surround myself with the most
+competent and most honest people in the world. And Uvio can be one way to do
+exactly that. Let us play long term games with long term people, I say. On Uvio,
+you can say anything you like, but you have to stake some tokens together with
+your claim in order to prove your conviction about your expressed belief. You
+are effectively staking your reputation in concrete ways with whatever you
+believe in, and allow the community to validate or invalidate your believe based
+on the community consensus. You may wonder why somebody would want to do this.
+And the answer is that most people probably wouldn't. Most people on the
+internet today are neither competent nor honest. The few people who would want
+to use Uvio may use it to prove what is right and what is wrong. Those few kinds
+of characters may want to build a track record of competence for themselves
+onchain or monetize their authority in any given field of the economy. It has
+now become possible to build information markets using social networks and
+cryptography in order to make better decisions collectively. The way this better
+decision making is supposed to work is due to the added incentive of potentially
+winning money in the case that you end up being right, or losing money if you
+end up being wrong in your belief. Whether the user chooses to stake real or
+fake money tokens is entirely up to them and in the future it will be possible
+to decide who to play with inside of those information markets. There are other
+governance like aspects to Uvio that I plan to work on in the future. Go give it
+a shot!
+
+---
+
+Apart from introducing Uvio here to the world, I wanted to talk about the
+difference between staking and trading. A common theme in the crypto industry is
+to take any idea, add a token to it, and allow people to trade shares of that
+token in one form or another. I have grown to feel like this crypto reflex of
+making everything a trading app will end up being a net negative for the
+industry. Because trading is fundamentally a mechanism to exchange one value for
+another wherever there is a need for it. And the pendulum in our capital markets
+has swung a bit too far in one direction for my taste, since the centralized
+systems we have built throughout society created an incentive to trade even if
+there is no real need for it. This is not a communist take. I am all for
+leveraging the free market as a tool to surface competence and integrity, which
+is exactly why I set out to build Uvio now in the first place. At Uvio, our
+north star is to surface who is right and who is honest, using information
+markets. And one point I wanted to make here is that markets can be useful, even
+without trading. Instead of allowing people to trade on Uvio, we allow people to
+stake. If you think about how markets can be facilitated, you can see how
+different the action space of any given market may be. The way in which those
+various mechanisms may differ is based on the rules of their action space. You
+can think of those different action spaces as the difference between high
+frequency trading, which allocates capital in the orders of milliseconds, and
+venture capital, which allocates capital in the order of years. High frequency
+trading hasn't brought mankind that much further along the arch of evolution as
+far as I can tell. Venture capital has been one of the driving factors of
+basically most of the progress of mankind. High frequency trading is the
+exchange of value just because value can be extracted. Venture capital, if it
+doesn't destroy itself, stakes its own reputation and money on its own believes
+over time. At best, the difference between trading and staking is conviction
+associated with an idealistic believe in a better future version of this world.
+I might be leaning too far out of the window here now, but I think that allowing
+your users to trade in your crypto app only to facilitate your actual product is
+idiosyncratic, and at the least not net positive. Friend Tech was a glorified
+crypto consumer app that allowed users to trade, which in my mind had nothing to
+do with the app itself. The core team behind this project earned many millions
+in trading fees, while the project itself can be considered dead today.
+Polymarket allows users to trade on prediction markets. I think Polymarket as it
+stands today is not the last word spoken on how we build products based on
+information markets. I think trading on prediction markets introduces more toxic
+flow than it helps the product to serve its users, because Polymarket is usually
+not predicting anything. The perverted form of trading that is frankly
+omnipresent in the crypto industry today has replaced conviction with the desire
+to extract value. On the upside though, all of this negative emerging behaviour
+could not prevent our industry to grow and flourish in other productive ways.
+You just have to realize and understand that there is often a lot of noise
+everywhere. We should lean more into staking as an industry and I at least
+intend to do exactly that with Uvio.
+
+---
+
+Above I mentioned that Uvio is deployed on Base Sepolia. The name Sepolia
+indicates that it is the Base testnet. So we are working with alpha software
+here. Testnet or not, there are almost 200 L2 rollups out there today. Whether
+or not all of those L2s are useful is a different conversation. I think long
+term the notion of a chain might as well be abstracted away for most users. When
+you are watching a video on YouTube you have no idea which underlying substrate
+is serving you at any moment in time. Some of the YouTube engineers may care a
+great deal about that substrate, but we as ordinary app consumers have no notion
+of infrastructure beyond the mythical cloud. Onchain will eventually just be
+another part of the internet. Today though, there is still arbitrage to be had
+when it comes to choosing a chain as an app developer. I chose to start Uvio on
+Base because of my belief that Base will become one of the largest L2 rollups
+across all of Ethereum. Short of regulatory intervention, Coinbase will
+eventually move all of its consumer centric exchange business onto Base and run
+everything that it possibly can onchain. Being an L2 and having the largest
+crypto exchange in the western world supporting your business couldn't be more
+bullish for that particular ecosystem. Base has just now breached its L2 market
+share by TVL of over 20% for the first time. Base has plans to support up to 1
+giga gas in block space in the future, which will be a 100 times increase of
+today's economic capacity. Having said all of that. Base being successful
+doesn't have to take away from the success that other L2s may have in their own
+right. And despite all of the above, Uvio will be chain agnostic. In fact, when
+you login to Uvio with your Farcaster account, you do not have any notion of a
+chain, because Uvio provides every user with account abstraction and gas
+sponsorship, so that everyone can simply use the app by clicking buttons, and
+not be concerned about any of the underlying technical details. And then one
+last word about building anything onchain anyway. Why do we as enthusiasts swim
+against the current and believe in anything that is trustless and permissionless
+and decentralized? What does any of that mean anyway? Using blockchain networks
+fundamentally removes middlemen and gatekeepers. And using blockchain networks
+allows any form of money to be stored and used onchain without having to rely on
+opaque third parties. Building onchain can deliver safer, easier and more
+transparent user experiences for anything where its users want to have the
+notion of ownership. Whether it is about owning money, profile pictures, privacy
+or connections to online friends. What you own onchain today is mathematically
+linked to your own private keys and cannot just be taken away from you tomorrow.
+All of the above, and frankly way more, is why we are building in this industry
+today.
+
+---
+
+At last, there is now 1 billion USD in commodities onchain. Virtually all of it
+is facilitated on Ethereum mainnet. Paxos gold is an onchain fund allowing to
+trade gold on Uniswap. At the end of the day the property rights of those
+commodities are only as strong as the weakest link in their bridge, because
+somebody has to hold real gold for your money onchain anyway. So those types of
+assets are only IOUs after all, but I am sure there are other administrative
+benefits managing this kind of capital onchain. For now it is simply great to
+see that commodity TVL is rising on Ethereum mainnet, and to my knowledge not
+anywhere else.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2019/0000274
+[Uvio]: https://testnet.uvio.network
