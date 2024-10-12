@@ -1,0 +1,130 @@
+MEMO W41 OCT 2024
+
+> When there is only space for the past, there is no place for the future. - [xh3b4sd]
+
+Onchain onboarding is solved, technically. And with that claim I want to make
+the case that we already have all the tools that we need for users to just get
+started on any decentralized application. What that implies is that users to not
+have to worry about blockchains, gas tokens, transactions or even wallets
+anymore. As far users are concerned, the future is already here, it is just not
+evenly implemented. Back in the day, people needed a wallet in order to use any
+dApp. And even if you had a wallet, you also needed some ETH or whatever gas
+token in order to make a transaction. For that you also had to know which
+network you are signing transactions for. And what is even a network, dear
+reader? The onchain experiences that we can build today are completely different
+and users don't have to worry about anything of the above anymore, if
+application developers were to leverage all of the latest best practices of
+course. The issue today is, many of the onchain applications out there have not
+quite caught up just yet. We still see awfully complicated and counter intuitive
+user experiences on many dApps today. Often you are still required to have a
+wallet. Often you are still required to know what chain you are transacting on.
+Sometimes you even have to login in order to see any website content at all.
+This last case is one of the more mind-bending mistakes I see app developers do.
+Straight to jail! All of the technical blockchain nonsense is utterly
+overwhelming for normal people, which is also why it has been so hard to onboard
+outsiders into the crypto industry. Using account abstraction, gas sponsorship
+and embedded wallets, we can now hide all of those technicalities and simply
+allow the user to play around with any onchain application. Just like that! What
+we are doing with [Uvio] now is to leverage all of latest best practices
+mentioned, resulting in a beautiful user experience comparable to any other
+modern web application. You want to know how this works? You can simply login to
+Uvio right now and propose your own claim onchain or stake your reputation in
+one of the existing information markets. The login works flawlessly with an
+email address or Farcaster account. If you like self custody you can also simply
+use your own wallet of course. But we do not force that upon normal people on
+the internet anymore. And that is the point. When you login to the Uvio platform
+today, the system mints some UVX tokens for you onchain, which allows you to
+start participating in all UVX information markets immediately. Think about what
+a magical onboarding experience this is! Shoutout to Privy for making this
+happen under the hood by the way! You simply login, and start playing. You need
+no wallet, you need no knowledge about blockchains, you do not need to pay gas
+fees. You do not even need to understand what a transaction is. And because we
+are minting UVX tokens for the user on signup, every user can use the platform
+right away, without having to transfer money or share credit card information. I
+believe that the normal web experience that Uvio delivers onchain already today,
+will become the standard for any decentralized application in the future. This
+is how we are going to work and facilitate business onchain for the next
+generation of internet users! Over the past decade, all of our core researchers
+and engineers have brought us all of these rather boring but ultimately
+necessary infrastructure tools to build onchain apps that actually make sense.
+Now it is on us to use those tools in order to make users happy. Now comes the
+time of app developers, but onchain.
+
+---
+
+Uniswap was Ethereum's first breakthrough dApp during DeFi summer back in 2020.
+Uniswap has now announced to launch its own L2 rollup called Unichain as part of
+the OP Stack Superchain ecosystem. And here is a question that got asked the
+other day. Do you think Unichain is bad for ETH because Uniswap MEV revenues go
+to UNI token holders? The question posed here highlights the very heated debate
+about the value accrual mechanisms for L1 tokens. The basic question is this.
+What makes a token valuable? The Solana narrative today is that chains, and
+consequently their tokens, are valuable because of the MEV they can capture. The
+big problem with the Solana narrative is that most MEV today fundamentally is a
+function of robbing users onchain. And oddly conveniently, this entire narrative
+did only recently get popularized when Solana became actually really good at
+robbing users, which is a testament in and of itself. Those kinds of MEV based
+revenues generated today will very likely turn out to be short term flukes, and
+consequently long term disasters. Ask yourself. Would you like to use anything
+that takes more money from you than it should? The answer is unquestionably no.
+Over time we will give all MEV extracted from users, back to those users,
+because that is the place where this extracted value belongs. The only thing
+that matters long term for the value accrual of L1 tokens like ETH, will be the
+token's use as unit of account, store of value, and medium of exchange inside of
+its own native onchain economy. Those properties, the properties of money, will
+ultimately define a token's monetary premium. So no, I do not think Unichain is
+bad for ETH. I think Unichain is good for ETH, because Unichain grows the pie of
+economic activity on top of Ethereum, while using ETH as money. How on earth can
+this possibly bearish?
+
+---
+
+Here is a bad take I came across on the timeline this past week. "Lots of people
+are needlessly launching L2s and L3s because they can’t figure out a business
+model." I am not sure whether this is intentional gaslighting. In any event,
+those kinds of takes are ignorant at best. And as we discussed in past Powerlaw
+memos, those kinds of takes seem to confuse inputs with outputs amidst the
+intricacies of complex systems. Every launched rollup increases the surface area
+for experimentation and grows the pie for the Ethereum ecosystem. What will be
+effectively needed will be decided by the market, as it should. But in order to
+figure out the result, we have to run the experiment first. Judging economic
+activity before the fact is by definition counterfactual. Ethereum is an
+ecosystem to let a thousand flowers bloom. And some people out there manage to
+come up with the mental gymnastics to argue that this is somehow bearish for
+ETH. Meanwhile, others bet the farm on a ponzi scheme like Bitcoin without
+understanding what a security budget is, nor what disastrous consequences are
+waiting to unfold for blockchain networks without any economic activity on top
+of them whatsoever. Technology must be useful in order to be valuable. And the
+only really useful blockchain network that affects the lives of people in the
+real world today, apart from number go up, is Ethereum, and Tron if you care a
+lot about stablecoins. The rest is not even close.
+
+---
+
+Based on Dune metrics we saw the third consecutive week of net inflows for the
+ETH ETFs at around 10 million USD. That is not a lot of money for what we are
+trying to achieve here, but for now we got to be happy with what we can possibly
+get. It does not make sense to annualize those flows, but if we did, then 3.5
+billion USD is nothing to scoff at. Just for comparison, the BTC ETFs showed
+over 300 million USD in net inflows over the same time period, which is an
+entirely different ballpark all together. On some days we see no flows at all
+into ETH ETFs. At the moment it is not pretty. Though it looks like that the
+long term trajectory for those ETFs is up only. And just generally, we like
+that.
+
+---
+
+At last, I would like to invite anyone of my readers to reach out, if there are
+any questions or ideas for collaboration. I want to write about your startup,
+strategic execution and elegant mental models. My brand archetypes are sage,
+outlaw, magician and creator. If you would like me on your cap table as an angel
+investor, then feel free to send your pitch my way. If you would like my
+feedback or engage in an interesting conversation, then I am happy to chat or
+have a nice dinner over some sweet red wine. If you are a writer yourself, then
+I would love to talk about the art of writing and maybe get your feedback on my
+writings here. If you think we should work on something cool together, then
+please reach out and let's be friends. And if you haven't tried out [Uvio], go
+play around and leave us some feedback on Discord or Farcaster.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2018/0000193
+[Uvio]: https://testnet.uvio.network
