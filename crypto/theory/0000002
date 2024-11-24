@@ -1,5 +1,5 @@
 There has to be an economic cost equilibrium for transactions within Blockchain
-Networks. Cheaper block space below the cost of the economic cost equilibrium
+Networks. Cheaper blockspace below the cost of the economic cost equilibrium
 will always be filled with more spam, eventually degrading the networks utility.
 Garbage in, garbage out. That is mainly why there must be any form of spam
 protection mechanism, preventing an attacker from overloading a Blockchain
