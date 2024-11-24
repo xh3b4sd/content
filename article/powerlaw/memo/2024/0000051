@@ -1,0 +1,137 @@
+MEMO W47 NOV 2024
+
+> Protocols prevent disaster. Markets surface excellence. - [xh3b4sd]
+
+Based on my own estimation we are about 60% through the crypto cycle right now.
+There are maybe another 6 to 12 months of insane price action left ahead of us.
+I am writing this down to emphasize that there are many overlapping cycles on a
+sector basis, which all have their own triggers and rhythms. While crypto as an
+asset class was historically guided by Bitcoin liquidity, every sector within
+crypto may start to show signs of their own micro-economy, and with it their own
+cycles. Various L1 and L2 ecosystems would be an example of that. Solana would
+be an example of that as well, as it had a lot going for itself as an ecosystem
+with retail interest in the memecoin casino. Polygon as another example may have
+shown signs of life based on Polymarket activity during the US election.
+Externalities like asset specific regulations that target either commodities or
+securities may fill a sector within crypto with life or scourge the earth around
+it entirely. We have seen many different takes over the past couple of months
+about whether we are in a bull market or not based on the performance of some
+specific asset. Voices coming out of the Ethereum camp have often provided
+fluctuating opinions on the state of the crypto market, based on ETH's price
+action alone. And I think that is a rather ignorant way to look at the situation
+in front of us. We always have to take the world for what it is, and not what we
+want it to be. The most ridiculous form of cognitive dissonance that I am seeing
+over and over again is best summarized by the following question. If you traded
+BTC between 50k and 100k, and you did not at least double your money by now,
+what the hell are you even doing? Financial markets are asymmetric, and somehow
+most people manage to confuse the long and the short end of that asymmetry, in
+pursuit of the ever greener grass. Retail never changes, and so with every
+broken all-time-high we find new participants entering the arena, falling for
+snake oil salesmen who are nothing but in search for another useful idiot. I was
+recently thinking to myself how absurdly stupid and financially dangerous public
+forums like Reddit are for unsophisticated everyday people. The tragedy here is
+not so much that normal people are looking for help in their journey to
+understand an industry or asset class. The tragedy in all of it is that the most
+average, the absolutely dumbest, and the most deceptive actors are free and
+readily available to provide their baseless opinions without any form of
+accountability whatsoever. This very setup reminds me of the concept "extractive
+institutions" as described in the book "Why Nations Fail". Malicious actors
+dominate an environment in order to extract as much value as possible, which is
+just another form of MEV for you right there, dear reader. And once more, it
+pays to understand systems. Take the world for what it is, not for what you want
+it to be.
+
+---
+
+I was recently thinking about the crossover between blockchain and gaming. Out
+of curiosity I wondered how you would build a realtime gaming experience on top
+of any blockchain network. Designing system architectures like these is a pretty
+fun exercise, and there are lots of parallels to our thought experiment around
+emotional granularity as we discussed in the previous Powerlaw memo. When we say
+"XYZ on onchain", then the question is always which part of XYZ should actually
+run on some blockchain. And then it simply helps to understand how systems work
+in general. We have to know which technical requirements XYZ has, and which
+technical capabilities blockchains have. Realtime games require immediate
+feedback and instant concurrent state synchronization between many clients.
+Blockchains as we have them readily available today cannot provide those
+services if we require a certain level of trustlessness and censorship
+resistance. That means we cannot represent every single game state onchain. No
+blockchain can do that for us today. L2s cannot do that, Solana cannot do that,
+and neither can your favourite alt L1. The question is then how you would design
+the system architecture for a blockchain based realtime game. What I always come
+back to are common patterns and best practices for which we know that they work
+in many different cases. Blockchains for instance are good at verifiability,
+because we can represent some parts of the game state onchain in a trustless
+smart contract. The data committed there cannot be manipulated to the extend
+that once data is reported, it stays there "as is". So that is already a very
+nice property for us to take advantage of, because blockchains allow us to
+create games with verifiable fairness and credible neutrality. The issue for us
+is now to figure out which game state we want to have reflected in a smart
+contract, because this also influences the power dynamics between the actors who
+have to report those game states from their own point of view. You may notice,
+dear reader, that we are navigating the deep trenches of distributed systems, a
+problem domain as old as mankind itself. How do we know who we can trust to
+report truthfully? How do we prevent malicious actors to say that they won the
+game, and not you? How to we prevent shadowy super coders to steal all your
+money? On the last part, we can design our realtime game in a way that all your
+money cannot be stolen at a time. We can imagine to have a deposit and withdraw
+functionality in our smart contract that allows users to add and remove money
+safely as they wish, without anyone else being able to steal it. Such an account
+based model is very simple by design, very easy to implement, and very safe to
+use onchain. The extend to which somebody may steal your money may only be the
+amount that it costs to enter one round of our game, and that may only be 1 USD.
+Let's assume our game is "pay to play" and "play to earn". Every player enters
+the game with 1 USD, and if you win, then I lose, meaning you get my money for
+that round. The challenge for us here is to define the mechanism by which we
+identify who truly won. If our mechanism is not designed well, then I may be
+able to convince the system that I won even though I didn't. And that would then
+enable me to steal your 1 USD. The mechanism that I came up with now on an
+abstract level works as follows. Imagine many clients playing the game. There
+are centralized guardian servers synchronizing game state in real time for
+different clients. Suppose our game has simple zero-sum dynamics where I win and
+you lose. Your client and my client, plus another set of random clients have to
+report the "kill" situation only. That means everyone reports what they see
+onchain at the very moment when my player kills your player. Once a minimum
+threshold of required reports has been committed onchain, the respective
+guardian server resolves the kill onchain based on its own understanding of the
+game state. The guardian is always the source of truth. This reconciliation does
+then decide who won and who lost, updating player balances in the process. What
+we have just achieved with our mechanism design is a game theoretical credible
+neutrality, because there can be multiple guardian servers run by various
+entities facilitating games for many different sets of players. This
+architecture is credibly neutral because the guardians have to resolve kills
+onchain, for everyone to see. If a guardian were ever to collude or act
+maliciously, you as a player could always simply choose to block it on the
+client side, meaning the malicious guardian loses reputation and with it all
+opportunity to earn money from serving clients. Our consensus mechanism is then
+also verifiably fair because multiple clients have to report the game state into
+a trustless smart contract based on what they see on the game map, for everyone
+to see. That way we know which clients report honestly, because their reports
+should always be in line with the game state resolved by honest guardians. Note
+that not all of the realtime game state is reflected onchain. And the beauty
+about it all is, it doesn't have to! The beauty of our verifiable guardian
+pattern is that a single smart contract enforces fair play within an adversarial
+environment, while we can harness all of the modern gaming capabilities that
+technology provides us with. In our game design, we are leveraging blockchain
+networks for what they are good for, without requiring millisecond blocktimes or
+millions of transactions per second. All we have to do is to manage user money
+and game state properly onchain, where publicly verifiable code guarantees
+trustless execution for only the most critical player values. What you see is
+what you get. A simple account based model allows users to serve themselves by
+depositing and withdrawing their money without any restrictions. And a simple
+guardian pattern assures a healthy equilibrium of game state reconciliation,
+enabling the system to just work.
+
+---
+
+Taking the world for what it is, I found some Ethereum related stablecoin
+metrics this past week that are particularly impressive. There is now a
+stablecoin TVL on Ethereum of about 105 billion USD, which is a 22% increase
+over the past 30 days. This 105 billion represents a 56% stablecoin marketshare
+of all of crypto, and it is not even close. Just anecdotally over 13 billion USD
+in stablecoins have been minted on Ethereum during the past week alone.
+Stablecoin issuance is particularly interesting as a metric because it is not
+easy to fake. For every issued stablecoin, there has to be an equivalent amount
+of US Dollars backing it. And I say higher!
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001350
