@@ -39,9 +39,9 @@ ETF inflows, while ETH gets shunned by the crypto degens, because of muh Solana.
 This week the Dencun upgrade happend in Ethereum land. Most notably we
 introduced a new fee market for blob space. That new fee market enables L2
 rollups to post data on L1 mainnet in a more efficient way, so that economic
-activity on L2s can be cheaper. Blob space is separate from block space. L2
+activity on L2s can be cheaper. Blob space is separate from blockspace. L2
 rollups opting into the new fee market do not have to compete for the highly
-demanded block space anymore. And so L2 transactions are not as expensive
+demanded blockspace anymore. And so L2 transactions are not as expensive
 anymore. What the Ethereum developers are now starting to work on are all the
 prerequisites for statelessness and light clients. This will then be super
 exciting because validators will be able to operate without massive storage

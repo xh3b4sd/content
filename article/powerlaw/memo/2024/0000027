@@ -24,14 +24,14 @@ speed at which you as an entity gain access to information that you are
 interested in. Then there is the speed at which you yourself are able to act
 upon the information available to you. Let's create a shortcut for both concepts
 and call them access speed and execution speed. Execution speed for a blockchain
-network is defined by block times. As far as I know, Ethereum has a block time
-of about 12 seconds and Solana has a block time of roughly 400 milliseconds.
-Those stark differences in block times are deliberately chosen to maximize or
+network is defined by blocktimes. As far as I know, Ethereum has a blocktime
+of about 12 seconds and Solana has a blocktime of roughly 400 milliseconds.
+Those stark differences in blocktimes are deliberately chosen to maximize or
 minimize for certain aspects of the respective contexts inside of Ethereum and
 Solana. Execution speed for an offchain user is defined by their own hardware,
 software, bandwidth and access speed for that particular transacting entity.
 Access speed of onchain data that transacting entities are interested in are
-again dependend on block times. There are use cases that blockchain networks can
+again dependend on blocktimes. There are use cases that blockchain networks can
 serve and optimize for that heavily rely on the very best access and execution
 speeds. And there are use cases for blockchain networks in which the very best
 guarantees on those particular metrics are not the top priority. My

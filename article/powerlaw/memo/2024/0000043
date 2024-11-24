@@ -72,9 +72,9 @@ but allow them to use the tokens that they already own. That mechanism reduces a
 lot of the friction that especially new users face when using the chain. The
 reaction to this idea is often the following. What about the value accrual of
 that very gas token, if users can pay gas in anything other than my bag? Well,
-as long as the underlying network denominates its block space in that original
+as long as the underlying network denominates its blockspace in that original
 gas token, I do not see any issue with allowing users to pay in whatever token
-they like. Because, block space is still denominated in the original gas token,
+they like. Because, blockspace is still denominated in the original gas token,
 meaning the token that the end user has, still has to be swapped for that native
 gas token anyway. In the context of Ethereum that means the following. Even if
 users want to pay for gas with other tokens, it will still be ETH as long as the

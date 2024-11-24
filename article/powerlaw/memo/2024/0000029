@@ -56,7 +56,7 @@ about centralization risks and credible neutrality.
 
 Another analogy occurred to me for framing the potential size of Ethereum and
 Solana relative to one another. Solana's only selling point over Ethereum is
-execution speed. In particular this refers to Solana's short block times, where
+execution speed. In particular this refers to Solana's short blocktimes, where
 each slot is set to 400 milliseconds. Now imagine you try to compete against
 Google by delivering search results faster. Google is known to have the best
 answers for virtually everything and most users value quality and breadth over
