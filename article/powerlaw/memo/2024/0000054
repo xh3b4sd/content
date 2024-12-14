@@ -1,0 +1,130 @@
+MEMO W50 DEC 2024
+
+> Incentives are building blocks. When you stack the wrong ones the wrong way,
+> it does not make for a great load bearing base. - [xh3b4sd]
+
+Google made some headlines this past week with their new quantum chip called
+Willow. This chip was developed on the back of some groundbreaking mathematical
+advances that people apparently tried to solve for more than 30 years. The gist
+of the underlying breakthrough here is the property of increased error
+correction the larger the amount of quantum states involved. Basically, larger
+chips, better computing. Everyone on the timeline started to lose their minds
+again because quantum computers may break traditional encryption schemes, one
+day. But that day has not come just yet. Willow contains 105 qubits today, which
+is one measure of quantum computer capabilities. I would say that qubits are
+somewhat analogous to the clock speed of traditional computer chips. Following
+those lines, Willow may be comparable with one of the very early computers from
+the 1950s. There is still a long way that quantum computers have to go in order
+to become really useful, or even dangerous. What people in our circles are most
+afraid of are quantum computers that are able to break the security guarantees
+that our beloved blockchain networks provide today. There are various ways in
+which quantum computers may break our chains. Let's take the simplest example of
+worst case scenarios. Imagine somebody finds the seed phrase of your wallet,
+simply by trying all combinations. All things being equal, this will be possible
+one day. But as mentioned, that day is far out into the future. And one thought
+that I have about guessing all the world's passwords and seed phrases is this.
+Even if you could snap your fingers and have all the possible combinations to
+your disposal, there will still be the laws of physics. What this means is that
+you need to test for all those combinations against some digital source of
+truth, until you find the right key. Brute force attacks do usually not exist in
+a vacuum. Some random person cannot just try all possible passwords against the
+Twitter API, because rate limits apply. In the same way, it is not possible to
+test for all possible seed phrases of Bitcoin wallets simultaneously, because
+memory has to be accessed and checks have to be executed, which all takes time.
+To my knowledge today, arbitrary programs cannot be arbitrarily parallelized,
+nor can they be executed infinitely fast. So knowing all possible combinations
+for all Bitcoin wallets is not necessarily useful on its own. Checking for their
+legitimacy does still require hardware access that cannot operate faster than
+the speed of light. And as with all distributed systems, resources have to be
+shared, which slows down any parallel computation effort. The timeline for
+quantum computers may have accelerated, but as usual, humans overestimate in the
+short term, and underestimate in the long term. The National Institute for
+Standards and Technology, in short NIST, is saying the following. "The United
+States must prioritize the transition of cryptographic systems to
+quantum-resistant cryptography, with the goal of mitigating as much of the
+quantum risk as is feasible by 2035". That basically means that all of our ECDSA
+curve magic used to encrypt anything on the internet today has to change within
+the next ten years. Though, that does not mean that quantum computers will be
+able to break the entire internet at once by that time. Some mechanisms that are
+surprisingly effective in order to give us more time, if need be, could look
+like this: just make the passwords a little longer. We could imagine a world in
+which quantum computers are able to decipher a standard SHA-256 within a month
+or a year. Those types of encryption algorithms function using rather short
+hashes and will be the first to break. We already have algorithms like RSA-4096
+which operate under the use of larger hashes and take therefore far longer to
+exploit because the associated entropy is vastly larger. In the end, we will
+need to upgrade our protocols to use post-quantum signatures, however that may
+look like. Researchers in the Ethereum community are thinking about those
+challenges already today. And based on my understanding, we are going to make
+Ethereum quantum resistant within the next 5 years, far earlier than any new
+computing paradigm may become able to threaten the king.
+
+---
+
+The Solana ecosystem prided itself for quite some time now on the fact that it
+is very good at robbing its users via MEV. Key opinion leaders in that camp tell
+us all day long that this kind of value extraction is chain revenue in their
+books. It appears that the tides may be turning now in Solana land, because some
+people start to realize how much value individual validators extract from their
+own users. Millions of Dollars are grifted away and taken from those who are
+willing to pay priority fees, only to speculate some more on yet another meme
+coin. The entire revenue model of Solana is now dependent on the meme coin mania
+and at some point the music will simply stop playing, because none of this is
+actually sustainable. During those latest escapades, I found some more signal
+for myself validating the idea that Solana might not have all the answers after
+all. "chain go fast" sounds nice. But in reality many centralizing forces do now
+become increasingly tough challenges to combat. Challenges that require
+fundamental mechanism changes to address several root causes of centralized
+block building at the speed of light. The signals that I got from the ongoing
+debates to tackle those challenges point to the fact that nobody is willing, nor
+able to decentralize the chain. Neither now nor in the future. None of the
+witless responses coming from Solana's key opinion leaders seem to have anything
+to offer in order to address the core problems at hand. Nothing of substance
+anyway. Chain go fast, they said. And credible neutrality is nowhere to be
+found. On the upside, hundreds of teams are building the decentralized future
+onchain in other places. And so we do not have to trust some of the few very
+loud fintech startups that claim all day long how they got the answers we were
+looking. Because those actors tried to lead us down the path of maximizing trust
+assumptions, which is just completely backwards in our industry. And the lesson
+to take away from this episode is once again, don't fall for the snake oil
+salesmen, and know thy building blocks.
+
+---
+
+It is Christmas season in western societies again. Everyone is busy and everyone
+is spending. Those dynamics happen today in the context of rather sticky
+inflation and it is going to be interesting to see how the US economy fares
+during Trump's first 100 days of his new administration. My view right now is
+that the Trump administration understands their mandate, which means to weaken
+the US Dollar while increasing productivity at large. The economic activity in
+the United States happening today has to be viewed through a seasonally adjusted
+lens. People spend more during Christmas in any case, no matter the president.
+But, everywhere you look the economy appears to be booming, with many charts at
+all time highs. I am not an expert in any of this, but my hunch is that
+everything is on order as long as the Consumer Price Index fares below the Fed
+Funds Rate. Today we are at about 2.7 and 4.7 percent respectively on those
+metrics. Let us keep an eye on those numbers and see what the next year brings.
+
+---
+
+As I am writing this, 4k is still resistance for ETH on the USD chart, as well
+as 0.04 is resistance on the respective BTC chart. At the same time BTC itself
+hovers around its magical 100k level, while BTC dominance trails far below 60%.
+To everyone's surprise, the ETH ETFs started to punch above their weight,
+meaning that the ETH ETF flows have become greater than the BTC ETF flows on a
+market cap adjusted basis. Just to mention a notable day of the past week, ETH
+saw 305 million USD in net inflows, while BTC saw 450 million USD in net
+inflows. The comparison between ETF flows and market cap is then 68% to 24%. In
+other words, ETH does now see ETF inflows sometimes, as if its market cap were
+almost 3 times of its current size. And you know, maybe that is justified. To
+make another point on that matter. Tron has been the USDT chain for the longest
+time. Most of the available USDT supply has been minted and exchanged on top of
+the Tron blockchain, Justin Sun, respectfully. But as of this week, there is
+now more USDT on Ethereum than on any other ecosystem, while Tron is slowly
+giving away stablecoin market share. And you know, maybe the market is going to
+wake up to the realization, that every other day another billion in US Dollar
+denominated stablecoins is minted on Ethereum, and that Ethereum is the chain on
+which crypto economic activity is largely facilitated. I mean, just maybe, you
+know.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001294
