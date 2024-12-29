@@ -1,0 +1,147 @@
+MEMO W52 DEC 2024
+
+> And after all, the real fortune is to have yourself under control. - [xh3b4sd]
+
+The Powerlaw memo is all about mental models, in particular about how to think.
+And one of my favourite takeaways this year is the difference between inputs and
+outputs of complex systems. W38 described how easy it is to mistake inputs for
+outputs, and in the process get the understanding of any system completely
+backwards. I find this notion of inputs and outputs so compelling because we can
+describe literally any complex system as a black box that consumes inputs on one
+end, and produces outputs as a result. The nature of that concept is for
+outputs to change when the inputs start to differ. And that directional
+dependency may explain a lot about the intricacies of whatever is happening
+inside that black box, that very complex system. In other words, when you ask
+the wrong question, you get to the wrong answer. Flipping it on its head,
+suppose you found the right answer, you must have asked at least one right
+question, otherwise you could not have made the right conclusion. Ask yourself
+what was here first, the forest, or the creek?
+
+---
+
+The future of mankind has always been about technology. There is an interesting
+question to be asked about life in the universe. When we look for alien
+civilizations we are not looking for traces of life. We are looking for traces
+of technology. I don't know if we are still going to be here in a thousand, less
+a million years from now. In any event, it looks to me like humans are on a
+trajectory to become the tools that they build. W07 talked a lot about the
+rather weird fact how it can possibly be that two arguably interdependent
+technologies get invented at the same time. Imagine a civilization discovers
+only one of two extraordinarily powerful technologies. The discovered technology
+may increase the chances of that civilization's extinction, without its
+balancing counterpart. Imagine that very problem to be one of the great filters
+according to Fermi's paradox. The two technologies that we invented now at the
+same time are blockchain networks and machine learning. And I am quite convinced
+that public blockchains have to become the agentic substrate of artificial
+intelligence, if anyone wants to embed it into the digital economy for
+productivity increases. And if we could take away only one thing from this year
+of Powerlaw memos, than it would be that the future will always become more
+technologically advanced, which in our generations today means more digital.
+
+---
+
+This year revealed to us that everyone is trying to build Ethereum. People are
+running Bitcoin sidechains and tell you those are L2 rollups. People are working
+on L2 rollups on top of Solana and call them network extensions. Celestia set
+out to build a rollup centric ecosystem from the start, but the only semi
+successful product they have going over there is data availability, which in
+itself is not really valuable without some kind of moat around economic
+security. Well, and there is Ethereum building Ethereum. And when you get the
+chance to bet on one thing, why not the original? W26 discussed how everyone is
+building a worse version of Ethereum. Trying to replicate what somebody else is
+good at, is not at all bullish for that replica. Public blockchains must be
+decentralized, permissionless, censorship resistant and credibly neutral. And
+that means, any system that aims to build networks of networks must have the
+technology and security in order to facilitate an economy on top of itself.
+Bitcoin does not have the technology. Solana and Celestia do not have the
+security. I do not think that blockchains are winner takes all innovations. It
+is more likely that we will see our space to culminate and submerge over the
+coming years, providing one coherent crosschain user experience. The underlying
+economies may follow certain powerlaw distributions, and their tokens may accrue
+value more or less successfully. However these crazy experiments may play out,
+we will continue to follow along those once in a lifetime opportunities.
+
+---
+
+Earlier this year we predicted another Trump presidency in the United States as
+explained in W21, and in W11 we wrote that the ETH ETFs are going to be approved
+rather sooner than later. The Powerlaw memo nailed it twice with those
+predictions, and the turn of events caught a lot of people off guard. What has
+been unfolding towards the end of this year couldn't have been more profound for
+the crypto industry at large. The timeline split once when a bullet only
+scratched the ear of Donald Trump during his first assassination attempt. Yes,
+the first attempt on his life, because there have been at least two documented
+cases in which attackers tried to take his life throughout election campaigns.
+The timeline split then once more when Trump finally became president elect post
+election day. The see change unfolding from here promises the crypto industry to
+not be stifled by rogue regulators anymore, for which there existed no logic
+reason to begin with whatsoever. Not only are we going to see more crypto
+innovation taking hold in the world because of the vibe shift brought forward by
+the upcoming administration, but also because of the supreme court overturning
+the doctrine of Chevron Deference, reported in W27.
+
+---
+
+W46 discussed the concept of emotional granularity and how to train it. At its
+core, emotional granularity is really just about awareness. It is about the
+ability to perceive basically any thing, and upon perception being able to
+articulate what one observes cognitively. In the issue of W46 we framed a
+thought experiment, like a word game, that can be played alone or with others
+together. Simply take any thing or concept, and explain it from as many angles
+as possible. Doing that you will notice how many different dimensions of
+complexity, scope and context open up in front of your inner eye. The ability to
+visualize, the ability to articulate, and the knowledge about complex systems is
+what we are fundamentally training with emotional granularity. And now, why does
+any of this matter? Because, if anything, the world is full of complex systems.
+And only if we understand complex systems do we have a tiny little chance to
+understand how the future possibly looks like. And I say this. The very best
+people in any discipline or industry have a very high emotional granularity in
+their respective areas of competence.
+
+---
+
+This year was in parts all about tokenization. We covered this concept in
+multiple memos throughout the entire year of 2024. At its core, tokenization is
+to represent any asset or thing in the form of an associated token onchain. We
+discussed the benefits and motivations of TradFi giants like BlackRock utilizing
+tokenization. In W24 I wrote about a prediction that I wanted to make, which
+went as far as saying that one day tokenized assets will trade on the TXSE
+offchain, while being integrated with onchain property rights on Ethereum
+mainnet. All the puzzle pieces that we cover all the time here in the Powerlaw
+memo fit perfectly together and based on our understanding of the future it just
+makes so much sense for BlackRock to pursue these or similar ventures. Most
+notably, Stablecoins were the big winner this year, and it was just recently
+when we covered an all time high of over 200 billion USD in issued Stablecoins,
+most of which resides on Ethereum L1.
+
+---
+
+The Dencun upgrade activated blobs on the 13th of March as covered in W11. That
+hardfork enabled a new fee market for data availability secured by Ethereum L1.
+Quickly after the upgrade concluded successfully many L2 rollups switched over
+from calldata to blobs, causing their own gas fees to drop up to 98% on average.
+The events following the Dencun upgrade brought feelings of joy, confusion and
+fear. Fewer fees collected means less cashflow. And to this day we are still in
+some form of existential crisis across the entire Ethereum community, because
+long held assumptions get challenged when everyone is wondering what makes
+blockchains and their tokens valuable. Amidst all those debates we can see how
+people think, deceive and lie, sometimes out of ignorance, but more often out of
+self interest. We had to learn once more that what you read on Crypto Twitter is
+not all there is. And we had to learn once more that this is the dark forest out
+there after all. Everyone out there has only the best of you in mind, your
+money.
+
+---
+
+Our number this week, the last number for this year, is an all time high of
+weekly active addresses across the whole of the L2 ecosystem. That number is
+10.6 million according to Grow The Pie data. Onchain metrics are up into the
+right all across the crypto industry. And I would say most metrics related to
+the rollup centric roadmap are no different. From my point of view our industry
+has made so much progress this year alone, it is impossible to cover all of the
+technological and cultural developments accurately. I think we are going to keep
+winning next year on many different dimensions. So much so that 2025 has the
+potential to embed this industry ever deeper into the world economy. Higher for
+longer!
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2023/0001235
