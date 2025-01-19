@@ -1,0 +1,129 @@
+MEMO W03 JAN 2025
+
+> Optimizing something that should not exist in the first place, is a sin. - [xh3b4sd]
+
+Overfishing regulations and game engines have some things in common. Those
+things are fundamental principles in mechanism design. And with that we have
+once again pretty universal patterns in our toolbox in order to understand any
+complex system. In one form or another, the source of truth should never be
+provided by the players of the game. And why is that? Because players are
+incentivized to win the game, not to report the truth. Collusion of players on
+reported data may lead to the entire game being exploited. No matter if we talk
+about men who work the sea or children playing candy crush. Complex systems pose
+complex problems. And with any problem, the question becomes how to frame it?
+How to look at a problem, and how to think about it in its own context?
+Understanding how many fish are in the ocean, and understanding how much candy
+somebody crushed requires the reporting of data. The data that we need in order
+to understand the state of a system must come from somewhere. And in mechanism
+design the question is always who should be allowed to report which data,
+because the ability to define what is true and what is real can be an extremely
+powerful weapon. And as with any weapon, you can use it to do harm, or to do
+good. So, who should report fishing data for us to know what is happening in the
+ocean? Humans know almost nothing about the ocean. We know more about the
+surface of the moon than we know about the surface of the sea. We can look up
+through air and space. But we cannot simply look down through the gushing water.
+It only takes 1000 meters into the ocean and all sunlight is completely gone.
+The distance between the earth and the moon is almost 385 million meters, and on
+a clear night we can see all the way through, with our own eyes. Those kinds of
+context specific circumstances have to be considered when we want to figure out
+how much Salmon somebody is allowed to catch. We should consider what the
+fishermen have to say, but we should not just take their word for it. What we
+can do is to look at the amount of fish that they actually bring home. In
+addition to that, we should also consider other environmental factors that for
+instance change temperatures and acidity levels of the water. The ocean is a
+complex system in and of itself. All the data that we gather, and all the models
+that we employ in order to understand what is actually happening in the sea, may
+or may not be relevant, right and independent. The reader may notice that we
+have opened up a whole can of worms, and there is no one right approach to solve
+the problem at hand. In fact, all we can do is to implement a solution that
+provides a desirable set of tradeoffs, given the best of our abilities. For our
+intents and purposes here, the bottom line is, don't just ask the fishermen,
+because players may collude. The same applies to game engines. You don't just
+ask the Tetris player how many points they got. If you are the game engine, then
+you tell the player what's what. That is particularly relevant if the game at
+hand has a time component or schedule to it. Imagine a game in which everyone is
+speeding through a maze. We cannot simply rely on the players to tell us where
+they are at any given moment in time. In order to make the game fair and
+eventually fun, we have to tell every player where they start and where they are
+based on their desired input of movement. The trick here is to only allow the
+player to define their own delta of a navigational choice. Meaning, given a
+player's current position, and given their instruction to move north, the game
+engine can calculate the new position without allowing players to cheat and jump
+ahead illegally. This approach is specifically important in classes of games in
+which players are forced to move through the game at a certain speed. Here every
+player is pushed along the map, and the only player input may be what turn to
+take next. The interesting dynamic here is that the game engine cannot
+differentiate whether players get disconnected or simply do not wish to change
+direction. The takeaway here is this. The more well defined the rules of the
+game, the more efficient the implementation, because a well defined mechanism
+allows for beautiful code to be written.
+
+---
+
+Over the past days and weeks there have been huge wildfires around Los Angeles,
+devastating many homes and claiming too many lives. Not to mention how we even
+got here, the response and incident management of the highest ranks in the State
+government of California has been just as shocking to me. There are many things
+to be done for people and State after a disaster like those wildfires took
+place. Things of constructive nature. Things that directly help to be better
+tomorrow. And the leadership in the sunny state of California chose now to make
+it easier to snitch on people for increasing prices of goods and services,
+instead of making it easier to build new homes. The cardinal sin of mechanism
+design is to think that you are the better resource allocator than the market
+itself. And instead of directly helping to increase supply, the governments
+choice was now to promote the idea of an enemy within its own system, which is
+but a mere distraction from what actually matters during these trying times. The
+idea that any form of price controls via social infighting would be useful to
+anyone who lost what was near and dear, is absolutely backwards. The history of
+the 21st century will be written by mechanism designers. And I think everyone
+has the responsibility to make sure that we are getting better at this together.
+
+---
+
+In the world of Ethereum, we have heard that L2s are apparently about to hit a
+"brick wall". Over half of all blobspace is already consumed by only 2 chains.
+The concern being trolled at us is now that the current growth rate implies the
+total breakdown of Ethereum's scaling roadmap within a matter of months. Ok
+then, let's take a step back for a moment. At first, "rollups would never
+scale", they said. Then it was, "nobody wants to trust rollups". And now that
+rollups scaled so much because everyone wanted to trust them, we hear that
+rollups can't scale no more. In other words, rollups couldn't scale and they did
+not have any demand, but then rollups did in fact scale because of all the
+demand for them, which leads us to a usage problem, which we were told would not
+exist in the first place. Well, that is all very confusing and quite convoluted.
+To make things easy again, we can simply say this. We are getting concern
+trolled all the time by people with ulterior motives. Fun fact, the word
+"ulterior" means "lying beyond what is evident". And isn't that a beautiful way
+to come to a conclusion. In any event, let us address two relevant points about
+Ethereum's roadmap regarding scaling via L2 rollups. For one, we are operating
+precisely at blob target for more than two months now. The dynamic here, and
+what that effectively means is this. Blobspace is free to use up until the blob
+target. Once we operate above the blob target, L2 rollups go into price
+discovery for blobspace in an open market, which increases congestion fees. The
+interesting fact about the blobspace usage in the wild has been that L2 rollups
+managed to prevent paying higher amounts of congestion fees due to all kinds of
+tricks in data submission management. We could say that the blob target
+saturation is by no means exhausted at this point, which renders certain concern
+trolling arguments mute in my mind. And the second point that we have to mention
+here is simply that more blobspace capacity will be rolled out the coming months
+and years. And if blobs where the only thing that allowed us to scale Ethereum,
+then yes, we probably would have a problem. And as already mentioned in the
+first point, many different initiatives to scale Ethereum are certainly
+underway, rest assured.
+
+---
+
+1% ETH is our number of the week this time around, because that is the
+allocation reported for a wealth management firm in New York. Now, 1% is not
+much. Why do we even talk about this? This news is interesting because this 1%
+is the only allocation of digital assets that said wealth management firm made
+across its clients. No other crypto exposure. No BTC. No SOL. Just ETH. And one
+other data point I found fascinating the past couple of days. Between 2020 and
+2025, 36 different blockchains have been in the top 10 by DeFi TVL. That means
+over a 5 year period, which is frankly almost all of DeFi's existence, 36
+different contenders have been going into and coming out of this particular top
+10 leaderboard. Here is the kicker. Over all of that time, Ethereum has been
+number 1 in that leaderboard. All of that is to say that Ethereum is where it's
+at. Always has been.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001332
