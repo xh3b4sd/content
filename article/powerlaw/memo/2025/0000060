@@ -1,0 +1,156 @@
+MEMO W04 JAN 2025
+
+> Nine out of ten people can be almost anything they want and the only limiting
+> factor for them is time and the price they are willing to pay. - [xh3b4sd]
+
+Humans have to agree on a lot of different things in life, every single day.
+Consensus describes what a group agrees on. The way in which we come to
+consensus is defined by a protocol, a set of rules that allow for complex
+behaviour to emerge. Nation states in the western world thrive for a protocol
+called democracy, which exists in many different flavours. Blockchain networks
+mostly utilize the two most prominent consensus mechanisms called Proof of Work
+and Proof of Stake. Both of those protocols work in fundamentally different
+ways. And when people talk about them, they often confuse the core of those
+protocols with a lot of different mechanisms that are blockchain specific at a
+moment of time. What I want to say with that, is that a child for instance is
+very different at a moment in time when we say that child is 3 years old,
+compared to that same child at a moment in time when we say that child is 9
+years old. The child is the same, and it is human every time we look at it, but
+its composition and ability may be vastly different across space and time.
+Looking at blockchain networks, they too evolve on a temporal arch, representing
+different values and expressing different behaviours at any given moment in
+time. Now, blockchain networks are supposed to be reliable and never change in
+some very important ways. We expect from a blockchain that nobody may change its
+history, because that very history may say that I own 10 tokens of something
+valuable. And anyone changing that history may take those 10 tokens away from
+me. The way in which blockchain networks guarantee that nobody can change this
+history is called consensus. This week, let us look at one of those two
+consensus mechanisms below.
+
+---
+
+Proof of Work as a consensus mechanism provides everyone participating in the
+network with a puzzle to solve. The purpose of this puzzle is to proof to
+everyone that you did something very difficult. The nature of this puzzle is
+therefore mathematical. Solving this mathematical puzzle in the context of PoW
+implies to process a lot of digital calculations in order to find the required
+answer. And since we wander the digital realm, we need powerful computers to do
+this work for us. As we can imagine, powerful computers require a lot of
+electricity to operate. So on a global scale the fundamental challenge for
+participants in PoW blockchains becomes to be the best at, at least one of two
+things. Either network participants have infinite electricity to their disposal,
+or computer chips able to solve an infinite amount of mathematical puzzles
+instantly. The kicker is that neither of those extremes can be realized today.
+In any event, there might be somebody out there who mastered the best technology
+at the time, providing that player with the fastest computer chips on earth. In
+a similar vein, there might be somebody out there who can afford to spend the
+most amount of energy on all of those PoW puzzles. Those dimensions would
+provide fundamental advantages to any one player. In consequence, every enabling
+force may end up being a vector for centralization. If you are the best at
+something, you dominate the game. Blockchains are supposed to remove that aspect
+of domination by effectively neutralizing it. That is where any consensus
+mechanism defines the rules to level the playing field. In an interconnected,
+capitalistic world, PoW tries to neutralize centralization vectors by utilizing
+commoditized resources. Those resources are electricity and GPUs. On average,
+high performance GPUs and cheap electricity is somewhat evenly distributed
+across various pockets on the surface of our planet. And that means that PoW
+blockchain networks like Bitcoin are relatively decentralized. Up to this point
+we only touched the consensus mechanism itself. We did not discuss any given
+moment in time of Bitcoins evolution. We did not even mention cryptocurrencies.
+We left out token issuance, difficulty adjustments and security budgets all
+together.
+
+---
+
+The great equalizers for Proof of Work consensus mechanisms are our ability to
+make fast GPUs and cheap electricity widely available. Though, those two things
+alone make no blockchain network. The incentive to participate in any endeavour
+are inputs and outputs, economically speaking. Humans only do something if their
+perceived output is at least equal to, or greater than the perceived input that
+they themselves sacrificed to begin with. That anticipated delta between the
+input provided and the output received is the reward that motivates any
+individual to expend any amount of energy. The incentive that we talk about here
+in the context of blockchain networks are token rewards that network
+participants may generate for themselves by acting honestly on behalf of the
+network that those participants are serving. That is then the mechanism by which
+BTC is mined when solving the mathematical puzzles that we began our story with
+above. Given the ability to mine BTC, there must be an underlying capacity or
+limit, to which extend those cryptocurrencies may be mined. And when we talk
+about Bitcoin's token issuance schedule, then we automatically talk about
+Bitcoin's security budget. Because Bitcoin is designed to spend ever more
+resources on mining ever fewer coins. A network's security budget describes how
+sustainable said network is at operating, and how good it is at securing itself
+over time. With higher operating costs and fewer rewards to mine, Bitcoin as a
+network always needed the value of BTC to go up in order to sustain its own
+system. One of Bitcoins challenges in the future will be to sustain its own
+system while fewer and fewer BTC rewards may be mined, all the while higher and
+higher operational costs must be covered. Economically speaking, the cost basis
+to produce 1 BTC steadily increases, and will reach a level of 100,000 USD in
+the near future. And once the amount of money that someone can get for a single
+BTC goes lower than the amount of money that it takes in order for any BTC to be
+produced, then Bitcoin as a Proof of Work network shrinks in its ability to
+operate and secure its own value proposition. All of that is to say that long
+term, Bitcoin's security budget is unsustainable, and it is almost certainly
+guaranteed that Bitcoin as it exists today, will not exist in ten years time
+from now. The irony of Bitcoin's security budget is its unique selling point,
+which is to never change. 21 million BTC is all there will ever be, and given
+this constant, at some point in the future Bitcoin will first stop to grow, and
+then start to diminish, because eventually there will be no value left for
+anyone to extract by operating the system. And at that point Bitcoin becomes a
+liability to operate, an unsustainable energy leak. Technologically it is
+possible to make Bitcoin fit for the future, but the irony pointed out above is
+that this means change, and fear, and uncertainty, and doubt. And nobody can
+tell how any of this will ever be worked out. Ask 5 people today how Bitcoin is
+going to address its security budget in the future, and you will get 6 answers.
+Proof of Work itself is a beautifully elegant mechanism, because it forces
+humans to battle with nature by a way of pure energy and math. But Bitcoin
+today, at a moment in time, is destined to fail, or change beyond recognition.
+One way or another, Bitcoin is going to be no more. And no amount of hand waving
+is going to change that.
+
+---
+
+The decentralization aspects of a blockchain network are incredibly important,
+and by consequence incredibly complex. Decentralization is a very technical term
+that expressed in the real world can mean a lot of different things. On a purely
+technical level, decentralization means "in many different places at the same
+time", as opposed to the opposite centralization "in a single place". So
+decentralization is the property of something happening concurrently across a
+broader spectrum across space and time. The relevant question for us to ask now
+is on which dimensions this property should be expressed in order to actually
+qualify as decentralized in the context of blockchain networks. And the answer
+is unfortunately that there is no single right answer. In fact there are
+multiple dimensions on which decentralization must be expressed simultaneously,
+but the degree to which every single dimension should express the property of
+decentralization may very well vary dramatically. The dimensions that interest
+us the most in this context are for instance geographic distribution, because we
+want our blockchains to be validated from many different places all around the
+world. Then there is the economic barrier to entry, which dictates who might be
+able to participate in validating a blockchain network. And that barrier must
+optimally be as low as possible, because the lower the barrier to entry, the
+more different people may be able to help validate the network in order to keep
+it honest for everyone involved. There is also the ownership distribution of the
+associated network token, which is relevant because a blockchain is of no use,
+if some single person or entity controls virtually all of its coins. And to make
+the 4 horsemen complete, we need to consider the structural architecture that
+allows a blockchain network to evolve and adapt across space and time. That
+structural architecture is of deeply cultural nature. And so, any social layer
+rooted in complacency or impotence may very well cause its governed systems to
+perish eventually.
+
+---
+
+In the spirit of all of the above, our number for the week turns then out to be
+5%, because that is the estimated amount of BTC owned by all Satoshi wallets.
+We can now go on to believe that this is a good thing because those coins will
+never move again, removing about 1 million BTC from circulating supply, and
+number go up. But, we can also believe that those coins will be the first to
+move once quantum computers manage to break modern encryption schemes, because
+that alternative version of our universe represents a real threat within the
+next couple of years. And then number go down. All roads lead to either death or
+change for Bitcoin in the near term future, and nation states governed by the
+most fallible, considering to put BTC into some kind of national reserve, do by
+my estimation not quite grasp the forces that they are meddling with. Until next
+time, let's try to get the big things right.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2019/0000519
