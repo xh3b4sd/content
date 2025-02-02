@@ -1,0 +1,147 @@
+MEMO W05 FEB 2025
+
+> The universe is dark by default. Making light is on you. - [xh3b4sd]
+
+"Dictum meum pactum" is the latin form of "my word is my bond". And with that
+promise comes an invisible social contract that must be honoured. Humans are
+inherently social creatures, which means that several trust assumptions are
+built right into every one of us. Social contracts work because of their implied
+reputational value. The word of a drunkard may be quickly dismissed in the face
+of a magistrate, because the reputation of either proceeds them. The proverbial
+skin in the game here does then describe the basic concept of Proof of Stake in
+its purest form. Proof of Stake is essentially all about having something to
+lose. And that very concept of an economical threat upon misconduct and
+dishonesty is called slashing. If you lie to me, then your reputation gets
+slashed by virtue of the underlying social contract between us. Once you lied to
+me, I have a harder time believing in your future trustworthiness. The
+socioeconomic principles that allowed human societies to thrive across the
+millennia turn out to be so fundamental and universal that some clever mechanism
+designers translated Proof of Stake into the digital realm in order to secure
+blockchain networks. Proof of Stake blockchains come in a variety of flavours.
+Some versions define different staking requirements, so that different amounts
+of economic value have to be staked or even locked for long periods of time.
+Some variations of PoS define their own centralization vectors explicitly by
+allowing the delegation to specific operators or validator sets. Others
+implement various mechanisms to do leader election, or define different roles of
+network participants all together like Ethereum's proposer-builder separation.
+Following into the footsteps of the previous Powerlaw memo, below we want to
+talk about Proof of Stake at its core, how staking compares to mining, and how
+Ethereum might differ from Bitcoin.
+
+---
+
+Unlike with Bitcoin, there are no mathematical puzzles to be solved in PoS.
+Staking is simply the act of committing collateral in a contract that is
+enforceable by some agreed upon set of rules. The collateral staked here must
+have tangible economic value, so that received rewards and slashed penalties may
+have the desired effect of incentivizing network participants to act honestly.
+We just established that PoS has a capital component that is economically
+relevant. That staked capital and its risk adjusted price of time dictate a
+certain amount of yield to be received for honest network participants. And were
+network participants ever to be found dishonest, then some or maybe all of their
+staked collateral may be slashed at once. That economic threat provides every
+network participants within the PoS context with a game theoretical dilemma.
+Being dishonest may result in an economic gain if an entity becomes able to
+deceive the majority of the network. That anticipated gain must then be greater
+than the potential loss of slashed collateral that the malicious entity has at
+stake. And that is fundamentally why PoS as a consensus mechanism is able to
+support blockchain networks that secure hundreds of billions in USD denominated
+economic value. Because there is no free lunch, and because the amount of money
+that one can lose is far more painful than the amount of money that may or may
+not be gained by trying to deceive other network participants.
+
+---
+
+Proof of Stake leverages core principles of the human experience, just like
+Bitcoin does, even though on different dimensions. Reputation on the PoS side of
+things has deep evolutional roots, because reputation is one fundamental aspect
+of human coordination. We can believe in something. Mathematics on the PoW side
+of things has deep roots in reality, because mathematics provides one
+fundamental framework to reason reliably about our understanding of the
+universe, and everything within. On the surface of it all, consensus mechanisms
+allow for coordination. How well any given consensus mechanism performs, or
+which consensus mechanism should be preferred is once again highly contextual.
+Saying that Bitcoin is better because it uses Proof of Work is like saying
+humans are better because they breathe air. It is a nonsensical statement to
+make, because not everything is breathing air, and the question everyone ought
+to ask is still this. Better at what? And why does that matter anyway? Fish do
+not breathe air. Fish extract oxygen through their gills. On the face of it fish
+rather look like breathing water, and even if that were to be wrong, then fish
+are still better swimmers than humans. What we try to express here is that the
+nature of any underlying consensus mechanism may not be definitively useful to
+judge the quality of any given blockchain network at a moment in time. So we
+have to look at other utility maximizing functions, if we want to figure out
+which blockchain is good at a particular use case, because all surrounding
+technical details and network configurations are distinctively selected to
+maximize those specific utility functions.
+
+---
+
+The narratives of the day are digital gold, chain go fast, and world computer.
+If you truly want a blockchain to provide you with anything that resembles
+digital gold, then said blockchain must be robust beyond doubt and in
+consequence never change. And as we mentioned last week already, the cost to
+produce a single BTC will eventually become larger than the value anyone can
+extract from the market in exchange. So the notion of never changing cannot be
+true in the fullness of time. If you truly want a blockchain to be very fast
+then you rely once again on a relatively small set of very powerful computers,
+opening up various centralization and therefore censorship vectors. The many
+tradeoffs underlying any world computer may be defined by a large set of diverse
+validators, allowing for the minimal acceptable network throughput of economic
+expressivity that cannot be censored. One beautiful aspect of Proof of Work is
+its most egalitarian distribution mechanism for initial token distributions
+while the underlying blockchain network is bootstrapped in its early days.
+Anyone can run some software, contribute economic security, and mine native
+token rewards over time. This is beautiful because in the early days the
+economic barrier to entry is so low that anyone with a laptop and an internet
+connection may participate. But far removed from its early days, PoW blockchains
+must either dilute their own value proposition via token issuance, or allow for
+economic expressivity to generate significant network fees. And Bitcoin as it
+stands today does neither of those alternatives. Solana set out to build a
+better Ethereum by maximizing one utility function and sacrificing another. That
+is all good and well, but this is also why Solana can barely be compared to
+Ethereum. Both leverage Proof of Stake, but either has a different vision for
+the future. In summary, Bitcoin doesn't even try to compete on economic
+expressivity, because it is fundamentally not a smart contract platform. And
+having that said, Bitcoin is then not even good enough at its own game, because
+Bitcoin cannot remain Bitcoin in the fullness of time. Period. Full stop. Fast
+chains like Solana trend towards centralization and have reliability issues on
+multiple dimensions. Ethereum is in fact the world computer, because of its
+large and diverse validator set, because of its liveness guarantees and because
+of its proven censorship resistance.
+
+---
+
+Consensus mechanisms serve a distinct purpose, that is mechanical by nature.
+Any other attribution of decentralization, security or economic value have to be
+made within the context of the underlying blockchain network and its own
+distinct value proposition. Proof of Work consumes many orders of magnitude more
+electricity compared to Proof of Stake. And any utility and second order
+consequence derived from all of that energy consumption, is not only temporary,
+but also irrelevant in the world we live in today. Bitcoin is not going to solve
+climate change by forcing the use of renewable energy. Ideas like pooling and
+rehypothecating resources are alive and well in all the blockchain ecosystems.
+We see mining pools on Bitcoin. We see delegated validators on Solana. And we
+see liquid staking services on Ethereum. We see restaking services and networks
+of networks all around us. And not only are the ideas the same, but also their
+consequences. And while it appears that everyone is essentially trying to build
+their own inferior version of Ethereum, we have to conclude that there is still
+no second best.
+
+---
+
+Our number for this week is about 10,000 solo stakers on Ethereum. We can't
+really know how many solo stakers there are on the network exactly, but recent
+statistics suggest that there is a range with 10,000 being the lower end of the
+spectrum. Solo stakers help Ethereum's decentralization profile, because
+thousands of individuals from all over the world help to secure Ethereum using
+widely available computer hardware on home internet connections. No individual
+can possibly afford to help secure Bitcoin today with a single miner. And if you
+then look at distributions of token ownership and network nodes, the case can
+arguably be made that Ethereum is more decentralized than Bitcoin, even though
+the devil is in the details. In any event, Ethereum continues to execute on its
+roadmap to serve the cryptographic world economy, while Bitcoin advocates are
+eagerly waiting for a greater fool to buy their coins, which does frankly not
+help anyone with anything. Milady.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2022/0001140
