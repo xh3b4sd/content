@@ -1,0 +1,124 @@
+MEMO W06 FEB 2025
+
+> I am a storm. I show you who you are. - [xh3b4sd]
+
+The rollup centric roadmap as implemented by the Ethereum ecosystem entails a
+promise. That promise goes as follows. Every L2 rollup will try out different
+business models and varying technology stacks, so that we are collectively
+experimenting with different approaches across the entire Ethereum ecosystem.
+The promise is then that some of those successful experiments originated on L2
+rollups, may find their way back one day to benefit Ethereum mainnet. Someone
+said recently that all of the L2 experimentation has not yet brought innovation
+back to the L1. And I am not sure if that is a fair assessment of the situation
+we are in today. From an engineering point of view, I can already see several
+angles on which research and development is shaped by a combination of dynamics
+unfolding on L1 and L2 alike. There is already some kind of cross-pollination
+happening when mechanism designers think about interoperability between
+different chains. The need of a single coherent user experience arises from the
+existence of fragmented L2 rollups. That by consequence shapes the future of
+Ethereum mainnet so that many different chains may be connected seamlessly one
+day, inheriting L1 security guarantees. We can see a similar picture looking at
+everything that has anything to do with zero knowledge cryptography. Various
+proof systems have been designed and built in order to make L2 rollups work
+today. Among others, Starknet, ZKSync, Taiko operate proof systems to ensure
+their own rollup integrity on top of Ethereum. All of those proof systems have
+vastly increased the ZK capabilities that we have to our disposal today. All of
+which was developed because of the rollup centric roadmap. One day all of this
+research and development will likely culminate in an L1 ZK native EVM, bringing
+all of the crazy moon math back home again. Another example of technology
+originating from a cross chain environment and then finding its way back home to
+Ethereum mainnet are so called intent based architectures. Somebody may fact
+check me on this, but I believe that intents as a technical concept originated
+from the problem of cross chain bridging, where solver markets have been
+leveraged in order to fulfil an economic desire between different chains. Those
+intent based architectures and solver marketplaces have already found their way
+to the L1 in the form of something like CoW Swap. What is basically happening
+inside of this product is the following. A user defines conditions for a token
+swap that they want to make. This is then the so called intent, a user defined
+outcome. CoW Swap does then create an onchain competition for any interested
+participant to solve for the proposed intent. At the end of competition stands a
+solver that has won the right to fulfil the user's intent based on its
+cryptographically guaranteed parameters. The result of this onchain competition
+is the guaranteed execution to the best possible price, free of toxic MEV. Many
+very large orders are conducted regularly via such intent based architectures on
+Ethereum mainnet already today. What we now can say in summary is that the L1
+does already benefit from all kinds of experimentations happening all across the
+L2 landscape. Chain interoperability, zero knowledge proofs, and intent based
+architectures are just a few examples that have already crossed the chasm. The
+cycle times that we are subject to here are longer for core infrastructure
+developments. But the benefits of networks of networks will permeate through the
+entire ecosystem eventually. ZK EVMs will enable a mainnet native ZK EVM one
+day. The entire UX debate across Ethereum land lead L2s to improve account
+abstraction standards as a unit. And thus the unified Ethereum vision is
+effectively driven by L2 fragmentation. One day it will all come together.
+Patience, Brother Bing.
+
+---
+
+Somebody asked the other day why Reddit has become so dominated by left-wing
+ideologies. I thought about it, and tried to come up with an explanation for
+myself. The following is a ramble of mine, which I am not quite sure what to do
+with. I am not sure how right or how wrong any of this is. In any event, here is
+how I tried to organize my thoughts. A system that allows anyone to occupy a
+position of power outside of the realm of society, attracts the lowest quality
+of character. The system we are talking about here is Reddit as a social media
+platform. Life is hard in general, and it takes a particular person to become
+completely removed from reality. And once you drop out of the real world, you go
+looking for meaning in darker places elsewhere. In other words, people without a
+real life and purpose got enabled to become the master of their own echo
+chamber, potentially leading people towards ever more incompetence. Because, if
+they had not been intrinsically incompetent in the first place, then they would
+not have taken on those self-reinforcing roles of doom. The people we refer to
+above are certain types of Subreddit moderators, and their abuse of power is
+reflected in their ability to dictate the application of rules and norms as they
+interpret them without any form of recourse or appeal. Subreddits can often be
+described as impenetrable dictatorships. And with that I am starting to think
+more and more that left ideologies require a certain distance from real life to
+begin with. Hubris can only thrive if the reconciliation with reality is absent.
+When you look around, most working class people, those who have to get up early
+and get something done in order to make a living, those people are predominantly
+on the right side of the political spectrum. Most plumbers are rather right.
+Most teachers are rather left. Almost all soldiers are rather right. And almost
+all academics are rather left. Your proximity to the brutal force of nature, the
+act of surviving itself may be what actually holds us in the balance. And so, we
+better not lose that. What I want to say is this. Autonomy and comfort are
+incompatible in a highly relevant way. The more you choose comfort in your life,
+the less autonomous you will become over time, because all comfort comes at the
+cost of giving up control to some higher force that you may not like very much
+eventually. Because once that higher force got a real tight grip around your
+neck, you will only be left to do its own bitter bidding.
+
+---
+
+If you are heavily exposed to social media, then this cycle appears to be
+dominated by people who try to extract as much value for themselves as possible.
+Looking at most charts, this story is easily believable. What I would rather
+like to focus on are the builders instead. Those people who have skin in the
+game. Those people who have a vision for the future. So this is to everyone who
+holds up some ideals. This is to everyone who keeps working on ideas that one
+day may change somebody else's life. In that was I have always thought of tokens
+as some kind of real estate. An ownership claim to something useful within the
+cryptographically enabled world economy. This is to the builders and mechanism
+designers. Lord knows the world needs you.
+
+---
+
+Our number for this week is 10, because the ETH dominance is down to almost 10%,
+while Solana throughout the most recent memecoin drama became now home to more
+than 10 billion USD in stablecoin TVL. Acquiring 10 billion USD in stablecoins
+is no small feat, not for any ecosystem. What is interesting here is the fact
+that despite TVL going up in Solana land, trading volume has been rather flat or
+going down on average. This is particularly funny when we consider that all of
+the historic wash trading and fake volume generated was touted as capital
+efficiency. And now that real people appear to move real money onto the chain,
+one of Solana's most important metric doesn't move. It is almost as if trading
+volume is not the only metric that really matters for a blockchain network. In a
+similar sad picture, the ETH dominance at almost 10% wouldn't be anything to
+worry about if overall crypto-economic activity would inspire more confidence in
+the future growth of this industry. I think we will certainly get there one day.
+And so for now we are maybe just left with one of those days during which it
+feels like nothing much is going quite in the right direction. We know for a
+fact this sentiment is not true. And so our feelings may rather reflect the
+quiet before the storm. Until next time, dear reader.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2019/0000299
