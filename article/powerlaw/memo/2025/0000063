@@ -1,0 +1,125 @@
+MEMO W07 FEB 2025
+
+> We did not evolve to see reality, we evolved to survive. - [xh3b4sd]
+
+Repeating the same characteristics across different scales is a very common
+phenomenon that can be observed everywhere in nature. When you are not taking
+good care of your own body, then you are probably not taking good care of your
+home either. If you have a dirty kitchen counter all the time, then you will
+probably have quite a messy life in one way or another too. A very distinct
+property, and be it yet so small, may cause ripple effects from the micro into
+the macro structures of our lives, our world, and our universe. The Math Wizards
+amongst us may already realize that we are talking about fractals here. Fractal
+patterns become visible by ever repeating geometric shapes, visualized by the
+notorious Mandelbrot Set. Fractals literally rule everything around us. We can
+see them in the shape of broccoli heads, ice crystals, lightning bolts, neural
+networks and even in the arrangement of galaxies across the observable universe.
+Fractals enable the world, from small to big. In a similar fashion, paying
+attention to detail helps us to get the big things right. Based on studies in
+psychology and behavioural economics, we know that people commonly neglect
+details due to several cognitive biases and environmental factors. Humans often
+prefer to focus on rather broader patterns instead of specific details, because
+they perceive those details to only have minimal impact on overall outcomes. I
+understand how people arrive at those conclusions, because an increasingly
+complex world causes decision fatigue simply based on ever higher cognitive
+loads. Humans need to utilize shortcuts in order to navigate the world. But the
+decision as to what constitutes a valid and rather sustainably useful shortcut,
+separates those who tend to succeed in life, from those who tend to fail. I am
+not here to proclaim what is right or wrong. I am here to point out that the
+best roof is no use without a solid foundation. I am here to point out that
+parenting advice from people who have no children is rather useless. I am here
+to point out that, unsurprisingly, there is a causal relationship between cause
+and effect. One comes before the other. Big builds upon small. If anyone out
+there is still thinking that MEV counts as revenue, then we shouldn't be
+surprised to wake up one day, finding ourselves surrounded by short term games
+within an extractive player versus player environment. Call it Crime Chain.
+Blockchains evolve from, and into fractals too. L1s for instance are like single
+cells, or single servers. They are integrated and optimized for performance
+within their own range of control. But they can only get so big or so useful on
+their own. Eventually, they will crumble under their own weight. The universe
+consists of fractals of fractals. And so it should not come as a surprise that
+the digital realm consists of networks of networks. Which is then also why the
+rollup centric roadmap, as pursued by Ethereum, will eventually prove to be the
+right approach for the cryptographically enabled world economy.
+
+---
+
+Every so often we talk about the concept of an action space within the context
+of mechanism design. Let us explore what an action space is and why it is
+important in order to understand complex systems. An action space simply defines
+one or many actions that are possible to execute within any given environment.
+The physical reality that humans live in is constraint by the action space of
+physics. Colloquially we are then referring to the laws of physics. We can only
+do what we are physically able to execute. Therefore we cannot move faster than
+the speed of light, and our bodies are subject to gravity, wherever we go.
+Above we mentioned the laws of physics, which is a bit of a misnomer, because
+laws and rules typically have the purpose of artificially constraining the
+available action space within society. And in the case of physics, those laws
+are in meaning exactly equal to the action space defined by our physical
+reality. To our knowledge, the laws of physics are not artificially constraining
+the physical action space. In this case, the laws of physics rather accurately
+describe what is possible and what isn't. Note that we are only referring to the
+proven facts of what we know to be true when we talk about physics. For the sake
+of this argument, let us ignore all the wild theories of unproven
+multidimensional universes, whether they have strings attached or not. The point
+I would like to make here is the differences between rule sets and action spaces
+as they play out everywhere around us all the time. The difference that
+interests us here is the delta between what is allowed and what is possible.
+Those two notions are not the same. And mechanism designers usually learn this
+the hard way by getting their DeFi protocols exploited for millions upon
+millions of United States Dollars. As a side note, and as reported by DeFi
+Llama, in all of 2024 alone, we registered about 1.25 billion USD in losses due
+onchain related hacks and incidents. Most of these losses are typically incurred
+due to insufficient protocol logic and infrastructure related failures. So it
+turns out that we can put a number on the difference between the allowed rule
+set and the possible action space. And that number for all of 2024 is in fact
+one and a quarter billion US Dollars. The rules of a smart contract and its
+underlying blockchain network try to enforce how you as a user are supposed to
+behave. If the associated mechanism design is strong, then this rule set encoded
+in smart contracts will be very good at forcing some desired user behaviour. But
+if the associated mechanism design is flawed, then the encoded rule set allows
+for a gap that bleeds into the onchain action space, effectively allowing for
+unintended behaviour to be exercised, which then may result in financial losses
+for the underlying protocol and its users. It is like the difference between
+combat sports and human conflict. One supersedes the other in entropy. Training
+how to behave during a knife fight may have not much to do with the reality of a
+real knife fight. Because what most combat sports are actually teaching you is
+not so much how to win a fight, but rather how not to behave. The later almost
+always implies that not to fight is the real win. Taking it even further,
+knowing how to prevent a likely fight from happening in the first place, and
+knowing how to not get caught up in situations that may culminate in a real
+fight eventually, those kinds of strategic foresight are what separates adults
+from children. Related here is then also the importance of mechanism design.
+Because understanding complex systems is usually not to create or become the
+apex of its kind, but simply how to survive and prevent disaster and certain
+death. All fancy ideas at the speed of light and all preparedness for knife
+fighting situations typically go out the window at first contact with reality,
+once somebody comes along with a bigger stick. Mechanism design rules everything
+around us, because all that matters in this world, is what you can and cannot
+do.
+
+---
+
+28 billion USD is the number of the week, because this is the amount of onchain
+trading volume generated on Solana over the past 7 days. Why bother? I wanted to
+highlight the amount of trading volume here this week, because the typical
+comparison of trading volume is usually made between two distinct chains. It is
+always Solana vs Base, Ethereum vs Solana, Base vs Arbitrum etc. But what we
+have not yet realized as an industry is the fact that chain specific metrics may
+not be too relevant anymore in a world in which we build networks of networks.
+Solana generated 28 billion USD in onchain trading volume over a 7 day period as
+a monolithic system. But what also generated the exact same amount of trading
+volume, and that is the funny part about it, is the entire Ethereum ecosystem
+measured by L1 and all of its L2s. The takeaway here is that the onchain trading
+volume between the Solana and the Ethereum ecosystem is actually equal, which
+most dashboards and hot takes on Crypto Twitter do not acknowledge just yet. I
+believe that there will come a time when blockchain infrastructure and onchain
+apps have matured to the point where normal everyday users cannot tell the
+difference anymore between using one chain over the other, because then
+everything will just work. In that brave new world, it won't matter which
+configuration of AWS instances served a user transaction. What will rather
+matter in this brave new world will be the onchain equivalent metrics of hours
+watched online versus cable. Maybe try to pay a bit more attention to detail, as
+to getting the big things right one day.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2025/0001351
