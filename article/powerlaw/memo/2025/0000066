@@ -1,0 +1,169 @@
+MEMO W10 MAR 2025
+
+> Most people live in yesterday. Only few live in tomorrow. - [xh3b4sd]
+
+I was today's years old when I understood the ETH value accrual thesis that the
+Ethereum researchers are pursuing using blob space. And the way to explain it is
+to understand a statistical principle called the Law Of Large Numbers. A better
+way to put it would be "the law of many samples", because what the Law Of Large
+Numbers tells us something like the following. The average of ever more
+observations will reflect the true value of a system ever more precisely.
+
+---
+
+Here is a classic example for approximating the average result of dice rolls
+based on many observations. In plain mathematical terms we would describe the
+average result as `(1 + 2 + 3 + 4 + 5 + 6) / 6 = 3.5`. By approximation the
+average of the first couple observations will be far off that expected value.
+But with ever more dice rolls, the average result adjusts ever closer to the
+true value. More samples give us a better idea of the underlying intricacies of
+the system at hand.
+
+---
+
+We can think of many more examples in which the average of many samples gets
+closer to some underlying truth. A coin flip may be not so fair in a single
+toss, but heads will eventually come up just as often as tails does. Measuring
+the size of animals can provide sufficiently reliable estimations about a
+species. The insurance and gambling industries make heavy use of the Law Of
+Large Numbers, as well as everything involving signal processing, because
+approximation by many samples allows us to reasonably predict the output of a
+system due to ever decreasing error variations.
+
+---
+
+Understanding that increased scale of a system provides more predictable error
+rates can then help us to understand how a relatively small system today may
+perform as a big system tomorrow. And that brings us to the realization I just
+had a couple of days ago. Ethereum's focus on blob space turns out to be very
+much aligned with high levels of ETH's potential for value accrual.
+
+---
+
+When we talk about blob space in Ethereum land, then we talk about data
+availability, or short "DA". Data availability is a very technical way of saying
+that the data that blockchain networks are supposed to verify, is guaranteed to
+be there in the first place. Because, if data does not exist, it cannot be
+verified. And because all of this is about blockchain networks, what really
+matters is the quality of the underlying block space.
+
+---
+
+Not all DA is created equal, and so some forms of DA will become commoditized,
+but some forms of DA will not. The commoditized versions of DA will be
+relatively cheap and relatively weak in the sense that more or less trust
+assumptions will have to be made when using those cheaper versions. The superior
+form of DA will always be limited, because it will always be natively integrated
+in the underlying system. Ethereum's native way of providing data availability
+for rollups is now described as blob space, a separate fee market to store
+rollup data. Justin Drake mentions once in a while that DA will never be
+commoditized. And what he means by that, is that the most secure DA will never
+be commoditized, because Ethereum's ability to provide data availability is
+simply limited, even at larger scale.
+
+---
+
+Now that we have a lot of the fundamentals out of the way, let's get to the
+point where value is in fact accruing back to ETH the asset. The demand driver
+for DA is always in parts related to the underlying security context. And even
+though blobs provide a superior form of data availability, blob space is
+surprisingly free for the most part, up to a point. And that is just a very big
+head scratcher for a lot of people out there. How can you possibly make money by
+giving something away for free?
+
+---
+
+Well, Ethereum doesn't reinvent the wheel here. There are several common
+economical principles that we are leveraging in order to generate demand and
+capture value in the process. We can summarize most of those principles using
+the concepts of freemium margins and network effects. And the calculation is
+pretty simple once we understand one thing: all free blob space will always be
+used. That in itself creates network effects, which in turn causes block space
+contention, which is just a fancy way of saying that everyone wants to post data
+at the same time. Once everyone posts data at the same time, blobs get "full",
+and Ethereum experiences usage spikes that are then revenue generating. Those
+usage spikes appear to be meaningless today, because we only have 3 free blobs
+per block. So far I was also of the opinion that blobs will not generate
+meaningful revenue ever, because we barely ever go over that freemium range in
+blob usage. But I was missing an important detail in the equation: scale.
+
+---
+
+The usage patterns of blob space are in fact fascinating to visualize. When we
+check blob space usage on some Dune dashboard, then all we see is a more or less
+flat line around the free range of currently 3 blobs per block. And with that
+little fluctuation there is barely any meaningful revenue generated today. The
+trick about the blob space strategy is simply scale, which is the way in which
+Ethereum is going to leverage the Law Of Large Numbers in its favour. Because
+scale increases the absolute size of a relatively small value.
+
+---
+
+Here is a nice way to think about it. Blob usage causes contention spikes above
+the water line. The water line of a small pond is pretty flat. But the water
+line across the deep ocean can become rippled with pretty big waves. Orders of
+magnitude more economic activity may burn billions of USD in blob fees alone
+every year, even if most blobs are free, because deep waters make for big waves.
+By my estimation, Ethereum could eventually burn over half a million ETH tokens
+consistently every single year. All estimations aside, more economic activity
+sampled over longer periods of time will inform us ever more accurately about
+the potential output of the underlying system.
+
+---
+
+And just to hammer that point home, almost all economic activity on top of
+Ethereum L2s will always be almost free, all the while we have the potential to
+generate billions upon billions in revenue flowing back to ETH. The reason that
+this is likely to work is because all the ocean of freemium blobs below the
+waterline remain free. So the vast majority of consumers can be served using
+superior bock space, while paying almost nothing for it. But that will only work
+if we generate economies of scale so that the little contention we produce pays
+for everyone else's free lunch.
+
+---
+
+Additionally, the costs to use L2s will remain in their own equilibrium because
+of the amount of free blobs per block. And then, L2s too will scale even further
+by themselves. They will become more efficient over time, and in the process
+become better at serving more users. Just like Base is scaling 1 M/g per week.
+
+---
+
+It is only the contention above the free range that causes price discovery in
+the blob markets. And the larger the amount of used free blobs, the larger the
+contention in absolute terms above the waterline, while keeping the relative
+size of blob usage spikes relatively small.
+
+---
+
+Another way of visualizing those principles of scale would be something like
+this. Compare the skin of an apple with the crust of the earth. The apple is
+small, and so is its peel. Planet earth on the other hand is far larger and
+therefore its crust is also way thicker. The relative sizes of the apple skin
+and the earth's crust are very similar respectively. They are proportional. But
+the absolute size of the crust of the earth is many orders of magnitude larger.
+
+---
+
+Today we are burning blob fees to the extend of the apple skin. Tomorrow we may
+remove far more amounts of ETH tokens from circulation by way of burning blob
+fees, but only if the economic activity on top of Ethereum uses hundreds or even
+thousands of free blobs per block one day. This is why the security context of
+Ethereum's blob space is so incredibly important. Because this very security
+context is one of the most important drivers of block space demand in Ethereum.
+Most people out there do still not understand why decentralization and MEV
+matter so much. By my estimation, Ethereum gets it right already today. Time
+will tell how any of this will play out. Maybe the reason why we can see all of
+this here so clearly before everyone else, is because we are already living in
+the future. I mean, just maybe.
+
+---
+
+The number of the week is simply 1. And that is because of something that nobody
+is telling you about. What nobody is telling you, is that Ethereum, despite
+being "abandoned", is once again number 1 in daily and weekly onchain volumes.
+That is a reference to the stark activity decrease that Solana is now
+experiencing again as the latest hype chain falls out of favour again. Turns
+out, crime wasn't the answer after all.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2020/0000843
