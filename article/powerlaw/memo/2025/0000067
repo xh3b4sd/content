@@ -1,0 +1,180 @@
+MEMO W11 MAR 2025
+
+> Information is not fair. Information is asymmetric. - [xh3b4sd]
+
+Information as a concept is one fundamental part of our universe. It describes
+how some thing is configured or looks like. The way you appear in the mirror is
+described by the information content of your DNA and its subsequent biological
+expressions. The way you look is defined by information, encoded by many
+biological functions. The way we speak as humans is described by information
+too. The shape of the sounds and words and sentences that we produce are all
+configurations, specified by the information content encoded in our language.
+
+---
+
+Nothing can be described without information. And the signals allowing us to
+perceive any information do often only provide incomplete representations,
+because signals are lossy channels of information content. Signals are a way to
+consume information, more or less completely. Information content is a concept
+describing that parts of a signal are useful, and that information can be gained
+by consuming it. We are human, and we are naturally inclined to maximize some
+utility function. In the context of information theory, that means that we are
+usually trying to maximize the information content or information gain of a
+system.
+
+---
+
+Once we understand the concept of information gain, we can see it in many
+aspects of our lives. The foundation of any game is the information content that
+allows its players to either win or lose. Any information theorists out there
+may want to weigh in on the following take. Regardless, I would say that all
+games are games of imperfect information, exactly because future behaviour of
+other players or the environment are uncertain. There are many interesting
+dynamics to discover amidst various game designs, because games can be complete,
+incomplete, or imperfect in information. All the fascinating game designs aside,
+what we want to look at a little bit closer this week are real world
+applications of maximizing the information gain of a system.
+
+---
+
+Information theory has a concept of increasing the information gain by some
+clever mechanism. Several thought experiments exist in the form of logic
+puzzles. One of them is called the "12 ball problem", which poses the following
+question. Given 12 equal balls, of which only 1 has a slightly different weight,
+and given a balance scale, what is the minimum amount of weighings required in
+order to find the odd ball?
+
+---
+
+The least efficient way to go about this problem may also result in the highest
+possible resource consumption. We could simply weigh 11 of the 12 balls against
+any random ball and find the odd one of the lot eventually. This approach comes
+with a lot of variation in its performance profile. Sometimes it takes 7
+weighings, rarely 1, and in worst case 11. The naive sequential approach does
+not provide any execution guarantees. So what do Senpai?
+
+---
+
+I wanted to discuss this problem because the solution to the problem requires
+the kind of thinking that is usually only found outside of the colloquial box.
+Our objective is to maximize the information gain, because that automatically
+implies to maximize the execution performance and subsequently minimize resource
+consumption. Weighing every ball separately results in the smallest possible
+information gain per weighing. The outside of the box thinking approach would
+then maybe be to weigh all the balls at once. And when we do that, then we
+effectively create batches of resource constrained processes, which reduces the
+amount of operations necessary in order to complete a task. And if we can do
+that, then we are also increasing the efficiency of the system.
+
+---
+
+The way in which we define our batches must be strategic to some extend. For
+instance, we would want to minimize the cases in which we are weighing the same
+ball multiple times. But that by itself does not tell us how large our batches
+should be. An indicator might be the amount of distinct information gains
+achieved per operation, because that amount can be the basis of our batching
+formula. A balance scale has two sides. We have to way one thing against
+another. The distinct amounts of gained information per operation is therefore
+2, because we learn about the order of two items in comparison relative to one
+another. 2 is then already greater than 1, which is a pretty big deal if we were
+to execute some operation infinitely often for eternity.
+
+---
+
+What is so fascinating about the 12 ball problem is not only the information
+gained by the actions that we are doing, but also the information gained by the
+actions that we are not doing. Weighing one batch against another tells us how
+two batches compare. And the question for us is whether we should just weigh a
+random selection of 6 balls against the other 6, because it turns out that this
+approach would result in a slightly reduced information gain per operation
+compared to the optimal strategy.
+
+---
+
+Let's break down how 6 vs 6 would fare. With a total of 12 balls, the only
+possible outcome of the first 6/6 weighing is tilt in either direction, because
+the odd ball can now only be on either side of the scale. The second weighing
+would then split the tilted balls into a 3/3 weighing. The third weighing would
+then weigh two random balls of the tilted 3, where the possible results are two
+times tilt, plus one times balance, each of which refers to only a single ball.
+The information gain of the first weighing in this case is 50%, because we ruled
+out one half of the population. The second weighing rules out another 25%,
+leaving the third weighing to solve for the last quarter, where something
+remarkable may happen. If the third weighing produces a balance, then that
+process itself hasn't provided any direct information gain, because both balls
+are of equal weight after all. But the information inferred by the lack of
+information gain tells us that the last ball that we did not weigh on the third
+try must be the odd one, simply because we have ruled out the rest of the
+population at this point already. We utilized knowledge of an action that we
+have not done on the last try. And it is pretty cool that something like this is
+even possible.
+
+---
+
+The optimal solution though is slightly more efficient, because it utilizes
+knowledge of an action that we have not done on the first try, instead of the
+last one. The secret lies in the way in which we can craft our formula to derive
+the optimal batch size to start with. Remember, a balance scale gives us two
+clues at once, and if we can, then we should also choose to gain information
+without doing anything for it. That means 2 clues of an action we are doing,
+plus 1 clue of an action we are not doing, gives us an optimal 3 clues per
+weighing. Every clue is associated with a batch, and having 3 batches across a
+population of 12 provides us with a batch size of 4 if my math is strong today.
+
+---
+
+Let's break it down once more. With a total of 12 balls, the outcomes of the
+first 4/4 weighing is one of two tilts and one balance. The balance case gives
+away the clue of the action that we did not do. From here the second weighing is
+simply a 2/2 in any event, and the third weighing is a straight forward 1/1. The
+4/4 approach allows us to rule out 66.66% of the population at first trial.
+Utilizing all characteristics of the environment provides us with over 16% more
+efficiency at the start despite having smaller batches to begin with, which in
+itself may save a lot of money on day.
+
+---
+
+Batching for efficient information gain is a widely adopted primitive across all
+walks of life. Medical diagnostics run tests against batches of samples in order
+to rule out large amounts of clients at once. Epidemiologically most samples are
+usually negative anyway, and so most batches are too. The few batches that
+result in a positive test can then be dissected with more effort individually,
+but only if there is a real reason to expend more resources on individual
+samples. Binary search algorithms split sorted lists in ever smaller halves for
+fast lookups that do not require the verification of every single item. And
+last, but not least, fraud proofs bundle blocks of many transactions so that
+only the minority of fraudulent transactions require in-depth verification.
+
+---
+
+Any form of hash tree allows any root hash to be verified efficiently within
+distributed systems. And as long as everyone computed the same root hash, no
+more work has to be done in order to provide certain verification guarantees of
+the underling system. Only a conflict in root hash verification triggers more
+workloads to be executed. In a similar fashion, zero knowledge proofs generate a
+single cryptographic proof that guarantees the correctness of an entire batch of
+computations mathematically. That way validating every single step of a large
+set of transactions is not necessary anymore. Verifiers can then easily check
+the relevant zero knowledge proof in constant time, regardless of the underlying
+batch size.
+
+---
+
+And this, ladies and gentlement, is then also exactly how we scale Ethereum. The
+largest, economically useful smart contract blockchain network, home to over 130
+billion USD in stablecoin TVL. Every other day I am flubbergasted by the sheer
+amount of intellectual property constantly generated on top of Ethereum, most of
+which is economically relevant. These days the Eigenlayer ecosystem is firing on
+all cylinders, leaning heavingly into trust minimized autonomous agents. AI that
+is for you, dear reader. Narrative traders and proponents of overvalued
+infrastructure projects can go eat dirt, because agentic onchain banking is
+about to unfold on the public blockchain with the strongest security guarantees.
+
+---
+
+All of the above brings us finally around to the number of the week, because
+BlackRock's BUIDL fund is now sitting at over 1 billion USD in TVL, of which
+roughly 83% are managed on, you guessed it, Ethereum. There is no second best,
+Michael Saylor. Bring it on.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2022/0001145
