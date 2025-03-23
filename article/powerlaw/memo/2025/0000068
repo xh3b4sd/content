@@ -1,0 +1,181 @@
+MEMO W12 MAR 2025
+
+> Putting energy into a system and getting value out of it are two totally
+> different things. - [xh3b4sd]
+
+Energy has driven civilization ever since like no other force. The degree to
+which humans can produce and harness energy has created global superpowers like
+never seen before. The ability to make any process more energy efficient is the
+driving factor behind our technological progress as a species. The Kardashev
+scale classifies civilizations based on their ability to utilize the energy
+within their surrounding environments. Type one civilizations can utilize all
+available energy of their own planet. Type two civilizations can utilize all
+available energy of their own star. And type three civilizations can utilize all
+available energy of their own galaxy. For us today it is unthinkable how we
+could even utilize all available energy of our home planet. And that is not for
+a lack of trying.
+
+---
+
+In our day and age we are governed by systems that sometimes mandate the saving
+of energy, which is probably the right insight, but has lead to entirely wrong
+conclusions over and over again. Saving energy for energy savings sake does only
+have the consequence of using less energy. And all things equal, having less
+energy as an input results in less productivity as an output, which is
+predominantly what we have seen happening in Europe over the last two decades.
+The mandate of saving energy as it has been implemented so far, has therefore
+been detrimental to achieving any of society's actual intents and purposes. We
+are not better off today as a system, and even worse, we have become exploitable
+from within.
+
+---
+
+If we want to save energy, then we have to grow our way out of this problem by
+advancing technological progress, because only technological progress can enable
+us to do more with less. And if anyone is really interested in lifting up
+everyone in society, then technology is our only best friend.
+
+---
+
+Our ability to produce electricity has come a long way, but the mechanisms to do
+that are still very crude at times. The absolute level of our sophistication is
+basically to heat up water hot enough, so that steam can physically turn the
+crank of a generator. The vast majority of our electricity production works by
+means of electromagnetic induction. This mechanism is so primitive you literally
+just have to spin that thing. We have also figured out how to harness
+photoelectric conversion via solar panels. But all together, those two methods
+pretty much summarize the extend of our ability to produce usable electricity.
+
+---
+
+The systems used to produce energy go through state transitions that cause lag
+effects. We cannot just go from 0% to 100% and expect instant power production
+at just the right level. And so, energy production has to be scaled up and down
+incrementally. At the same time, we are particularly inefficient at storing
+energy, which brings us to the concept of using blockchains as a temporary store
+of energy. We are going to make the case that this absolutely fantastic idea is
+not at all as brilliant as it may sound in the first place, because it either
+doesn't work, or it won't last.
+
+---
+
+To set the stage, when we produce electricity, then we often produce more than
+can be put to good use at the time. The energy grid must always be oversaturated
+in available electricity, because the lack of supply may cause cascading grid
+failures that can lead to wide ranging blackouts. Producing more than we need is
+not efficient, and it surely does not allow us to save energy by any measure. We
+are then trying to divert excess energy towards any available alternative for
+energy storage or revenue generation.
+
+---
+
+Historically people tried to make the case for mining Bitcoin with surplus
+energy, and we still hear about similar initiatives once in a while, all aiming
+to better manage peak loads within electricity grids. Localized experiments have
+helped power grids to manage peak load better and safe billions of USD, but
+current estimations suggest that Bitcoin is used in less than 1% of such cases,
+making it virtually irrelevant at global scale.
+
+---
+
+The Proof of Work type of load management is also a rather inefficient approach,
+because you replace one inefficient aspect of energy production with another
+inefficient way of energy production. And then, in Bitcoin's case, managing peak
+loads by way of mining BTC does only work as long as the market value of the
+coin is higher than the cost to produce it. And Bitcoin is designed to become
+more inefficient as the years pass by, which by some people is somehow
+considered a feature. All of that is to say that there is a time window during
+which Bitcoin may be used to manage peak grid loads, but that window will close
+in a matter of years, simply because the network is bound to become too
+inefficient eventually, causing it to crumble under its own load.
+
+---
+
+Now, I wanted to know if there are any active efforts to store surplus energy
+temporarily in Ethereum blockspace, and the short answer is no, because that
+doesn't work for several reasons. But let's take a step back and describe what
+we would try to achieve here. The idea would be that there is a blockspace
+market, and that people could acquire blockspace rights while gas prices are
+low. And those blockspace rights could then be exercised when gas prices are
+high. With that we would effectively create a temporal blockspace swap. Sounds
+pretty cool, right?
+
+---
+
+One flaw in that idea is that energy must be converted into a digital form of
+value first. And only Proof of Work blockchains allow the direct conversion from
+physical energy into economic value. So the gap between excess energy and gas
+for blockspace would still have to be bridged in very inefficient ways. So,
+Proof of Stake blockchains like Ethereum cannot help with this particular energy
+conversion problem at all.
+
+---
+
+We could simply purchase ETH for gas when peak load is high, but that approach
+in itself is flawed for several reasons. When peak load is high, then the supply
+of electricity is higher than the available demand. That means power is already
+cheapest during peak loads, which is a negative in itself because we are already
+bound to be inefficient. Selling cheap power for ETH may result in further
+energy losses along the way, because the price of ETH may very well move against
+us temporarily. And then all we have achieved is to purchase a token with excess
+energy, while what we actually needed in order to conserve energy onchain was to
+acquire blockspace itself, not the means to buy it at market price like everyone
+else.
+
+---
+
+What would be necessary is a protocol native mechanism that allows for temporal
+blockspace swaps, so that cheaply acquired blockspace rights can actually be
+exercised in an expensive blockspace environment. And as fascinating as this
+idea may be, it would still not alleviate the world's struggles for intermittent
+energy storage. This is because blockspace is limited and rather inelastic. What
+we mean by that is the following. There is only a fixed number of blocks
+generated every so often, and no external mechanism can modify that schedule.
+The only thing that external forces can influence about blockspace is the level
+of its contention, which refers to the amount of transactions that want to be
+part of the same block at the same time. All of the technical challenges aside,
+even if we could store energy in blockspace, we could only store so much of it
+at a time, because Ethereum mainnet is not designed to scale elastically to the
+extend that peak loads may require.
+
+---
+
+We could now argue that L2 rollups may introduce temporal blockspace auctions,
+and that multiple networks may be able to swap blockspace rights between one
+another. That is also a fascinating idea, but it doesn't appear to be practical
+either. The fundamental problem behind temporal blockspace swaps is the fact
+that we try to add more stress to an already stressed system, while at the same
+time we are unwilling to pay for the bottlenecked resources. The point of it all
+is to execute for cheap when execution is expensive. But the reason that
+execution is expensive, is exactly to protect the system from overloading. And
+so temporal blockspace swaps combined with peak grid loads would actually mean
+that we move the peak load of one system into the peak load of another, which
+all together sounds more like an unmitigated disaster from a mechanism design
+point of view.
+
+---
+
+Blockchain networks may be good for humanity. They may lift up generations of
+people and redefine the ways in which civilization governs itself one day.
+Blockchains might be incredibly well suited for myriads of market based
+experiments, and one day they might even cure cancer. But for all we know today,
+temporal blockspace swaps are the wrong conclusion, given the genius of their
+insight.
+
+---
+
+3.5% is the number of the week this time around. And here is the story
+explaining what it represents. Bitcoin is digital gold. Ethereum is home to
+almost all stablecoins. Comparing gold with money in the United States we can
+see that the US gold reserves equate to roughly 750 billion USD, if we are
+generous. The M2 money supply, which includes money market funds and retail
+deposits under 100,000 Dollars, is estimated to be somewhere around 22 trillion
+USD. The price pool that Bitcoin is playing for does only account for about 3.5%
+of the money within the US economy. And that does not even account for economic
+activity induced by the velocity of money itself. We also have not included
+second order effects that these types of economic systems bring with them, which
+all together would imply another differentiating factor of 10, dear reader. In
+summary we can say this. Bitcoin was the idea. Ethereum is the execution. Even
+if temporal blockspace swaps don't work.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2020/0000603
