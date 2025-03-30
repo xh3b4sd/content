@@ -1,0 +1,159 @@
+MEMO W13 MAR 2025
+
+> The opposite of wrong in a multi dimensional system is not necessarily
+> right. - [xh3b4sd]
+
+Ethereum is the world computer, providing anyone with very compelling properties
+of hardness. For that reason, Ethereum is home to most stablecoins, which are
+just one form of tokenized assets, or RWAs, if we would call it real world
+assets. Everyone is now excited about RWAs, because the institutions are finally
+coming. Ever since Donald Trump's election last November, the regulatory shift
+favouring innovation opened the door for crypto as an industry. We are open for
+business.
+
+---
+
+With everyone's excitement, new narratives are spun up left, right and centre.
+What is the next play? How can this make me money? Who is most to benefit from
+the regulation induced sea change unfolding over the next couple of years? We
+are referencing many interesting data points here in the Powerlaw Memo every
+week, showing how dominant Ethereum is persistently across various onchain
+categories. In most relevant ways, Ethereum leads the way in basically all TVL
+related metrics all over DeFi.
+
+---
+
+Now that RWAs are the new trend, everyone's expectation is that most of the
+upcoming tokenization will simply continue to unfold on top of Ethereum, first
+and foremost. In that sense, liquidity begets liquidity. The question though
+remains in what ways ETH as an asset may benefit from all this institutional
+adoption in terms of increased utility and eventually price appreciation.
+
+---
+
+However we want to look at the problem statement, what has to be optimized from
+any perspective is some kind of utility function. From the perspective of
+Ethereum as a public blockchain network, the utility function is defined by
+something in the order of liveness, verifiability and censorship resistance.
+Those are round about the dimensions that vast amounts of Ethereum researchers
+and builders care about. From the perspective of ETH as a financial asset, the
+utility function is defined by something like unit of account, medium of
+exchange and store of value. Those are roughly the dimensions in which ETH may
+realizes its value accrual over long periods of time. And from the perspective
+of RWA issuers as profit maximizing businesses, the utility function evolves
+simply around doing better business so that shareholders remain happy.
+
+---
+
+The above describes a complex system nobody can reliably predict. In all what we
+do here though, we can get pretty far if we only get the direction right. One
+directionally relevant point that has been made about ETH's value accrual is the
+idea that ETH will be further used as base trading pair for any tokenized asset.
+The logic of the argument would then be that more tokenization binds more ETH in
+liquidity pools, effectively acting as supply sinks, which makes number go up.
+
+---
+
+At face value, nothing is used as base trading pair just because. Not even ETH.
+The decision to chose a trading pair is made by liquidity providers who may be
+motivated in different ways. Some may just want to keep their tokens productive,
+which is by no means a free for all when the token at hand is a free floating
+asset subject to price volatility, because impermanent loss is not your friend.
+Onchain studies have shown time and again that most liquidity providers lose
+money due to fees, MEV, DEX-CEX arbitrage and volatility induced impermanent
+loss.
+
+---
+
+Granted, almost all tokenization today is being done for US Dollar backed
+stablecoins. So let's ignore all the issue above for the sake of this argument.
+The mission remains the same, token issuers want to find more and better
+opportunities to propel their businesses forward, so that they can earn more
+money. And that opportunity is publicly available in our beloved DeFi money
+legos. This industry provides rehypothecation primitives that make all TradFi
+panties wet. We provide instantaneous access to a global customer base allowing
+national institutions to increase their reach dramatically all around the globe.
+There are availability, efficiency, transparency and counterparty benefits that
+DeFi provides almost for free. But none of the above makes ETH more valuable, if
+ETH is not bound to any of the resulting business practices.
+
+---
+
+Today we are living through the return of fundamentals, and there must be a
+compelling reason for ETH to become a major player in the battle of base trading
+pairs, which overall is a cutthroat business itself. I was curious now and
+looked at the 24 hour volumes of the top 10 liquidity pools in Uniswap, Curve
+and Balancer. Note that the 24 hour volume metric was most comparable. What I
+found onchain was that ETH as part of any pool in the top 10 realized a trading
+volume of 0.742 billion USD within 24 hours, whereas other pools not involving
+ETH produced about 1.033 billion USD respectively. That means ETH is already a
+base trading pair with a market share of 74% in onchain trading volumes.
+
+---
+
+What matters most in our analysis is the fact that ETH as the native asset
+within Ethereum mainnet does already enjoy huge network effects, which we can
+expect to persists. And with that comes a big fat BUT. Once again, the insight
+here is correct, but the conclusion is wrong. If we were to extrapolate linearly
+based on a single data point in time, then we could get all kinds of lofty
+valuations for ETH's future price appreciation. But more tokenization on top of
+Ethereum does not magically imply similar increases in ETH related trading pair
+activity or price appreciation for that matter. Those relationships do not scale
+linearly. We could likely add 1 trillion USD of tokenized assets on Ethereum and
+the effect on 24 hour trading volume involving ETH may only double from 1 to 2
+billion USD. That would be a 5:1 ratio in TVL/Volume terms where those two
+dimensions are already highly asymmetric based on their nominal values. And I
+think that ratio itself is A) quite generous and B) doesn't scale linearly
+either due to diminishing returns.
+
+---
+
+The TVL/Volume relationship and adjacent debates about what is more important is
+as old as blockchains themselves. And it seems only few do understand that TVL
+and Volume do not follow much of any predictable relationship of first order.
+BTC for instance has a TVL dominance across all of crypto below 60% while
+running a negative security budget, which is to say BTC does not generate any
+more value onchain despite being valued the most nominally per coin. That in
+itself makes no sense whatsoever. Solana flips this picture on its head because
+there is only about 10% of Ethereum's TVL on Solana while that network in its
+heyday generated sometimes multiples of Ethereum's volume on a daily and weekly
+basis. We have seen many Solana shitcoins with a market cap of 100k USD
+generating 300 million USD in daily trading volume. And whether we call this
+wash trading or capital efficiency doesn't change the fact that SOL can't keep a
+market cap above 100 million USD for 3 days straight. I mean, with inflation,
+that might be doable one day, and I am sure they are on their merry way.
+
+---
+
+Value and price are not the same, just like TVL and Volume are independent
+phenomena. Neither can provide us with a reliable idea of future value accrual
+in isolation. And so what we are left with is simply good old mechanism design
+in order to figure out how anything works. What we can always rely on are second
+order effects within complex systems. And whether we look at TVL, Volume or
+merely price, all of those dimensions benefit from network effects once a
+certain threshold is crossed. And whether it is Ethereum, Solana or Bitcoin,
+each will continue to benefit from their very own second order effects in their
+own right. For this very reason, any attempt to compare one with the other will
+likely fail to produce any compelling evidence for determining the better or
+worse, because this is all just apples and oranges. You buy them for very
+different reasons.
+
+---
+
+Our number for the week is 56%, which is World Chain's monthly market share of
+smart wallet activity across the entire Ethereum ecosystem. This type of
+activity is the very kind of second order effects we were discussing above,
+because network effects beget network effects. ETH's value accrual matrix is
+multi dimensional, which is a negative if you try to do the elevator pitch, but
+which is a big fat positive if your price pool is the cryptographically enabled
+world economy. Trading pairs saturate quickly because there is really only this
+much liquidity that you need, which is exactly why the returns that we get
+diminish very quickly, if we expect trading pairs to be a means of supply sinks
+for ETH. Just more TVL may not have any reasonable effect anymore on certain
+types of trading volume. The case we can make though in any event is that
+Ethereum is the infinite garden, and within that garden ETH is the real estate.
+Ever more buyers will find ever more sellers in an asymmetric world that keeps
+increasing its utility function across multiple dimensions simultaneously. Focus
+on tending the garden, and let a thousand flowers bloom.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2020/0000654
