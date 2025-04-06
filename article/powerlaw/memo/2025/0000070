@@ -1,0 +1,176 @@
+MEMO W14 APR 2025
+
+> Only you can carry the fire. Only you can stop the rain. - [xh3b4sd]
+
+In this Powerlaw Memo we are going to take a look at utility functions and
+pricing models with respect to Ethereum's scaling roadmap. And this time we are
+going to frame our problem statements through the lens of [Gravitropic
+Topologies]. People are still losing their minds about ETH's value accrual, and
+as long as this is the case, we are going to cover the topic like a ballerina in
+the wind. Just with our mechanism designer glasses on, of course.
+
+---
+
+Let us rehash some basics first. Ethereum's scaling roadmap is based on networks
+of networks. Like the internet, many networks of computers interact with one
+another in complex ways, as if the entire thing was a single organism. In that
+sense, Ethereum mainnet is a network, which we call the base layer, or L1. And
+all the L2 rollups are also networks, all settling to Ethereum mainnet. This is
+the mechanism by which L2s can optimize their own networks based on their own
+preferences of tradeoffs, while enjoying the best kind of economic security.
+
+---
+
+All of that economic security is provided at a relatively small cost, which all
+L2s happily pay for today, because they are getting a pretty good deal. The unit
+economics involved here make up a pretty big chunk of the motivations for any
+blockchain network to join the party. We could argue that the utility to cost
+ratio is extremely high. And we could further argue that any well designed
+system would operate exactly like that.
+
+---
+
+But now ETH didn't pump to infinity and a lot of people who thought they could
+get rich quick based on the efforts of others are writing angry tweets on the
+platform that used to be known as twitter dot com. And as we can imagine,
+everyone has an opinion about possible solutions for our ETH value accrual
+problem. This is not to disparage the marketplace of ideas. We need to have many
+ideas in order to find the right path forward. This is especially true because
+most ideas aren't really that good if you make the effort to think them through.
+In any event, our differences are not what divides us, but what makes us better
+as a community. This is what we must thrive for, for the base layer and for the
+social layer alike: antifragility.
+
+---
+
+Those are the days of US tariffs, because the US government tries to balance its
+own household deficit. One of the lesser useful ideas thrown around now is to
+impose something like tariffs on L2 rollups, so that they pay their fair share
+for the sake of value accrual back to ETH the asset. On the surface we see an
+imbalance, and the first emotional reaction is to cut off the arm that is
+already bleeding anyway. Who doesn't fondly remember the good old days during
+which doctors, the beacons of society, commonly practiced bloodletting in order
+to rid us of all the evil spirits tormenting our bodies. Tinkering with price
+controls like a real communist is exactly the same kind of energy in my book.
+This is not how anything works.
+
+---
+
+Countries are not blockchains. And so geopolitical tensions may require
+different approaches than ordinary business decisions. That is especially true
+for the technological industry which caused mechanism design to become a real
+thing in the first place. At this point we are entering the realm of gravitropic
+topologies, which allows us to view any complex system based on a simple
+question. Where are all the gravitational centers?
+
+---
+
+What we are looking for are local pockets of energetically dense behaviour. In
+other words, we are looking for some kind of inflection points within tensions
+or dichotomies. Thinking about our problem statement, we can then quite quickly
+see that there are at least five correlated dimensions of interest. Those
+dimensions describe our centers of gravity in terms of gravitropic phenomena.
+The mentally challenged may already bamboozled. But fred you not kunpan. We are
+going to splain. Our five dimensions to consider right now are price, demand,
+utility, cost and loyalty.
+
+---
+
+Price is easy. That is the thing we care about, because price is the dimension
+telling us how much worth ETH is at market rate. We want number to go up. Demand
+is easy too. That dimension is the only thing apart from supply that is directly
+mechanistically linked to price. We want demand to go up too, because the
+positive correlation between price and demand tells us that more demand
+increases price. Then we have utility. This dimension describes how useful
+something is, which is linked to demand with another positive correlation. That
+means something is in higher demand the more useful that thing is. Cost is our
+fourth dimension, which is the property that the L2 tariffs crowd is talking
+about so passionately. An ugly but pretty important detail here is that cost is
+negatively correlated with demand. That is to say that people want less of
+something if that thing becomes too expensive relative to the perceived utility.
+And the fifth of our gravitropic dimensions is loyalty. The degree to which an
+L2 is aligned with Ethereum and ETH describes whether there is ultimately demand
+at all. So loyalty is the end boss here. Loyalty is not only very sticky, but it
+also shapes utility functions and pricing models, until its gone. If we push
+loyalty over a certain threshold, then all demand will be lost forever.
+
+---
+
+Now that we established the relevant centers of gravity, their connections and
+correlations, we can go over the implications of pricing models and get an idea
+about the efficacy of L2 tariffs. People want to increase costs now. Increasing
+costs reduces the gravity of demand and loyalty. In the case of L2s we can see a
+very special relationship between demand and loyalty, because loyalty forces
+demand to be sticky too. The problem here is two fold. Loyalty can only inhibit
+the gravitational effects on demand for so long, because increased costs
+deteriorate loyalty itself. And loyalty is a force that doesn't come easy. Once
+it is broken it is incredibly hard to heal.
+
+---
+
+At this point we should also have noticed something else. Increasing costs
+hasn't increased price at all. If anything, all we have achieved with price
+controls was to reduce the hardness of the system by way of reducing loyalty and
+increasing trust assumptions. Once the door opens for the incompetent to play
+god within a system that they don't understand, it's downhill from there. We are
+being told that L2s must pay their fair share. We are being told that making
+Ethereum more expensive will be good for ETH. But that is frankly not how
+anything works. Because I am old enough to remember that we set out to scale
+Ethereum exactly because it was too expensive to use.
+
+---
+
+Utility functions and pricing models are negatively correlated. Price controls
+are the worst kind of interventions because they attack the integrity of any
+given system. So instead of taking something away from somebody else, instead of
+tinkering with forces beyond our control, we need a better approach for ETH to
+make number go up. The optimal solution for our problem can of course also be
+explained by gravitropics, and for some readers the answer we are looking for
+may be shockingly obvious.
+
+---
+
+The conclusion, the optimal solution, is the approach of maximizing the utility
+function of our system. Utility is the dimension that market participants are
+willing to pay for voluntarily. And utility is the thing that increases demand
+universally based on pure market dynamics. Utility is the thing that caused L2s
+to become aligned with Ethereum in the first place. And make no mistake. What
+can be corrupted, will be corrupted. That is a tale as old as time. Utility is
+positively correlated with demand and loyalty. If we make something more useful
+then it will simply be more sought after. That is the attack vector we should
+all be focusing on. Make that damn thing more useful. Nothing else matters.
+
+---
+
+Once again most people seem to have the right insight but draw the wrong
+conclusions. And it is so irritating to me how common it is for people to invert
+their shallow conceptions of the world by simply confusing inputs with outputs.
+We need our systems to become ever more competitive, because that is the
+gravitropic dimension that is most energetically dense after all. In other
+words, the same kind of competitive dimensions are inversely correlated against
+one another, because one gravitational center of competence forces another to
+higher the bar, or perish within the free market.
+
+---
+
+Even further, the colloquial gravity of the matter is that the world around us
+is changing. It always does, whether we are here or not. And entropy is changing
+only in one direction within the competitive dimension, which is upwards. And it
+doesn't matter whether you like that or not, or whether you want to remove
+yourself from those forces all together. Sure, you can sit back and let others
+carry the fire. But it goes without saying. If you don't come to war, then war
+will come to you. I hope that this will never happen to anyone, ever. In any
+event, it is better to be a warrior in the garden, than to be a gardener in war.
+
+---
+
+90% is our number of the week. This is the share of tokenized treasuries that
+BlackRock's BUIDL fund has issued on top of Ethereum mainnet. That is 1.8
+billion USD in nominal terms. It looks like the big boys find Ethereum pretty
+useful after all. And maybe that has something to do with utility too. I mean,
+just maybe, you know. Don't forget that our plans are measured in centuries. The
+world needs the most credibly neutral base layer for global coordination. NASDAQ
+onchain is an app. Ethereum is the world computer.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2024/0001286
+[Gravitropic Topologies]: https://protocol-particles.github.io/Phenomena/Gravitropy
