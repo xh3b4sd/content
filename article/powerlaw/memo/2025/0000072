@@ -1,0 +1,173 @@
+MEMO W16 APR 2025
+
+> You don't want money in the bank. You want money in the system. - [xh3b4sd]
+
+There is often the argument that ETH is not used for anything meaningful. And I
+always find it somewhat irritating to hear such statements. First, meaning is
+subjective. What you and I find meaningful, given our very own world view, may
+be very different. And second, the statement that ETH isn't used in quite
+meaningful ways is simply not true. This week we are going to look at all the
+different ways in which ETH is used across the onchain economy. And doing that,
+we are going to look at all the different ways in which ETH accrues value by
+increasing its own utility function. Today ETH has a market cap of roughly 200
+billion USD. This in itself is a respectable size for any system to command. And
+not only are 200 billion USD very respectable, but also is ETH criminally
+undervalued, considering that the world economy will become ever more onchain.
+
+---
+
+The native unit of account within the Ethereum ecosystem is ETH the asset. The
+gas price for block and blob space alike is denominated in ETH. That means
+transaction settlement and data availability are two main drivers of ETH's value
+accrual. About 75% of DEX liquidity is denominated in ETH or ETH derivatives. So
+the deepest liquidity pools do naturally evolve around ETH as the base trading
+pair. Ethereum derives its economic security from staked ETH, which is subject
+to slashing upon dishonest behaviour. And with that, all of Ethereum's crypto
+economic security guarantees are denominated in ETH too. Those security
+guarantees are further being exported via restaking, which expands Ethereum's
+real estate even more by enabling versions of economic activity that are not
+fully expressed onchain.
+
+---
+
+The native medium of exchange within the Ethereum ecosystem is then also ETH the
+asset. All ETH denominated products and services as described above require ETH
+to change hands. In a world of account abstraction, user operations may be
+executed by paying for gas with any token, or maybe even without the user
+knowing about any transaction cost whatsoever. But none of that changes the fact
+that Ethereum validators receive ETH for transaction inclusion and that economic
+security is denominated in ETH after all. It is often interpreted as a negative,
+that user's don't need to hold or know about ETH in the first place when using
+the onchain economy. But account abstraction is a superpower in this regard,
+because it allows ETH to permeate through all layers of society without anyone
+having to really worry about it. Contrary to popular belief, rollups and
+stablecoins are not parasitic. They are Ethereum's trojan horses, because they
+allow for the expansion of Ethereum's real estate, far and wide. Imagine we
+would force everyone to hold ETH in order to use the chain. That kind of pipe
+dream would be dead on arrival. Account abstraction or not. ETH transfers are so
+significant, they do typically show up in the top 3 of the burn leaderboard.
+
+---
+
+ETH is the store of value for Ethereans, people who believe in the future of the
+onchain economy. Any store of value must retain the value provided for long
+periods of time. Admittedly, ETH was not able to maintain purchasing power so
+far over several significant time frames. And that turned ETH into a speculative
+asset that most people do not believe in. The numbers we know today don't lie.
+But it is my belief that the numbers of tomorrow, the numbers of the coming
+years and decades, will prove ETH to be an economically relevant store of value
+with significant upside potential, exactly because major aspects of the world
+economy will become ever more tokenized.
+
+---
+
+An often overlooked aspect of Ethereum's modularity is that companies like
+Coinbase participate in the network in order to process their own business
+specific transactions efficiently. The economic activity in the Coinbase case is
+that trades of digital assets have to be settled on Ethereum. That specific
+business activity generates so much value for Coinbase that they are running
+thousands of validators in order to guarantee inclusion of the transaction flow
+that they generate. The value driver for ETH in this case is then the extension
+of Ethereum's real estate through real world business use cases. The integration
+between the offchain and the onchain world is a real positive sum aspect in a
+future that becomes ever more onchain. Coinbase doesn't participate in network
+validation for the staking rewards. I would argue that Coinbase would run the
+same amount of Ethereum validators even if they would yield zero additional
+capital, simply because network participation enables Coinbase's core business
+of operating a digital assets exchange.
+
+---
+
+Staking pools and distributed validator platforms do arguably provide their
+services for the yield, which is the amount of staking rewards issued by the
+Ethereum network. We often hear comparisons about the centralization of Bitcoin
+and Ethereum through the coordination of pooled resources. The truth of the
+matter though is that Bitcoin operates a far more centralized network than
+Ethereum does, for two critical reasons. One, three or four mining pools control
+the vast majority of hash power. And two, a mining pool is the colocation of
+GPUs, which are all stored and operated inside the same building. The
+decentralized protocols enabling staking pools on Ethereum are on the other hand
+used by a myriad of different staking operators, all having different
+preferences for geographies and software stacks. Staking might appear to
+represent a centralizing force, but the actually implemented mechanism design of
+staking providers like Lido and Rocket Pool are true facilitators of
+decentralized staking primitives, all of which bind enormous amounts of ETH for
+the long term. Think of it this way: staking pools are Ethereum's permafrost.
+
+---
+
+Rollups are the native scaling solution for Ethereum. We are building networks
+of networks. And in all of crypto, we did it first. Every rollup is running a
+dedicated onchain economy secured by Ethereum. Rollups are another superpower of
+Ethereum, because they allow for credibly neutral settlement of cryptoeconomic
+activity, based on the operational preferences that any given business use case
+may require. The validator set of your rollup can be permissioned or
+permissionless. The scalability properties of your rollup can be adjusted to
+your specific needs. Rollups are free to chose their preferred virtual machine
+and gas token. And rollups are free to chose their regulatory and privacy
+policies for the transactions that they themselves want to facilitate. Ethereans
+do certainly prefer ETH to be used as gas token on rollups. That is one aspect
+of what we call Ethereum alignment. But we should argue that a thousand flowers
+rather bloom, instead of prescribing top down purity tests. Ethereum needs to
+lean into the competitive market and favour 100 smaller rollups over 2 big ones.
+In any event, rollups expand Ethereum's real estate and export ETH as money.
+Whether you agree with it or not. This is facts.
+
+---
+
+ETH is the most pristine collateral all across DeFi. And with that we should
+also mention that DeFi originated on Ethereum, and that 95% of DeFi happens on
+top of Ethereum. No memecoin washtrading on Solana can change that. The reason
+for this dominance is because ETH is credibly neutral onchain money. If it's
+your keys, then it's your ETH. In Aave alone there are about 25 billion USD
+supplied in collateral, of which almost half is denominated in ETH and ETH
+derivatives. ETH the asset is part of the DeFi money lego complex. Its usage and
+utility will only increase from here, while both of these aspects perpetuate one
+another all across the cryptographically enabled world economic.
+
+---
+
+Smart contract blockchains enable new primitives for internet native
+applications. And all of those expand Ethereum's real estate. Today we can
+already see several social media platforms and gaming ecosystems, all building
+more accessible and equitable consumer apps on top of the credibly neutral
+substrate that is powered by ETH. Onchain native businesses like Farcaster and
+Zora increase the amount of ETH in user wallets and the provenance of ETH in
+every additional block space secured. Tokenization is the latest darling of
+traditional finance. BlackRock has over 2 billion USD of short term treasury
+notes tokenized on Ethereum. The majority of the stablecoin complex is settled
+on Ethereum too. All of those use cases expand ETH's economic real estate, which
+means that all of those use cases add to ETH's value accrual.
+
+---
+
+We can already see several state and business treasuries that treat ETH as a
+viable capital asset. Those institutions have realized how the future will most
+likely look like. DAOs and pension funds alike, they all carry the spirit of the
+strategic ETH reserve. And none of those entities cares about the toxic noise on
+crypto twitter. Because Ethereum is built by those with skin in the game. Not
+those who only complain about the efforts of others.
+
+---
+
+Onchain has become more than just money. Onchain can be about finance and
+speculation, but more so it can be about community, content, tickets, branding,
+collecting and every other possible permutation of production and consumption in
+an interconnected world that becomes ever more digital. Real world businesses
+have only recently started to integrate with Ethereum on more serious terms. In
+the past, business were simply not allowed to operate onchain for bogus
+regulatory reasons. But US corporations got the green light now to integrate
+with public blockchains. And many of them want to do it because Ethereum allows
+them to create more value for their business. Merging traditional businesses
+with the onchain economy will expand Ethereum's footprint by orders of
+magnitude. All of those expansions open up many different supply sinks for ETH
+to be utilized at the end of the day. And the emerging properties of this very
+onchain economy will be so much larger than the sum of its parts.
+
+---
+
+27.6 trillion USD in stablecoin volume was processed globally in all of 2024.
+And 95% of that volume was settled on Ethereum. It goes without saying, but,
+there is no second best.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2021/0001047
