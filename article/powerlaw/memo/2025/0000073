@@ -1,0 +1,191 @@
+MEMO W17 APR 2025
+
+> Layers of defence and layers of conviction. Find asymmetry and understand your
+> target inside out. This is how you exploit systemic upside. - [xh3b4sd]
+
+DeFi frontends provide access to the onchain economy. They are the Stargate into
+a new dimension. The entrance to the realm of decentralized finance. But at the
+end of the day, DeFi frontends are just websites that run on servers. They are
+inherently centralized and carry substantial trust assumptions with them. For
+that reason we have to assume that all frontends are compromised. And so all of
+the involved problem statements are fundamentally about operational security.
+Because exposing our private keys to attackers may upend our livelihood within a
+single transaction.
+
+---
+
+Here in the Powerlaw Memo we often talk about things that will always be true.
+And just like all frontends have to be considered compromised, it will always be
+true that nothing will ever be 100% secure. Security is about layers of defense.
+Security is about the arms race between establishing, maintaining and
+circumventing the defensive capabilities of a system. That challenge leaves
+mechanism designers with a vast playing field. And the most important thing for
+either player on that field is to leverage all the ways in which certain
+asymmetries can be exploited, whether they are meant to defend or attack.
+
+---
+
+All websites run code. This will probably always be true too. And the kind of
+code that is most relevant for us within the visible side of the internet, is
+Javascript. All Javascript code is written on some machine, and all websites are
+served over the internet, which means that there is an entire supply chain of
+complexity between the laptop of some developer and the browser of some user on
+the internet. It will then also always be true that there are uncountable attack
+vectors within that very supply chain.
+
+---
+
+In principle, all supply chain attacks are initiated where sensitive information
+is shared. Think about all the points of contact where you share your own
+information, or the information of someone else. Imagine all the situations in
+which you interface with the world. Theoretically, all those points of contact,
+all those interfaces, may provide an attacker with the opportunity to gain
+access to privileged data like production credentials or private keys. The way
+in which we share and move and transform information is therefore critical to
+our survival amidst the dark forest.
+
+---
+
+Let's look at some practical examples of information security. As software
+engineers we should not have privileged credentials on our machines. It bears
+far too much risk for sensitive data to be casually slung around on all kinds of
+developer laptops. Because downloading the wrong PDF may be all it takes to
+compromise some DeFi frontend. Even further, people come and go in an
+engineering organization. And every time somebody leaves the company, you have
+to rotate all production credentials, if those are exposed to third party
+machines on a regular basis. Rotating secrets is good, sharing them beyond the
+production environment itself, is not.
+
+---
+
+There is in fact no technical reason to store infrastructure passwords locally.
+Direct machine access should be rare and then temporary. Read access may be
+useful sometimes in order to debug an incident. It is 2025, and write access to
+production machines should maybe never be granted in the first place. If there
+would ever be a reason to manually manipulate a remote server, then a dedicated
+private key should be generated on demand under multi factor authentication.
+That process should then also involve some chain of command in military
+parlance. And once the machine access is not needed anymore, the privileged
+private key should be verifiably destroyed. We could even imagine to monitor the
+existence of such privileged private keys in order to record the history of such
+exceptions.
+
+---
+
+The way in which we share secret data matters. Sensitive data should not be
+shared using everyday text messengers, even if those applications claim to be
+end-to-end encrypted. Because even if they are, it takes one stolen phone, or
+one wrong message to the wrong contact, and an entire ecosystem gets
+compromised. Here we should pay attention to the details, because the details of
+protocols matter. All protocols work until they get tested. And the real test is
+usually carried out under pressure, at 03:00 in the morning, fighting two
+incidents at once, while getting angry customer feedback from the other side of
+the planet. There is no reason to do this to ourselves.
+
+---
+
+Information security is a house of cards. If you want to do it right, you have
+to build it brick by brick, with a solid foundation. Getting the big picture
+right is actually not too hard. What matters most for secret sharing is simply a
+reasonable password manager as the source of truth and point of contact for all
+sensitive information. And from there credentials should only be applied where
+they are required for some privileged software component to function properly.
+The rest of the system can then operate on the basis of authenticated
+interfaces. Those interfaces can then become our layers of defense to guard
+privileged internals. That way deployments may not be triggered by pushing
+arbitrary code directly to some production environment, but by enabling a
+version number that has been vetted and registered within the system itself
+through all those layers of defense. None of this has to be slow when executed
+either. Because everything can be automated, and in a perfect world, we just
+push on green.
+
+---
+
+The perfect world described above is still not any guarantee for success.
+Supply chain attacks penetrate all components and dependencies across the entire
+stack. Dependency management is a particularly hairy problem domain because most
+websites depend on many many third party libraries, most of which are unaudited
+and ever changing. Nobody knows, and nobody verifies all the things that third
+party code is doing. One of the many best practices employed by software
+engineers is to test behaviour of an app in an automated way. The big problem
+though is that threats do not arise from the functionality that we test, but
+rather from the ones that we do not and cannot test at all. This is simply due
+to the fact that the action space of turing complete environments is near
+infinite, while we can only test so much. All of this is a long winded way of
+saying that the best dependency is no dependency, which is another of those
+things that will always be true.
+
+---
+
+Backend applications have the big advantage that they are executed within a
+centralized and controlled environment. Once setup and automated, one day we can
+maybe even reliably verify that the right code is being executed correctly
+without any interference. Frontend applications are not that fortunate, because
+they are delivered and executed in many variations of decentralized and
+uncontrolled ways. Some of the contributing factors here are many different
+devices like laptops and phones, many different software stacks like operating
+systems and browser versions, and many different delivery systems like ISPs and
+cloud platforms. On top of all of this complexity we have to work with
+Javascript, which is interpreted on every new website visit and user
+interaction. That means code is unverifiably executed at runtime over and over
+again without any indication of what else may be happening in a browser window.
+Our websites today are frankly an unmitigated disaster from a security point of
+view. And the nature of the Javascript ecosystem does unfortunately not really
+promote any kind of high standards either, when it comes to operational
+security. At this point we have to ask ourselves: how on earth are the lights
+still on?
+
+---
+
+We have actually come a long way ever since the first days of the internet. And
+history suggests that we are just getting better over time. That is essentially
+a bet on all of mankind. The one thing that we have going for us is the deep
+understanding that this here is indeed the dark forest. Mechanism designers
+understand the nature of complex systems, including many of their relevant forms
+of MEV. Think of mechanism designers as the Navy Seals of information security.
+To be a mechanism designer in their own right is simply the choice of wanting to
+be better tomorrow. It is simply the act of being honest, and the attempt to
+protect what is most important to us.
+
+---
+
+There are many different ways in which we can design systems that are resilient
+and self-healing, if not even antifragile. There are many different ways in
+which we can create layers of defense for ourselves and for the systems we
+operate. And there are actually just a few guiding principles that we have to
+lean on in order to be better off eventually.
+
+---
+
+Decentralization is one of those principles, and it enables many useful
+mechanisms, if designed right. At its heart, the open source movement is
+decentralized. All kinds of people create and maintain all kinds of software in
+a way that allows the broader ecosystem to harden and flourish. Secret sharing
+has become a discipline of information theory, which all of the internet is
+based upon. Multi factor authentication is an out of band verification mechanism
+that is extremely effective at preventing single points of failure across all
+kinds of domains. Decentralized command is a leadership principle that enables
+military cells to accomplish the most challenging missions under the most
+atrocious circumstances. And finally, blockchain networks allow all of mankind
+to rethink and restructure the art of governance and the way in which we are
+allowed to live, not just as citizens, but most importantly, as human beings.
+
+---
+
+If we want to leave this planet better than we found it, then leaning more into
+decentralization is what we all ought to do, regardless our skin colour and
+religious belief. And with that we make a hard cut for the number of the week.
+
+---
+
+Originally I wanted to share here that blob space became the burn leader on
+Ethereum mainnet over the past 30 days. That in itself is quite the achievement
+for a blockchain that has been pronounced dead uncountable times in the past.
+Though I cannot but declare "1" to be our number of the week, because Base
+dethroned Arbitrum for the first time ever as largest L2 rollup by TVL, with
+almost 12 billion USD onchain. And what's crazy to me is that 30% of that TVL is
+actually denominated in ETH according to L2Beat. Given all of that competition,
+and given all of that ETH exported to rollups, L2s don't look that parasitic to
+me after all.
+
+[xh3b4sd]: https://github.com/xh3b4sd/content/blob/master/philosophy/2021/0001080
