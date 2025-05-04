@@ -11,6 +11,8 @@ and demand. Who is then to say how much anything should be worth anyway? How
 hard is the money of networks and nations? And what has the gold standard to do
 with all of that?
 
+---
+
 The notion that anything might be of value is as old as time. Barter existed
 ever since there have been humans on the scene. Gold was used as store of value
 for about 5,000 years. Formal money was developed roughly 3,000 years ago.
@@ -18,11 +20,15 @@ Humans virtualize enterprise ownership for over 400 years by now. And as
 impactful as the information age has been so far, the tokenization of everything
 has literally just begun.
 
+---
+
 What we want to further focus on here is the way in which nation states and
 blockchain networks define their monetary policies. In particular we want to
 look at the gravitational centers of those types of economies, because their
 [Gravitropic Forces] do effectively define the economic behaviour of any given
 system.
+
+---
 
 Let's start with the nation state and the establishment of the gold standard act
 in the year 1900. The mechanism designers of the day wanted to create a money
@@ -33,6 +39,8 @@ stability. And up until 1971, gold provided that very stability for the US
 Dollar. In this picture, gold was the external factor that determined the value
 of the nation's money.
 
+---
+
 It turns out that even stability comes at a cost, because what is yet so stable
 may not adapt very well to periods of crises. Subsequently the gold standard was
 abandoned, because the backing of gold restricted monetary policy too much. So
@@ -40,6 +48,8 @@ much so that the government was not able anymore to respond to sea changes like
 wars, depressions and the changing world order. In technical terms we would say
 that the system wasn't very flexible or elastic, so it couldn't adapt to change
 very well.
+
+---
 
 On top of the above, the gold standard had one mechanistic flaw that nobody ever
 talks about. The global gold supply was effectively determined by externalities
@@ -53,12 +63,16 @@ is not much left of a nation's sovereignty. The power struggles playing out here
 are of extraordinary geopolitical consequence, none of which help a nation to
 establish hardness.
 
+---
+
 The search for an optimal monetary policy eventually created systems of money
 printers and zero interest rates. And the further monetary policy strayed away
 from hardness, the more was there left to be desired. That very desire lead to
 the irony of our story, because it lead to the creation of a technology that was
 built to compete with all of those problems of hardness. Irresponsibility lead
 to competition, and competition brought us blockchain networks.
+
+---
 
 Blockchain networks define their own monetary policy using tokens that are
 algorithmically issued one way or another. The boundary conditions of the
@@ -71,6 +85,8 @@ self sustaining economies produces a hardness that the nation state can simply
 not compete with. Blockchain networks were the first hyperstructures that
 codified monetary policy in their own programmatic constitution.
 
+---
+
 The relationship between the nation state and its own money supply is at times
 artificially inverted by creating more money in order to fight more crises. More
 money now may help to solve a problem today, but that very solution comes at a
@@ -79,6 +95,8 @@ described in this example may appear to be elastic, but the question we have to
 ask is which part of the system is actually expressing those properties of
 elasticity. Because elasticity, similar to hardness, unsurprisingly, comes at a
 cost too.
+
+---
 
 A nation's money supply is artificially held elastic in order to provide overall
 system stability. What we then have to realize is that the elasticity in money
@@ -94,6 +112,8 @@ looks like everything is just fine, but security budgets do eventually matter.
 And the only way out of this vicious cycle is a very painful portion of
 prolonged austerity.
 
+---
+
 A network's money supply is programmatically held elastic in order to minimize
 trust assumptions. That is only possible because the monetary policy of
 blockchain networks cannot be compromised by the first crisis showing up on the
@@ -104,6 +124,8 @@ compared to the nation state. The more supply there is created, the less healthy
 the network becomes. But if the network grows, the more supply it can generate
 in order to increase its utility function. This uninverted correlation between
 supply and network is the desired default behaviour.
+
+---
 
 And so, market based reductions in money supply are inherently healthy for
 networks, but excruciatingly painful for nations, because nations can typically
@@ -118,12 +140,16 @@ for the infamous burn in the long run, which increases the value proposition of
 its own money, the more it is being used. Ethereum expresses hardness when it
 becomes ultra sound in the most relevant way.
 
+---
+
 Nations and networks both seek to establish hardness, but nations prefer
 economic stability while networks prefer economic elasticity. Treating the
 inputs and outputs of a system properly has the effect of redefining that
 system's utility function. This conclusion is not to dunk on the stability that
 governments try to provide, but rather to outline credible paths towards
 hardness for programmatic economies.
+
+---
 
 And with that we make a hard break for the number that we picked for this week.
 400 user operations per second are performed across the entire Ethereum
